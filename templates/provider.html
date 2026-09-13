@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="{{LANG}}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{TITLE}}</title>
+<meta name="description" content="{{DESC}}">
+<link rel="canonical" href="{{CANONICAL}}">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{TITLE}}">
+<meta property="og:description" content="{{DESC}}">
+<meta property="og:url" content="{{CANONICAL}}">
+<style>{{STYLE}}</style>
+{{JSONLD}}
+</head>
+<body>
+<header class="wrap">
+  <a class="brandmark" href="/">{{BRAND}}</a>
+  <nav>
+    <a href="/">Deals</a>
+    <a href="/compare/">Brands</a>
+  </nav>
+</header>
+
+<main class="wrap">
+  {{BREADCRUMB}}
+  <section class="hero">
+    <h1>{{BRAND_NAME}} deals and official promo entries</h1>
+    <p class="meta">{{DEAL_COUNT}} discounted items found &middot; last checked {{UPDATED}}</p>
+    <p><a class="btn" href="{{OFFICIAL}}" rel="nofollow noopener" target="_blank">Visit {{BRAND_NAME}} official site</a></p>
+  </section>
+
+  <section>
+    <h2>Official promo pages</h2>
+    {{PROMO_LIST}}
+  </section>
+
+  <section>
+    <h2>Discounted items</h2>
+    {{DEAL_LIST}}
+  </section>
+
+  <section>
+    <h2>Tracked official prices</h2>
+    {{PRODUCT_LIST}}
+  </section>
+
+  <p class="note">{{NOTE}}</p>
+</main>
+
+<footer class="wrap">
+  <p>{{BRAND}} reads public brand sources only. Prices come from {{BRAND_NAME}}'s own site and can change there at any time. Last run {{UPDATED}}.</p>
+  <p class="copyright">&copy; {{YEAR}} {{BRAND}}</p>
+</footer>
+</body>
+</html>

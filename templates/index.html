@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="{{LANG}}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{TITLE}}</title>
+<meta name="description" content="{{DESC}}">
+<link rel="canonical" href="{{CANONICAL}}">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{TITLE}}">
+<meta property="og:description" content="{{DESC}}">
+<meta property="og:url" content="{{CANONICAL}}">
+<style>{{STYLE}}</style>
+{{JSONLD}}
+</head>
+<body>
+<header class="wrap">
+  <a class="brandmark" href="/">{{BRAND}}</a>
+  <nav>
+    <a href="/">Deals</a>
+    <a href="/compare/">Brands</a>
+  </nav>
+</header>
+
+<main class="wrap">
+  <section class="hero">
+    <h1>{{TAGLINE}}</h1>
+    <p class="meta">{{BRAND_COUNT}} brands tracked &middot; {{DEAL_COUNT}} discounted items in the last run &middot; last checked {{UPDATED}}</p>
+  </section>
+
+  <section>
+    <h2>Brands</h2>
+    <div class="grid">{{BRAND_GRID}}</div>
+  </section>
+
+  <section>
+    <h2>Discounted right now</h2>
+    {{DEAL_LIST}}
+  </section>
+
+  <section>
+    <h2>Latest official prices</h2>
+    {{PRODUCT_LIST}}
+  </section>
+
+  <section>
+    <h2>FAQ</h2>
+    {{FAQ}}
+  </section>
+</main>
+
+<footer class="wrap">
+  <p>{{BRAND}} reads public brand sources only. Every outbound link goes to the brand's own site. Last run {{UPDATED}}.</p>
+  <p>Site rules are written in I-Lang and live at <code>.ilang/site.ilang</code> in the repository.</p>
+  <p class="copyright">&copy; {{YEAR}} {{BRAND}}</p>
+</footer>
+</body>
+</html>

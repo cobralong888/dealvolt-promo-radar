@@ -1,0 +1,160 @@
+::ILANG
+[TYPE:site-config][PROJECT:dealvolt-promo-radar][VERSION:1][LANG:en]
+
+# ------------------------------------------------------------------
+# 站点规则的唯一真源。
+# scraper.py 与 build.py 都从这里读配置，代码里不另存一份品牌清单。
+# 改这里的一个厂商，重跑一次 build.py，站上就该变；变不了说明实现有问题。
+# ------------------------------------------------------------------
+
+::META
+brand: DealVolt
+tagline: Real prices and real promo entries for home appliance and consumer electronics brands
+niche: home appliance and consumer electronics brand deals
+niche_zh: 家用电器与消费电子品牌优惠
+locale: en-US
+language: en
+currency: USD
+base_url: https://dealvolt-promo-radar.pages.dev
+data_file: data/offers.json
+build_output: site/
+max_deals_per_brand: 12
+max_products_per_brand: 12
+max_pages_to_fetch: 10
+min_discount_pct: 1
+request_timeout: 30
+user_agent: DealVoltPromoRadar/1.0 (+public sitemap and products.json reader)
+::END
+
+::RENDER
+home_title: {brand} — {niche} tracked from official brand sources ({month})
+home_desc: {brand} tracks official prices and promo entries for {brand_count} home appliance and consumer electronics brands. Last checked {date}.
+brand_title: {name} Deals and Official Promo Entries — {month} | {brand}
+brand_desc: Official {name} promo entries and tracked prices. {deal_count} discounted items found on {date}. All links point to {name}'s own site.
+deal_title: {name} {discount}% off — {product} | {brand}
+deal_desc: {product} is listed at {price} {currency} (was {compare} {currency}) on {name}'s official site. Source checked {date}.
+compare_title: {brand_count} Brand Deal Sources Compared — {month} | {brand}
+compare_desc: Side-by-side view of which home appliance and consumer electronics brands currently publish trackable prices or promo pages. Updated {date}.
+faq_1_q: Where does this data come from?
+faq_1_a: Every entry is read from the brand's own public products feed or product sitemap, or links to a page on the brand's own site. Nothing is typed in by hand.
+faq_2_q: How often is it updated?
+faq_2_a: An automated job re-reads the public sources on a fixed schedule and rebuilds this site. The timestamp at the bottom of every page shows the last successful run.
+faq_3_q: Do you sell these products?
+faq_3_a: No. This site does not take orders, hold stock, or set prices. Every outbound link goes to the brand's own official website, where the real and current price lives.
+faq_4_q: Why is a brand missing deals?
+faq_4_a: A brand shows no discounted items when its public feed lists no item below its own reference price at the time of the run. The official promo links are still listed.
+::END
+
+# source 取值：
+#   products_json    —— 读 Shopify 公开 products.json（含 compare_at_price，可算真实折扣）
+#   sitemap_products —— 读公开 product sitemap，再逐页解析 JSON-LD 的 Product/Offer
+#   none             —— 没有可用的公开价格源，只展示官网与官方优惠页
+# promo 可重复多行；affiliate 留空表示尚未加入任何联盟计划（不编佣金链接）
+
+::BRAND
+slug: momcozy
+name: Momcozy
+official: https://momcozy.com/
+source: products_json
+endpoint: https://momcozy.com/products.json?limit=250
+promo: https://momcozy.com/pages/offer
+promo: https://momcozy.com/pages/prime-big-deal-days
+affiliate:
+::END
+
+::BRAND
+slug: anker
+name: Anker
+official: https://www.anker.com/
+source: sitemap_products
+endpoint: https://www.anker.com/server-sitemap-index-products.xml
+promo: https://www.anker.com/hot-deals
+promo: https://www.anker.com/top-sale-2025
+affiliate:
+::END
+
+::BRAND
+slug: ninja
+name: Ninja
+official: https://www.sharkninja.com/
+source: sitemap_products
+endpoint: https://www.sharkninja.com/sitemap_0-product.xml
+promo:
+affiliate:
+::END
+
+::BRAND
+slug: eufy
+name: eufy
+official: https://www.eufy.com/
+source: sitemap_products
+endpoint: https://www.eufy.com/server-sitemap-index-products.xml
+promo: https://www.eufy.com/eufy-sales
+promo: https://www.eufy.com/hotdeals
+promo: https://www.eufy.com/flash-sale
+affiliate:
+::END
+
+::BRAND
+slug: ugreen
+name: UGREEN
+official: https://www.ugreen.com/
+source: products_json
+endpoint: https://www.ugreen.com/products.json?limit=250
+promo:
+affiliate:
+::END
+
+::BRAND
+slug: roborock
+name: Roborock
+official: https://us.roborock.com/
+source: products_json
+endpoint: https://us.roborock.com/products.json?limit=250
+promo: https://us.roborock.com/pages/roborock-deals
+promo: https://us.roborock.com/pages/robot-promotion
+promo: https://us.roborock.com/pages/exclusive-offer
+affiliate:
+::END
+
+::BRAND
+slug: anycubic
+name: Anycubic
+official: https://www.anycubic.com/
+source: none
+endpoint:
+promo:
+affiliate:
+::END
+
+::BRAND
+slug: xtool
+name: xTool
+official: https://www.xtool.com/
+source: products_json
+endpoint: https://www.xtool.com/products.json?limit=250
+promo: https://www.xtool.com/pages/exclusive-discounts
+promo: https://www.xtool.com/pages/school-offers
+affiliate:
+::END
+
+::BRAND
+slug: ringconn
+name: RingConn
+official: https://ringconn.com/
+source: products_json
+endpoint: https://ringconn.com/products.json?limit=250
+promo: https://ringconn.com/pages/student-discount-program
+affiliate:
+::END
+
+::BRAND
+slug: cozyla
+name: Cozyla
+official: https://www.cozyla.com/
+source: products_json
+endpoint: https://www.cozyla.com/products.json?limit=250
+promo: https://www.cozyla.com/pages/cozyla-discount-coupon-deal
+promo: https://www.cozyla.com/pages/exclusive-discount
+affiliate:
+::END
