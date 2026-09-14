@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T00:35:47Z",
+  "generated_at": "2026-09-14T06:35:33Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -386,21 +386,6 @@
       "discount_pct": 40
     },
     {
-      "id": "momcozy-momcozy-nightpro-baby-bottle-warmer-night-feeding-45954466840774",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Momcozy Night Pro Baby Bottle Warmer - Night Feeding - Warmer",
-      "url": "https://momcozy.com/products/momcozy-nightpro-baby-bottle-warmer-night-feeding",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/2_logo.jpg?v=1783590625",
-      "price": 49.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 79.99,
-      "discount_pct": 38
-    },
-    {
       "id": "xtool-final-payment-the-worlds-first-4-in-1-omni-printer-test-noidex-50529882570",
       "brand_slug": "xtool",
       "brand_name": "xTool",
@@ -608,6 +593,21 @@
       "source_url": "https://momcozy.com/products.json?limit=250",
       "source_kind": "products_json",
       "compare_at": 299.98,
+      "discount_pct": 25
+    },
+    {
+      "id": "momcozy-momcozy-nightpro-baby-bottle-warmer-night-feeding-45954466840774",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Momcozy Night Pro Baby Bottle Warmer - Night Feeding - Warmer",
+      "url": "https://momcozy.com/products/momcozy-nightpro-baby-bottle-warmer-night-feeding",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/2_logo.jpg?v=1783590625",
+      "price": 59.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 79.99,
       "discount_pct": 25
     },
     {
