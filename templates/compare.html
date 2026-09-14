@@ -6,6 +6,7 @@
 <title>{{TITLE}}</title>
 <meta name="description" content="{{DESC}}">
 <link rel="canonical" href="{{CANONICAL}}">
+<link rel="icon" href="{{FAVICON}}">
 <meta property="og:type" content="website">
 <meta property="og:title" content="{{TITLE}}">
 <meta property="og:description" content="{{DESC}}">
@@ -14,34 +15,58 @@
 {{JSONLD}}
 </head>
 <body>
-<header class="wrap">
-  <a class="brandmark" href="/">{{BRAND}}</a>
-  <nav>
-    <a href="/">Deals</a>
-    <a href="/compare/">Brands</a>
-  </nav>
+<header class="site-header">
+  <div class="wrap bar">
+    <a class="logo" href="/"><span class="logo-mark">{{INITIAL}}</span>{{BRAND}}</a>
+    <nav>
+      <a href="/">Deals</a>
+      <a href="/compare/">Brands</a>
+    </nav>
+  </div>
 </header>
 
-<main class="wrap">
-  {{BREADCRUMB}}
-  <section class="hero">
+<section class="hero">
+  <div class="wrap">
+    <p class="eyebrow">{{NICHE}}</p>
     <h1>Which brands publish trackable prices</h1>
-    <p class="meta">{{BRAND_COUNT}} brands &middot; last checked {{UPDATED}}</p>
+    <p class="lede">A straight look at what each brand exposes publicly, and how much of it this site could read on the last run.</p>
+    <div class="stats">
+      <div class="stat"><b>{{BRAND_COUNT}}</b><span>brands</span></div>
+      <div class="stat"><b>{{PRICE_SOURCE_COUNT}}</b><span>with a public feed</span></div>
+      <div class="stat"><b>{{DEAL_COUNT}}</b><span>live discounts</span></div>
+    </div>
+    <p class="stamp">Last checked {{UPDATED}}</p>
+  </div>
+</section>
+
+<main class="wrap">
+  <section class="section">
+    <div class="card table-card">{{COMPARE_TABLE}}</div>
+    <p class="note">{{NOTE}}</p>
   </section>
-
-  <table class="compare">
-    <thead>
-      <tr><th>Brand</th><th>Public price source</th><th>Discounted items</th><th>Tracked prices</th><th>Official promo pages</th><th>Official site</th></tr>
-    </thead>
-    <tbody>{{COMPARE_ROWS}}</tbody>
-  </table>
-
-  <p class="note">{{NOTE}}</p>
 </main>
 
-<footer class="wrap">
-  <p>Source status is reported exactly as the last run found it. A brand with "no public price feed" is still listed because its official site and promo pages are real and useful.</p>
-  <p class="copyright">&copy; {{YEAR}} {{BRAND}}</p>
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div>
+      <a class="logo" href="/"><span class="logo-mark">{{INITIAL}}</span>{{BRAND}}</a>
+      <p class="footer-note">Source status is reported exactly as the last run found it. A brand without a public price feed is still listed, because its official site and promo pages are real and useful.</p>
+    </div>
+    <div>
+      <h4>Site</h4>
+      <a href="/">Deals</a>
+      <a href="/compare/">Brands</a>
+      <a href="/sitemap.xml">Sitemap</a>
+    </div>
+    <div>
+      <h4>How it works</h4>
+      <p class="footer-note">A scheduled job re-reads public brand feeds and rebuilds these pages. No figure on this site is estimated.</p>
+    </div>
+  </div>
+  <div class="wrap footer-bottom">
+    <span>&copy; {{YEAR}} {{BRAND}}</span>
+    <span>Last run {{UPDATED}}</span>
+  </div>
 </footer>
 </body>
 </html>

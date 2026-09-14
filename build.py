@@ -35,44 +35,189 @@ TPL_DIR = os.path.join(HERE, "templates")
 DATA_FILE = os.path.join(HERE, "data", "offers.json")
 
 STYLE = """
-:root{--bg:#ffffff;--fg:#14181f;--muted:#5b6472;--line:#e3e7ed;--accent:#0b5fff;--accent-fg:#ffffff;--soft:#f6f8fb}
+:root{
+  --bg:#f6f8fc; --card:#ffffff; --ink:#0f172a; --body:#334155; --muted:#6b7a90;
+  --line:#e6eaf2; --line-strong:#d5dce8;
+  --accent:#2563eb; --accent-dark:#1d4ed8; --deal:#e11d48; --ok:#047857;
+  --radius:16px; --radius-sm:10px;
+  --shadow:0 1px 2px rgba(15,23,42,.04), 0 8px 24px -12px rgba(15,23,42,.18);
+  --shadow-hover:0 2px 6px rgba(15,23,42,.06), 0 18px 40px -16px rgba(15,23,42,.28);
+}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
-.wrap{max-width:960px;margin:0 auto;padding:0 20px}
-header{display:flex;align-items:center;justify-content:space-between;padding:18px 20px;border-bottom:1px solid var(--line)}
-.brandmark{font-weight:700;font-size:20px;color:var(--fg);text-decoration:none}
-header nav a{margin-left:18px;color:var(--muted);text-decoration:none}
-header nav a:hover{color:var(--accent)}
-.hero{padding:34px 0 18px}
-h1{font-size:30px;line-height:1.25;margin:0 0 10px}
-h2{font-size:21px;margin:34px 0 14px}
-.meta{color:var(--muted);font-size:14px;margin:0}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:14px}
-.card{border:1px solid var(--line);border-radius:10px;padding:14px;background:var(--soft)}
-.card a{color:var(--accent);text-decoration:none;font-weight:600}
-.card p{margin:6px 0 0;color:var(--muted);font-size:14px}
-ul.deals{list-style:none;padding:0;margin:0}
-ul.deals li{border:1px solid var(--line);border-radius:10px;padding:14px;margin-bottom:12px;display:flex;gap:14px;align-items:flex-start}
-ul.deals img{width:84px;height:84px;object-fit:contain;border-radius:8px;background:#fff;border:1px solid var(--line)}
-.badge{display:inline-block;background:#e8f0ff;color:#0b3fa8;border-radius:6px;padding:2px 8px;font-size:13px;font-weight:700}
-.price{font-size:22px;font-weight:700;margin:8px 0}
-.price .was{color:var(--muted);font-size:15px;font-weight:400;text-decoration:line-through;margin-left:8px}
-.btn{display:inline-block;background:var(--accent);color:var(--accent-fg);padding:9px 16px;border-radius:8px;text-decoration:none;font-weight:600}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0;background:var(--bg);color:var(--body);
+  font:16px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI Variable Text","Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif;
+  -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:1120px;margin:0 auto;padding:0 24px}
+a{color:var(--accent)}
+h1,h2,h3,h4{color:var(--ink);margin:0}
+h1{font-size:clamp(28px,4vw,42px);line-height:1.15;letter-spacing:-.02em;font-weight:800}
+h2{font-size:22px;letter-spacing:-.01em;font-weight:750}
+h3{font-size:16px;line-height:1.4;font-weight:700}
+
+/* ---------- header ---------- */
+.site-header{position:sticky;top:0;z-index:20;background:rgba(255,255,255,.88);backdrop-filter:saturate(180%) blur(12px);border-bottom:1px solid var(--line)}
+.bar{display:flex;align-items:center;justify-content:space-between;height:64px}
+.logo{display:inline-flex;align-items:center;gap:10px;font-weight:800;color:var(--ink);text-decoration:none;font-size:18px;letter-spacing:-.02em}
+.logo-mark{display:grid;place-items:center;width:30px;height:30px;border-radius:9px;background:linear-gradient(135deg,#0f172a,#334155);color:#7dd3fc;font-size:15px;font-weight:800}
+.site-header nav{display:flex;gap:4px}
+.site-header nav a{padding:8px 14px;border-radius:999px;color:var(--muted);text-decoration:none;font-size:14px;font-weight:600}
+.site-header nav a:hover{background:#eef2f9;color:var(--ink)}
+
+/* ---------- hero ---------- */
+.hero{background:radial-gradient(1200px 480px at 15% -10%,#1e3a8a 0%,transparent 60%),linear-gradient(135deg,#0f172a 0%,#1e293b 55%,#0f172a 100%);color:#e2e8f0;padding:56px 0 60px}
+.hero h1{color:#fff}
+.hero .eyebrow{margin:0 0 14px;font-size:12px;font-weight:700;letter-spacing:.14em;text-transform:uppercase;color:#7dd3fc}
+.hero .lede{margin:16px 0 0;max-width:62ch;font-size:17px;color:#c3cfdd}
+.hero .stamp{margin:18px 0 0;font-size:13px;color:#8fa3ba}
+.stats{display:flex;flex-wrap:wrap;gap:12px;margin:28px 0 0}
+.stat{background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.12);border-radius:14px;padding:12px 20px;min-width:132px}
+.stat b{display:block;font-size:26px;line-height:1.1;color:#fff;font-weight:800;font-variant-numeric:tabular-nums}
+.stat span{font-size:12px;color:#9fb3c8;letter-spacing:.02em}
+
+/* ---------- brand hero ---------- */
+.brand-hero-inner{display:flex;gap:24px;align-items:flex-start;flex-wrap:wrap}
+.avatar{display:grid;place-items:center;border-radius:18px;font-weight:800;color:hsl(var(--hue) 62% 28%);background:hsl(var(--hue) 78% 92%);flex:none}
+.avatar-lg{width:88px;height:88px;font-size:34px;border-radius:22px}
+.hero-brand .lede{max-width:60ch}
+.stats-sm .stat{min-width:110px;padding:10px 16px}
+.hero-actions{margin:22px 0 0}
+
+/* ---------- sections ---------- */
+.section{margin:44px 0}
+.section-head{display:flex;align-items:baseline;justify-content:space-between;gap:16px;flex-wrap:wrap;margin-bottom:18px;padding-bottom:12px;border-bottom:1px solid var(--line)}
+.section-head .hint,.hint{color:var(--muted);font-size:13px}
+.more{font-size:14px;font-weight:600;text-decoration:none}
+.more:hover{text-decoration:underline}
+
+/* ---------- brand grid ---------- */
+.brand-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:14px}
+.brand-card{display:flex;align-items:center;gap:12px;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:16px;text-decoration:none;transition:transform .15s ease,box-shadow .15s ease,border-color .15s ease}
+.brand-card:hover{transform:translateY(-2px);box-shadow:var(--shadow-hover);border-color:var(--line-strong)}
+.brand-card .avatar{width:44px;height:44px;font-size:17px;border-radius:13px}
+.brand-name{display:block;font-weight:700;color:var(--ink);font-size:15px}
+.brand-meta{display:block;font-size:12.5px;color:var(--muted);margin-top:2px}
+
+/* ---------- deal grid ---------- */
+.deal-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px}
+.deal-card{display:flex;flex-direction:column;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;text-decoration:none;transition:transform .15s ease,box-shadow .15s ease,border-color .15s ease}
+.deal-card:hover{transform:translateY(-3px);box-shadow:var(--shadow-hover);border-color:var(--line-strong)}
+.deal-thumb{height:168px;display:grid;place-items:center;background:#fff;border-bottom:1px solid var(--line);padding:14px}
+.deal-thumb img{max-width:100%;max-height:100%;object-fit:contain}
+.deal-thumb .fallback{width:100%;height:100%;border-radius:12px;display:grid;place-items:center;font-size:30px;font-weight:800;color:hsl(var(--hue) 55% 34%);background:hsl(var(--hue) 74% 95%)}
+.deal-body{padding:14px 16px 16px;display:flex;flex-direction:column;gap:8px;flex:1}
+.deal-top{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.deal-card h3{color:var(--ink)}
+.deal-title{margin:0;font-size:15px;font-weight:700;color:var(--ink);line-height:1.4;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.price-row{display:flex;align-items:baseline;gap:8px;margin-top:auto;padding-top:6px}
+.price-now{font-size:20px;font-weight:800;color:var(--ink);font-variant-numeric:tabular-nums}
+.price-now em{font-style:normal;font-size:12px;font-weight:700;color:var(--muted);margin-left:2px}
+.price-was{font-size:13px;color:var(--muted);text-decoration:line-through;font-variant-numeric:tabular-nums}
+
+/* ---------- chips & badges ---------- */
+.chip{display:inline-flex;align-items:center;gap:6px;padding:3px 10px;border-radius:999px;font-size:12px;font-weight:700;background:hsl(var(--hue) 74% 94%);color:hsl(var(--hue) 58% 30%);white-space:nowrap}
+.chip-plain{background:#eef2f9;color:#475569}
+.badge{display:inline-flex;align-items:center;padding:3px 10px;border-radius:999px;font-size:12px;font-weight:800;background:#ffe4e9;color:var(--deal);white-space:nowrap}
+.badge-lg{font-size:14px;padding:6px 14px}
+.pill{display:inline-flex;align-items:center;padding:3px 10px;border-radius:999px;font-size:12px;font-weight:700;background:#eef2f9;color:#475569;white-space:nowrap}
+.pill-ok{background:#e7f6ef;color:var(--ok)}
+.pill-warn{background:#fef3c7;color:#92400e}
+
+/* ---------- compact product list ---------- */
+.price-list{list-style:none;margin:0;padding:0;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden}
+.price-list li{display:flex;align-items:center;gap:12px;padding:13px 18px;border-bottom:1px solid var(--line)}
+.price-list li:last-child{border-bottom:0}
+.price-list .pl-main{flex:1;min-width:0}
+.price-list .pl-title{display:block;color:var(--ink);font-weight:600;font-size:14.5px;text-decoration:none;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.price-list .pl-title:hover{text-decoration:underline}
+.price-list .pl-sub{font-size:12.5px;color:var(--muted)}
+.price-list .pl-price{font-weight:800;color:var(--ink);font-variant-numeric:tabular-nums;white-space:nowrap}
+
+/* ---------- promo chips ---------- */
+.chip-row{display:flex;flex-wrap:wrap;gap:10px}
+.chip-link{display:inline-flex;align-items:center;gap:7px;padding:9px 15px;border-radius:999px;background:var(--card);border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:13.5px;font-weight:600;transition:border-color .15s,box-shadow .15s}
+.chip-link:hover{border-color:var(--accent);box-shadow:var(--shadow)}
+.chip-link::after{content:"↗";color:var(--muted);font-size:12px}
+
+/* ---------- buttons ---------- */
+.btn{display:inline-block;background:var(--accent);color:#fff;padding:11px 20px;border-radius:999px;text-decoration:none;font-weight:700;font-size:14.5px;transition:background .15s,transform .1s}
+.btn:hover{background:var(--accent-dark)}
+.btn:active{transform:translateY(1px)}
+.btn-lg{padding:14px 26px;font-size:15.5px}
+.cta-row{margin:22px 0 0}
+
+/* ---------- deal page ---------- */
+.deal-page{padding:30px 0 10px}
+.deal-layout{display:grid;grid-template-columns:minmax(0,420px) minmax(0,1fr);gap:40px;align-items:start;margin-top:22px}
+.deal-media{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:24px;display:grid;place-items:center;min-height:280px}
+.deal-media img{max-width:100%;max-height:360px;object-fit:contain}
+.deal-media .fallback{width:100%;min-height:240px;border-radius:12px;display:grid;place-items:center;font-size:72px;font-weight:800;color:hsl(var(--hue) 55% 34%);background:hsl(var(--hue) 74% 95%)}
+.deal-info h1{margin:14px 0 0}
+.price-block{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin-top:18px;padding:16px 20px;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);width:fit-content}
+.price-block .price-now{font-size:30px}
+table.facts{width:100%;border-collapse:collapse;margin:26px 0 0;font-size:14.5px;background:var(--card);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden}
+table.facts th,table.facts td{text-align:left;padding:11px 16px;border-bottom:1px solid var(--line)}
+table.facts tr:last-child th,table.facts tr:last-child td{border-bottom:0}
+table.facts th{width:150px;color:var(--muted);font-weight:600;background:#fbfcfe}
+
+/* ---------- compare table ---------- */
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow)}
+.table-card{overflow:hidden}
 table.compare{width:100%;border-collapse:collapse;font-size:14px}
-table.compare th,table.compare td{border:1px solid var(--line);padding:9px 10px;text-align:left;vertical-align:top}
-table.compare th{background:var(--soft)}
-dl.facts{display:grid;grid-template-columns:150px 1fr;gap:6px 14px;margin:22px 0}
-dl.facts dt{color:var(--muted)}
-dl.facts dd{margin:0}
-.note{color:var(--muted);font-size:14px;border-left:3px solid var(--line);padding-left:12px}
-footer{border-top:1px solid var(--line);margin-top:44px;padding:22px 20px 40px;color:var(--muted);font-size:14px}
-.copyright{margin-top:12px}
-nav.breadcrumb{font-size:13px;color:var(--muted);padding:14px 0 0}
-nav.breadcrumb a{color:var(--muted)}
-img.heroimg{max-width:260px;width:100%;height:auto;border-radius:10px;border:1px solid var(--line);background:#fff}
+table.compare th,table.compare td{padding:13px 18px;text-align:left;border-bottom:1px solid var(--line);vertical-align:middle}
+table.compare thead th{background:#fbfcfe;color:var(--muted);font-size:12px;letter-spacing:.06em;text-transform:uppercase;font-weight:700}
+table.compare tbody tr:last-child td{border-bottom:0}
+table.compare tbody tr:hover{background:#fbfcfe}
+table.compare td.num{font-variant-numeric:tabular-nums;font-weight:700;color:var(--ink)}
+.tname{font-weight:700;color:var(--ink);text-decoration:none}
+.tname:hover{text-decoration:underline}
+
+/* ---------- faq ---------- */
+.faq{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:8px 26px 20px}
+.faq h3{font-size:16px;margin:18px 0 6px}
+.faq p{margin:0 0 14px;color:var(--body)}
+
+/* ---------- note & breadcrumb ---------- */
+.note{margin:26px 0 0;color:var(--muted);font-size:13.5px;line-height:1.7;background:var(--card);border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:var(--radius-sm);padding:14px 18px}
+nav.breadcrumb{font-size:13px;color:var(--muted);padding:0 0 4px}
+nav.breadcrumb a{color:var(--muted);text-decoration:none}
+nav.breadcrumb a:hover{color:var(--accent);text-decoration:underline}
+.hero nav.breadcrumb a{color:#9fb3c8}
+.hero nav.breadcrumb{color:#8fa3ba}
+
+/* ---------- footer ---------- */
+.site-footer{margin-top:56px;background:#0f172a;color:#94a3b8;padding:44px 0 26px}
+.site-footer .logo{color:#fff}
+.footer-grid{display:grid;grid-template-columns:2fr 1fr 1.4fr;gap:36px}
+.site-footer h4{color:#fff;font-size:13px;letter-spacing:.08em;text-transform:uppercase;margin:0 0 12px}
+.site-footer a{display:block;color:#94a3b8;text-decoration:none;font-size:14px;margin-bottom:8px}
+.site-footer a:hover{color:#fff}
+.footer-note{font-size:13.5px;line-height:1.7;margin:12px 0 0;max-width:52ch}
+.footer-bottom{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;margin-top:32px;padding-top:18px;border-top:1px solid rgba(255,255,255,.1);font-size:12.5px}
+
+@media (max-width:900px){
+  .deal-layout{grid-template-columns:1fr;gap:24px}
+  .footer-grid{grid-template-columns:1fr 1fr}
+}
+@media (max-width:620px){
+  .wrap{padding:0 16px}
+  .hero{padding:40px 0 44px}
+  .footer-grid{grid-template-columns:1fr;gap:24px}
+  .section{margin:34px 0}
+  .stat{flex:1 1 120px}
+}
 """
 
 PLACEHOLDER = re.compile(r"\{\{([A-Z0-9_]+)\}\}")
+
+# Inline SVG favicon (data URI) so the site needs no extra asset request.
+FAVICON = (
+    "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E"
+    "%3Crect width='32' height='32' rx='8' fill='%230f172a'/%3E"
+    "%3Cpath d='M19 4 L9 18.5 h5.6 L13 28 24 13 h-6.2 z' fill='%2338bdf8'/%3E%3C/svg%3E"
+)
 
 
 def esc(value) -> str:
@@ -144,32 +289,61 @@ def month_year(iso: str) -> str:
 # ------------------------------------------------------------------ renderers
 
 
+def hue_for(text: str) -> int:
+    """Stable colour per brand, derived from the slug. No randomness, no config."""
+    return sum(ord(c) for c in (text or "?")) % 360
+
+
+def initials(text: str) -> str:
+    parts = [p for p in re.split(r"[^A-Za-z0-9]+", text or "") if p]
+    if not parts:
+        return "?"
+    return (parts[0][0] + (parts[1][0] if len(parts) > 1 else "")).upper()
+
+
 def deal_card(item: dict, currency: str) -> str:
-    img = f'<img src="{esc(item.get("image"))}" alt="">' if item.get("image") else ""
-    compare = ""
-    if item.get("compare_at"):
-        compare = f'<span class="was">{money(item["compare_at"], currency)}</span>'
-    badge = f'<span class="badge">-{item["discount_pct"]}%</span>' if item.get("discount_pct") else ""
+    hue = hue_for(item.get("brand_slug", ""))
+    thumb = (
+        f'<img src="{esc(item.get("image"))}" alt="" loading="lazy">'
+        if item.get("image")
+        else f'<span class="fallback" style="--hue:{hue}">{esc(initials(item.get("brand_name", "?")))}</span>'
+    )
+    badge = (
+        f'<span class="badge">-{item["discount_pct"]}% off</span>'
+        if item.get("discount_pct")
+        else ""
+    )
+    was = (
+        f'<span class="price-was">{money(item["compare_at"], currency)}</span>'
+        if item.get("compare_at")
+        else ""
+    )
     return (
-        "<li>"
-        f'<a href="/deal/{esc(item["id"])}/">{img}</a>' if img else "<li>"
-    ) + (
-        "<div>"
-        f'<div>{badge} <a href="/deal/{esc(item["id"])}/">{esc(item["title"])}</a></div>'
-        f'<div class="price">{money(item.get("price"), currency)} {esc(currency)} {compare}</div>'
-        f'<div class="meta">{esc(item.get("brand_name"))} &middot; '
-        f'<a href="{esc(item.get("url"))}" rel="nofollow noopener" target="_blank">official product page</a></div>'
-        "</div></li>"
+        f'<a class="deal-card" href="/deal/{esc(item["id"])}/">'
+        f'<div class="deal-thumb">{thumb}</div>'
+        '<div class="deal-body">'
+        '<div class="deal-top">'
+        f'<span class="chip" style="--hue:{hue}">{esc(item.get("brand_name"))}</span>{badge}'
+        "</div>"
+        f'<p class="deal-title">{esc(item.get("title"))}</p>'
+        '<div class="price-row">'
+        f'<span class="price-now">{money(item.get("price"), currency)}<em>{esc(currency)}</em></span>{was}'
+        "</div>"
+        "</div></a>"
     )
 
 
 def product_row(item: dict, currency: str) -> str:
+    hue = hue_for(item.get("brand_slug", ""))
     return (
-        "<li><div>"
-        f'<div><a href="{esc(item.get("url"))}" rel="nofollow noopener" target="_blank">{esc(item["title"])}</a></div>'
-        f'<div class="meta">{esc(item.get("brand_name"))} &middot; {money(item.get("price"), currency)} {esc(currency)}'
-        f' &middot; {esc(availability_text(item.get("availability")))}</div>'
-        "</div></li>"
+        "<li>"
+        f'<span class="chip" style="--hue:{hue}">{esc(item.get("brand_name"))}</span>'
+        '<span class="pl-main">'
+        f'<a class="pl-title" href="{esc(item.get("url"))}" rel="nofollow noopener" target="_blank">{esc(item.get("title"))}</a>'
+        f'<span class="pl-sub">{esc(availability_text(item.get("availability")))}</span>'
+        "</span>"
+        f'<span class="pl-price">{money(item.get("price"), currency)} {esc(currency)}</span>'
+        "</li>"
     )
 
 
@@ -218,24 +392,29 @@ def main() -> int:
 
     # ------------------------------------------------ index
     brand_grid = "".join(
-        '<div class="card"><a href="/brand/{slug}/">{name}</a>'
-        "<p>{promo} official promo page(s)<br>{deals} discounted &middot; {prods} tracked prices</p></div>".format(
+        '<a class="brand-card" href="/brand/{slug}/">'
+        '<span class="avatar" style="--hue:{hue}">{initial}</span>'
+        "<span>"
+        '<span class="brand-name">{name}</span>'
+        '<span class="brand-meta">{deals} discounts &middot; {promo} promo pages</span>'
+        "</span></a>".format(
             slug=esc(b["slug"]),
             name=esc(b["name"]),
-            promo=len(b.get("promo", [])),
+            hue=hue_for(b["slug"]),
+            initial=esc(initials(b["name"])),
             deals=b.get("deal_count", 0),
-            prods=b.get("product_count", 0),
+            promo=len(b.get("promo", [])),
         )
         for b in brands
     )
     deal_list = (
-        '<ul class="deals">' + "".join(deal_card(d, currency) for d in deals[:40]) + "</ul>"
+        '<div class="deal-grid">' + "".join(deal_card(d, currency) for d in deals[:40]) + "</div>"
         if deals
         else '<p class="note">No item in this run was listed below its own reference price. '
         "Nothing is shown here rather than inventing a discount. Official promo pages are linked on each brand page.</p>"
     )
     product_list = (
-        '<ul class="deals">' + "".join(product_row(p, currency) for p in products[:40]) + "</ul>"
+        '<ul class="price-list">' + "".join(product_row(p, currency) for p in products[:40]) + "</ul>"
         if products
         else '<p class="note">No public price feed returned data in this run.</p>'
     )
@@ -324,10 +503,21 @@ def main() -> int:
             "CANONICAL": esc((base + "/") if base else "/"),
             "STYLE": STYLE,
             "JSONLD": "\n".join(jsonld_block(x) for x in index_ld),
+            "FAVICON": FAVICON,
             "BRAND": esc(brand_name),
-            "TAGLINE": esc(dmeta.get("tagline", "")),
+            "INITIAL": esc(initials(brand_name)),
+            "NICHE": esc(dmeta.get("niche", "")),
+            "HERO_TITLE": esc(
+                dmeta.get("tagline", "") or f"{dmeta.get('niche', '')} tracked from official sources"
+            ),
+            "TAGLINE": esc(
+                "Every price and every promo entry below was read from the brand's own "
+                "public feed or sitemap. Discounts appear only when a brand lists an item "
+                "below its own reference price — nothing here is estimated."
+            ),
             "BRAND_COUNT": len(brands),
             "DEAL_COUNT": len(deals),
+            "PRODUCT_COUNT": len(products),
             "UPDATED": esc(updated),
             "BRAND_GRID": brand_grid,
             "DEAL_LIST": deal_list,
@@ -344,12 +534,12 @@ def main() -> int:
         b_products = [p for p in products if p["brand_slug"] == b["slug"]]
 
         promo_list = (
-            "<ul>"
+            '<div class="chip-row">'
             + "".join(
-                f'<li><a href="{esc(p["url"])}" rel="nofollow noopener" target="_blank">{esc(p["label"])}</a></li>'
+                f'<a class="chip-link" href="{esc(p["url"])}" rel="nofollow noopener" target="_blank">{esc(p["label"])}</a>'
                 for p in b.get("promo", [])
             )
-            + "</ul>"
+            + "</div>"
             if b.get("promo")
             else '<p class="note">No official promo page was found in this brand\'s public sitemap during the last run.</p>'
         )
@@ -452,20 +642,30 @@ def main() -> int:
                 "CANONICAL": esc(page_url),
                 "STYLE": STYLE,
                 "JSONLD": "\n".join(jsonld_block(x) for x in ld),
+                "FAVICON": FAVICON,
                 "BREADCRUMB": breadcrumb(base, [(b["name"], None)]),
                 "BRAND": esc(brand_name),
+                "INITIAL": esc(initials(brand_name)),
                 "BRAND_NAME": esc(b["name"]),
+                "BRAND_INITIAL": esc(initials(b["name"])),
+                "BRAND_LEDE": esc(
+                    f"Official promo pages and tracked prices for {b['name']}, read from "
+                    f"{b['name']}'s own public sources. Every link goes back to their site."
+                ),
+                "HUE": hue_for(b["slug"]),
                 "OFFICIAL": esc(b["official"]),
                 "DEAL_COUNT": len(b_deals),
+                "PROMO_COUNT": len(b.get("promo", [])),
+                "PRODUCT_COUNT": len(b_products),
                 "UPDATED": esc(updated),
                 "PROMO_LIST": promo_list,
                 "DEAL_LIST": (
-                    '<ul class="deals">' + "".join(deal_card(d, currency) for d in b_deals) + "</ul>"
+                    '<div class="deal-grid">' + "".join(deal_card(d, currency) for d in b_deals) + "</div>"
                     if b_deals
                     else '<p class="note">No discounted item was found for this brand in the last run.</p>'
                 ),
                 "PRODUCT_LIST": (
-                    '<ul class="deals">' + "".join(product_row(p, currency) for p in b_products) + "</ul>"
+                    '<ul class="price-list">' + "".join(product_row(p, currency) for p in b_products) + "</ul>"
                     if b_products
                     else '<p class="note">No tracked price for this brand in the last run.</p>'
                 ),
@@ -516,16 +716,23 @@ def main() -> int:
             ld[1]["image"] = d["image"]
 
         compare_block = (
-            f'<span class="was">{money(d["compare_at"], currency)}</span>'
+            f'<span class="price-was">{money(d["compare_at"], currency)}</span>'
             if d.get("compare_at")
             else ""
         )
         discount_block = (
-            f'<span class="badge">-{d["discount_pct"]}%</span>' if d.get("discount_pct") else ""
+            f'<span class="badge badge-lg">-{d["discount_pct"]}% off</span>'
+            if d.get("discount_pct")
+            else ""
         )
-        img_html = (
-            f'<img class="heroimg" src="{esc(d["image"])}" alt="">' if d.get("image") else ""
-        )
+        hue = hue_for(d.get("brand_slug", ""))
+        if d.get("image"):
+            img_html = f'<img src="{esc(d["image"])}" alt="">'
+        else:
+            img_html = (
+                f'<span class="fallback" style="--hue:{hue}">'
+                f'{esc(initials(d.get("brand_name", "?")))}</span>'
+            )
         image_meta = (
             f'<meta property="og:image" content="{esc(d["image"])}">' if d.get("image") else ""
         )
@@ -557,10 +764,14 @@ def main() -> int:
                 "CANONICAL": esc(page_url),
                 "STYLE": STYLE,
                 "JSONLD": "\n".join(jsonld_block(x) for x in ld),
+                "FAVICON": FAVICON,
                 "BREADCRUMB": breadcrumb(
                     base, [(d["brand_name"], f"/brand/{d['brand_slug']}/"), (d["title"], None)]
                 ),
                 "BRAND": esc(brand_name),
+                "INITIAL": esc(initials(brand_name)),
+                "HUE": hue,
+                "BRAND_SLUG": esc(d.get("brand_slug", "")),
                 "BRAND_NAME": esc(d["brand_name"]),
                 "PRODUCT": esc(d["title"]),
                 "PRICE": money(d.get("price"), currency),
@@ -584,17 +795,32 @@ def main() -> int:
         write(os.path.join(out_dir, "deal", d["id"], "index.html"), html_out)
 
     # ------------------------------------------------ compare
+    def source_pill(brand_obj) -> str:
+        src = brand_obj.get("source", "none")
+        if src == "products_json":
+            return '<span class="pill pill-ok">products feed</span>'
+        if src == "sitemap_products":
+            return '<span class="pill pill-ok">product sitemap</span>'
+        return '<span class="pill">no public feed</span>'
+
     rows = "".join(
         "<tr>"
-        f'<td><a href="/brand/{esc(b["slug"])}/">{esc(b["name"])}</a></td>'
-        f"<td>{esc(b.get('source', 'none'))}</td>"
-        f"<td>{b.get('deal_count', 0)}</td>"
-        f"<td>{b.get('product_count', 0)}</td>"
-        f"<td>{len(b.get('promo', []))}</td>"
-        f'<td><a href="{esc(b["official"])}" rel="nofollow noopener" target="_blank">official site</a></td>'
+        f'<td><a class="tname" href="/brand/{esc(b["slug"])}/">{esc(b["name"])}</a></td>'
+        f"<td>{source_pill(b)}</td>"
+        f'<td class="num">{b.get("deal_count", 0)}</td>'
+        f'<td class="num">{b.get("product_count", 0)}</td>'
+        f'<td class="num">{len(b.get("promo", []))}</td>'
+        f'<td><a href="{esc(b["official"])}" rel="nofollow noopener" target="_blank">visit</a></td>'
         "</tr>"
         for b in brands
     )
+    compare_table = (
+        '<table class="compare"><thead><tr>'
+        "<th>Brand</th><th>Public price source</th><th>Discounts</th>"
+        "<th>Prices tracked</th><th>Promo pages</th><th>Official site</th>"
+        "</tr></thead><tbody>" + rows + "</tbody></table>"
+    )
+    price_source_count = sum(1 for b in brands if b.get("source", "none") != "none")
     compare_ld = {
         "@context": "https://schema.org",
         "@type": "ItemList",
@@ -618,11 +844,16 @@ def main() -> int:
             "CANONICAL": esc(compare_url),
             "STYLE": STYLE,
             "JSONLD": jsonld_block(compare_ld),
+            "FAVICON": FAVICON,
             "BREADCRUMB": breadcrumb(base, [("Brands", None)]),
             "BRAND": esc(brand_name),
+            "INITIAL": esc(initials(brand_name)),
+            "NICHE": esc(dmeta.get("niche", "")),
             "BRAND_COUNT": len(brands),
+            "PRICE_SOURCE_COUNT": price_source_count,
+            "DEAL_COUNT": len(deals),
             "UPDATED": esc(updated),
-            "COMPARE_ROWS": rows,
+            "COMPARE_TABLE": compare_table,
             "NOTE": esc(
                 "Counts come from the last run only. They are not a ranking and no score is invented."
             ),

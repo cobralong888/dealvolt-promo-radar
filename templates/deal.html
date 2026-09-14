@@ -6,6 +6,7 @@
 <title>{{TITLE}}</title>
 <meta name="description" content="{{DESC}}">
 <link rel="canonical" href="{{CANONICAL}}">
+<link rel="icon" href="{{FAVICON}}">
 <meta property="og:type" content="website">
 <meta property="og:title" content="{{TITLE}}">
 <meta property="og:description" content="{{DESC}}">
@@ -15,39 +16,72 @@
 {{JSONLD}}
 </head>
 <body>
-<header class="wrap">
-  <a class="brandmark" href="/">{{BRAND}}</a>
-  <nav>
-    <a href="/">Deals</a>
-    <a href="/compare/">Brands</a>
-  </nav>
+<header class="site-header">
+  <div class="wrap bar">
+    <a class="logo" href="/"><span class="logo-mark">{{INITIAL}}</span>{{BRAND}}</a>
+    <nav>
+      <a href="/">Deals</a>
+      <a href="/compare/">Brands</a>
+    </nav>
+  </div>
 </header>
 
-<main class="wrap">
+<main class="wrap deal-page">
   {{BREADCRUMB}}
-  <article class="deal">
-    {{IMAGE_HTML}}
-    <h1>{{PRODUCT}}</h1>
-    <p class="price">
-      <span class="now">{{PRICE}} {{CURRENCY}}</span>
-      {{COMPARE_BLOCK}}
-      {{DISCOUNT_BLOCK}}
-    </p>
-    <p><a class="btn" href="{{URL}}" rel="nofollow noopener" target="_blank">Open on {{BRAND_NAME}} official site</a></p>
-    <dl class="facts">
-      <dt>Brand</dt><dd>{{BRAND_NAME}}</dd>
-      <dt>Currency</dt><dd>{{CURRENCY}}</dd>
-      <dt>Availability</dt><dd>{{AVAILABILITY}}</dd>
-      <dt>Source</dt><dd><a href="{{SOURCE_URL}}" rel="nofollow noopener" target="_blank">{{SOURCE_KIND}}</a></dd>
-      <dt>Last checked</dt><dd>{{UPDATED}}</dd>
-    </dl>
-    <p class="note">{{NOTE}}</p>
+
+  <article class="deal-layout">
+    <div class="deal-media">{{IMAGE_HTML}}</div>
+
+    <div class="deal-info">
+      <span class="chip chip-brand" style="--hue:{{HUE}}">{{BRAND_NAME}}</span>
+      <h1>{{PRODUCT}}</h1>
+
+      <div class="price-block">
+        <span class="price-now">{{PRICE}} <em>{{CURRENCY}}</em></span>
+        {{COMPARE_BLOCK}}
+        {{DISCOUNT_BLOCK}}
+      </div>
+
+      <p class="cta-row">
+        <a class="btn btn-lg" href="{{URL}}" rel="nofollow noopener" target="_blank">Open on {{BRAND_NAME}} official site</a>
+      </p>
+
+      <table class="facts">
+        <tbody>
+          <tr><th>Brand</th><td>{{BRAND_NAME}}</td></tr>
+          <tr><th>Currency</th><td>{{CURRENCY}}</td></tr>
+          <tr><th>Availability</th><td>{{AVAILABILITY}}</td></tr>
+          <tr><th>Source</th><td><a href="{{SOURCE_URL}}" rel="nofollow noopener" target="_blank">{{SOURCE_KIND}}</a></td></tr>
+          <tr><th>Last checked</th><td>{{UPDATED}}</td></tr>
+        </tbody>
+      </table>
+
+      <p class="note">{{NOTE}}</p>
+    </div>
   </article>
 </main>
 
-<footer class="wrap">
-  <p>{{BRAND}} does not sell anything and does not set prices. The number above was read from {{BRAND_NAME}}'s own public feed; confirm it on their site before buying.</p>
-  <p class="copyright">&copy; {{YEAR}} {{BRAND}}</p>
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div>
+      <a class="logo" href="/"><span class="logo-mark">{{INITIAL}}</span>{{BRAND}}</a>
+      <p class="footer-note">{{BRAND}} does not sell anything and does not set prices. This figure was read from {{BRAND_NAME}}'s own public feed; confirm it on their site before buying.</p>
+    </div>
+    <div>
+      <h4>Site</h4>
+      <a href="/">Deals</a>
+      <a href="/compare/">Brands</a>
+      <a href="/sitemap.xml">Sitemap</a>
+    </div>
+    <div>
+      <h4>Brand</h4>
+      <a href="/brand/{{BRAND_SLUG}}/">All {{BRAND_NAME}} deals</a>
+    </div>
+  </div>
+  <div class="wrap footer-bottom">
+    <span>&copy; {{YEAR}} {{BRAND}}</span>
+    <span>Last run {{UPDATED}}</span>
+  </div>
 </footer>
 </body>
 </html>

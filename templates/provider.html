@@ -6,6 +6,7 @@
 <title>{{TITLE}}</title>
 <meta name="description" content="{{DESC}}">
 <link rel="canonical" href="{{CANONICAL}}">
+<link rel="icon" href="{{FAVICON}}">
 <meta property="og:type" content="website">
 <meta property="og:title" content="{{TITLE}}">
 <meta property="og:description" content="{{DESC}}">
@@ -14,43 +15,83 @@
 {{JSONLD}}
 </head>
 <body>
-<header class="wrap">
-  <a class="brandmark" href="/">{{BRAND}}</a>
-  <nav>
-    <a href="/">Deals</a>
-    <a href="/compare/">Brands</a>
-  </nav>
+<header class="site-header">
+  <div class="wrap bar">
+    <a class="logo" href="/"><span class="logo-mark">{{INITIAL}}</span>{{BRAND}}</a>
+    <nav>
+      <a href="/">Deals</a>
+      <a href="/compare/">Brands</a>
+    </nav>
+  </div>
 </header>
 
-<main class="wrap">
-  {{BREADCRUMB}}
-  <section class="hero">
-    <h1>{{BRAND_NAME}} deals and official promo entries</h1>
-    <p class="meta">{{DEAL_COUNT}} discounted items found &middot; last checked {{UPDATED}}</p>
-    <p><a class="btn" href="{{OFFICIAL}}" rel="nofollow noopener" target="_blank">Visit {{BRAND_NAME}} official site</a></p>
-  </section>
+<section class="hero hero-brand">
+  <div class="wrap brand-hero-inner">
+    <span class="avatar avatar-lg" style="--hue:{{HUE}}">{{BRAND_INITIAL}}</span>
+    <div>
+      {{BREADCRUMB}}
+      <h1>{{BRAND_NAME}} deals</h1>
+      <p class="lede">{{BRAND_LEDE}}</p>
+      <div class="stats stats-sm">
+        <div class="stat"><b>{{DEAL_COUNT}}</b><span>discounts</span></div>
+        <div class="stat"><b>{{PROMO_COUNT}}</b><span>promo pages</span></div>
+        <div class="stat"><b>{{PRODUCT_COUNT}}</b><span>prices tracked</span></div>
+      </div>
+      <p class="stamp">Last checked {{UPDATED}}</p>
+      <p class="hero-actions">
+        <a class="btn" href="{{OFFICIAL}}" rel="nofollow noopener" target="_blank">Visit {{BRAND_NAME}} official site</a>
+      </p>
+    </div>
+  </div>
+</section>
 
-  <section>
-    <h2>Official promo pages</h2>
+<main class="wrap">
+  <section class="section">
+    <div class="section-head">
+      <h2>Official promo pages</h2>
+      <span class="hint">Linked straight from {{BRAND_NAME}}'s own sitemap</span>
+    </div>
     {{PROMO_LIST}}
   </section>
 
-  <section>
-    <h2>Discounted items</h2>
+  <section class="section">
+    <div class="section-head">
+      <h2>Discounted items</h2>
+    </div>
     {{DEAL_LIST}}
   </section>
 
-  <section>
-    <h2>Tracked official prices</h2>
+  <section class="section">
+    <div class="section-head">
+      <h2>Tracked official prices</h2>
+    </div>
     {{PRODUCT_LIST}}
   </section>
 
   <p class="note">{{NOTE}}</p>
 </main>
 
-<footer class="wrap">
-  <p>{{BRAND}} reads public brand sources only. Prices come from {{BRAND_NAME}}'s own site and can change there at any time. Last run {{UPDATED}}.</p>
-  <p class="copyright">&copy; {{YEAR}} {{BRAND}}</p>
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <div>
+      <a class="logo" href="/"><span class="logo-mark">{{INITIAL}}</span>{{BRAND}}</a>
+      <p class="footer-note">Prices come from {{BRAND_NAME}}'s own site and can change there at any time. Confirm before buying.</p>
+    </div>
+    <div>
+      <h4>Site</h4>
+      <a href="/">Deals</a>
+      <a href="/compare/">Brands</a>
+      <a href="/sitemap.xml">Sitemap</a>
+    </div>
+    <div>
+      <h4>Brand</h4>
+      <a href="{{OFFICIAL}}" rel="nofollow noopener" target="_blank">{{BRAND_NAME}} official site</a>
+    </div>
+  </div>
+  <div class="wrap footer-bottom">
+    <span>&copy; {{YEAR}} {{BRAND}}</span>
+    <span>Last run {{UPDATED}}</span>
+  </div>
 </footer>
 </body>
 </html>
