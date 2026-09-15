@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T06:34:40Z",
+  "generated_at": "2026-09-15T12:32:38Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -386,21 +386,6 @@
       "discount_pct": 40
     },
     {
-      "id": "xtool-final-payment-the-worlds-first-4-in-1-omni-printer-test-noidex-50529882570",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "[Final Payment] xTool O1 Omni Printer: The World’s First 4-in-1 Omni Printer - Single UV / Single UV Standalone",
-      "url": "https://www.xtool.com/products/final-payment-the-worlds-first-4-in-1-omni-printer-test-noidex",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-o1omniprinter_us_pc_singleuvstandalone_6988-25294_107c1469-327d-440b-9062-da6305850daf.webp?v=1784011241",
-      "price": 1649.0,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 2499.0,
-      "discount_pct": 34
-    },
-    {
       "id": "momcozy-6-in-1-fast-baby-bottle-warmer-and-120-count-breastmilk-storage-bags-441",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -564,6 +549,21 @@
       "source_kind": "products_json",
       "compare_at": 59.99,
       "discount_pct": 25
+    },
+    {
+      "id": "xtool-xtool-f2-ultra-60w-mopa-40w-diode-dual-laser-engraver-copy-test-noindex-46",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "xTool F2 Ultra - 60W MOPA & 40W Diode Dual Laser Engraver with Dual  Cameras AMZ - Single Laser / F2 Ultra (single)  Standalone",
+      "url": "https://www.xtool.com/products/xtool-f2-ultra-60w-mopa-40w-diode-dual-laser-engraver-copy-test-noindex",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-f2ultra_us_pc_f2ultra_595-25304.webp?v=1751441238",
+      "price": 4999.0,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 6599.0,
+      "discount_pct": 24
     },
     {
       "id": "momcozy-momcozy-shower-steamers-aromatherapy-44923189592262",
@@ -1450,6 +1450,32 @@
       "source_kind": "products_json"
     },
     {
+      "id": "roborock-roborock-qrevo-edge-2-trade-up-44013316767862",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Roborock Qrevo Edge 2 - Default Title",
+      "url": "https://us.roborock.com/products/roborock-qrevo-edge-2-trade-up",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Roborock_Qrevo_Edge_2.jpg?v=1776826094",
+      "price": 1299.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "roborock-roborock-saros-10r-vacuum-trade-up-44013052657782",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Roborock Saros 10R - Default Title",
+      "url": "https://us.roborock.com/products/roborock-saros-10r-vacuum-trade-up",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Saros_10R_Set_1046eb16-958d-4c72-9327-1d61ffaee2d1.jpg?v=1763646793",
+      "price": 1599.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "roborock-12th-anniversary-roborock-h60-cordless-stick-vacuum-cleaner-44112067952",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
@@ -1580,29 +1606,16 @@
       "source_kind": "products_json"
     },
     {
-      "id": "roborock-roborock-qrevo-edge-2-robot-vacuum-43252620296310",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock Qrevo Edge 2 - 25,000 Pa HyperForce™  Suction & Dual Anti-Tangle System - Default Title",
-      "url": "https://us.roborock.com/products/roborock-qrevo-edge-2-robot-vacuum",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Roborock_Qrevo_Edge_2.jpg?v=1776826094",
-      "price": 1299.99,
+      "id": "xtool-xtool-wonderpress-3d-auto-heat-press-test-noidex-50762333192431",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "xTool - WonderPress 3D Auto Heat Press - Heat Press Standalone",
+      "url": "https://www.xtool.com/products/xtool-wonderpress-3d-auto-heat-press-test-noidex",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-reyaji_us_pc_us-wonderpress_5448-3589.webp?v=1781493117",
+      "price": 399.0,
       "currency": "USD",
       "availability": "InStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "roborock-roborock-qrevo-s-pro-robot-vacuum-43252617969782",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock Qrevo S Pro Robot Vacuum and Mop - 18,500 Pa Suction & Multifunctional Dock - Black",
-      "url": "https://us.roborock.com/products/roborock-qrevo-s-pro-robot-vacuum",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Roborock_Qrevo_Edge_2_Robot_Vacuum.jpg?v=1776825130",
-      "price": 699.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
       "source_kind": "products_json"
     },
     {
@@ -1743,19 +1756,6 @@
       "url": "https://www.xtool.com/products/material-round-glass-cabochon-fridge-magnet-20pcs",
       "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/round-glass-cabochon-fridge-magnet-20pcs-01.webp?v=1789131866",
       "price": 10.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "xtool-material-mixed-shape-glass-cabochon-fridge-magnet-9pcs-50702281539823",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Mixed-Shape Glass Cabochon Fridge Magnet (9pcs) - Default Title",
-      "url": "https://www.xtool.com/products/material-mixed-shape-glass-cabochon-fridge-magnet-9pcs",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mixed-shape-glass-cabochon-fridge-magnet-9pcs-01.webp?v=1789131895",
-      "price": 16.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
