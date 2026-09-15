@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T00:35:49Z",
+  "generated_at": "2026-09-15T06:34:40Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -808,7 +808,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/6_aa47231a-b08c-4c24-b1c7-95340aeaaf96.jpg?v=1762420091",
       "price": 39.99,
       "currency": "USD",
-      "availability": "InStock",
+      "availability": "OutOfStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
       "source_kind": "products_json"
     },
@@ -1612,7 +1612,7 @@
       "title": "M2 CleanCut Panel - Default Title",
       "url": "https://www.xtool.com/products/m2-cleancut-panel",
       "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-m2_us_pc_us1-cleancutpanel_10001-1287.webp?v=1789372464",
-      "price": 49.0,
+      "price": 39.0,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
