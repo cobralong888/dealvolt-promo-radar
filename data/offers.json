@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T00:33:32Z",
+  "generated_at": "2026-09-16T06:33:56Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -1185,7 +1185,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0504/7094/4954/files/11s_max.png?v=1723126852",
       "price": 279.99,
       "currency": "USD",
-      "availability": "https://schema.org/SoldOut",
+      "availability": "https://schema.org/InStock",
       "source_url": "https://www.eufy.com/products/t2126113",
       "source_kind": "sitemap_products"
     },
