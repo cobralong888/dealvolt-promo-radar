@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T06:33:56Z",
+  "generated_at": "2026-09-16T12:33:53Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -422,13 +422,13 @@
       "title": "Momcozy Pro-Collagen Belly Firming Moisturizer Stretch Mark Cream - 150g / 5.29 oz",
       "url": "https://momcozy.com/products/momcozy-pro-collagen-belly-firming-moisturizer-stretch-mark-cream",
       "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/150gr_Stretch_Mark_Cream.jpg?v=1779332683",
-      "price": 43.99,
+      "price": 42.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
       "source_kind": "products_json",
       "compare_at": 59.99,
-      "discount_pct": 27
+      "discount_pct": 28
     },
     {
       "id": "momcozy-slim-smart-bundle-air-1-m9-breast-pump-45719369482438",
@@ -761,19 +761,6 @@
       "source_kind": "products_json"
     },
     {
-      "id": "momcozy-bamboo-pregnancy-postpartum-panties-underwear-44507511161030",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Bamboo Pregnancy Postpartum Panties Underwear - 2 pack / S",
-      "url": "https://momcozy.com/products/bamboo-pregnancy-postpartum-panties-underwear",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/IMG_202503178395_1200x1498_0a248efb-d11f-4a32-aa4f-d4ef0a565445.jpg?v=1779351940",
-      "price": 19.99,
-      "currency": "USD",
-      "availability": "OutOfStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
       "id": "momcozy-diaper-pail-bundle-diaper-pail-trash-bags-deodorizer-packs-4684083481824",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -898,6 +885,19 @@
       "url": "https://momcozy.com/products/momcozy-coral-fleece-hooded-baby-towel-giraffe-and-rabbit",
       "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/1_42ed44ea-e9d2-4f53-985f-cd837b11356f.webp?v=1779351555",
       "price": 34.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "momcozy-momcozy-5-5-full-hd-video-baby-monitor-bm03-43908474142918",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Momcozy 5.5-inch Full HD Video Baby Monitor - BM03 - US/CA Plug / BM03 with 1 Camera & 1 SD card",
+      "url": "https://momcozy.com/products/momcozy-5-5-full-hd-video-baby-monitor-bm03",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/1_3510da4a-2e0e-4f57-b816-a5a2db7ec225.png?v=1779352233",
+      "price": 169.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
@@ -1937,7 +1937,7 @@
       "title": "Routie Case - 7\" / Breeze",
       "url": "https://www.cozyla.com/products/routie-case",
       "image": "https://cdn.shopify.com/s/files/1/0657/4958/2073/files/20260729-112333.webp?v=1785295430",
-      "price": 19.99,
+      "price": 29.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://www.cozyla.com/products.json?limit=250",
