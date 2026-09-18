@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T00:33:22Z",
+  "generated_at": "2026-09-18T06:32:40Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -619,7 +619,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-baidituyingyong_us_pc_us-metalfab-1200wwelder_cutter_8651-5397_110a62b4-9098-4ffc-be08-e24f29f17135.webp?v=1789626090",
       "price": 12799.0,
       "currency": "USD",
-      "availability": "OutOfStock",
+      "availability": "InStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
       "source_kind": "products_json",
       "compare_at": 15999.0,
@@ -634,7 +634,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-baidituyingyong_ca_pc_s1-40w-black-deluxebundle_5121-48682_430x_7ec8289c-389b-4307-9563-a13907e5857f.webp?v=1789640077",
       "price": 1831.0,
       "currency": "USD",
-      "availability": "OutOfStock",
+      "availability": "InStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
       "source_kind": "products_json",
       "compare_at": 2289.0,
