@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T06:31:15Z",
+  "generated_at": "2026-09-20T12:30:43Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -346,7 +346,7 @@
       "brand_name": "Roborock",
       "title": "【Certified Refurbished 90% New】Roborock Qrevo Slim Robot Vacuum with Multifunctional Self-Cleaning Dock 3.0 (Upgraded from Qrevo Master) - Default Title",
       "url": "https://us.roborock.com/products/certified-refurbished-90-new-roborock-qrevo-slim-robot-vacuum-with-multifunctional-self-cleaning-dock-3-0-upgraded-from-qrevo-master",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Qrevo_Slim_Set_e5788840-f9be-41c8-9119-074d51249028.jpg?v=1757903472",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Qrevo_Slim-1.png?v=1789886889",
       "price": 549.99,
       "currency": "USD",
       "availability": "InStock",
@@ -361,7 +361,7 @@
       "brand_name": "Roborock",
       "title": "【Certified Refurbished 90% New】Roborock Qrevo Pro Robot Vacuum with Multifunctional Dock 2.0 - White",
       "url": "https://us.roborock.com/products/certified-refurbished-90-new-roborock-qrevo-pro-robot-vacuum-with-multifunctional-dock-2-0",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/4fe40f089696834c4906303a743d01c5_58ca8c00-b92f-4bb9-b5ea-76d834c74fed.jpg?v=1725032031",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Qrevo_Pro_W.png?v=1789886884",
       "price": 399.99,
       "currency": "USD",
       "availability": "InStock",
@@ -778,6 +778,19 @@
   ],
   "products": [
     {
+      "id": "momcozy-momcozy-mom-and-more-gift-box-47201552269510",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Momcozy Mom and More Gift Box - Default Title",
+      "url": "https://momcozy.com/products/momcozy-mom-and-more-gift-box",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/MomandMoreGiftBox1.jpg?v=1789457260",
+      "price": 350.0,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "momcozy-postpartum-recovery-essentials-kit-b-47273085567174",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -915,19 +928,6 @@
       "url": "https://momcozy.com/products/2026-momcozy-brand-digital-storage-pouch",
       "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/Momcozy____2360x1600_6270578c-e8f0-42bb-ae83-96a320bbd1d4.jpg?v=1788857777",
       "price": 37.97,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "momcozy-mom-and-more-gift-boxnot-for-sale-47157932785862",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Mom and More Gift Box(Not for sale) - Default Title",
-      "url": "https://momcozy.com/products/mom-and-more-gift-boxnot-for-sale",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/Momcozy____2360x1600_9f3b64e1-a596-44f2-b75b-9f8739ea20f3.jpg?v=1788857606",
-      "price": 350.0,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
@@ -1636,6 +1636,19 @@
       "source_kind": "products_json"
     },
     {
+      "id": "xtool-xtool-m2-color-craft-laser-cutter-engraver-test-noindex-50844150366447",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "xTool M2: Color Craft Laser Cutter & Engraver - 10W / 10W Standalone",
+      "url": "https://www.xtool.com/products/xtool-m2-color-craft-laser-cutter-engraver-test-noindex",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-m2_us_pc_10w-20wdanji_4582-263_9b492bef-5903-4722-b2d8-a36c8c99b45e.webp?v=1779863675",
+      "price": 599.0,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "xtool-material-flip-top-black-gift-box-for-k9-crystal-and-base-50775418175727",
       "brand_slug": "xtool",
       "brand_name": "xTool",
@@ -1773,19 +1786,6 @@
       "url": "https://www.xtool.com/products/material-square-beech-wood-led-light-base-with-round-opening-for-k9-crystal-ball",
       "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/square-beech-wood-lde-light-base-with-round-opening-for-k9-crystal-ball-06.webp?v=1789569684",
       "price": 36.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "xtool-material-rounded-rectangular-walnut-wood-led-light-base-with-open-slot-507",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Rounded Rectangular Walnut Wood LED Light Base with Open Slot - Battery Type / All-in-one Bundle",
-      "url": "https://www.xtool.com/products/material-rounded-rectangular-walnut-wood-led-light-base-with-open-slot",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/rounded-rectangular-walnut-wood-led-light-base-with-open-slot-06.webp?v=1789569974",
-      "price": 29.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
