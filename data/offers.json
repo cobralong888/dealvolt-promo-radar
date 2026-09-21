@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T00:34:10Z",
+  "generated_at": "2026-09-21T06:35:19Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -149,7 +149,7 @@
           "label": "School Offers"
         }
       ],
-      "deal_count": 12,
+      "deal_count": 10,
       "product_count": 12
     },
     {
@@ -399,36 +399,6 @@
       "source_kind": "products_json",
       "compare_at": 79.98,
       "discount_pct": 32
-    },
-    {
-      "id": "xtool-iridescent-silver-gift-box-with-jewelry-foam-insert-3pcs-50149771542767",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Iridescent Silver Gift Box with Jewelry Foam Insert (3pcs) - Default Title",
-      "url": "https://www.xtool.com/products/iridescent-silver-gift-box-with-jewelry-foam-insert-3pcs",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/iridescent-silver-gift-box-with-jewelry-foam-insert-_3pcs_-02.png?v=1783664936",
-      "price": 11.19,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 15.99,
-      "discount_pct": 30
-    },
-    {
-      "id": "xtool-1-8-glitter-translucent-glossy-acrylic-sheet-for-diode-laser-cutting-3pcs",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "1/8\" Glitter Translucent Glossy Acrylic Sheet for Diode Laser Cutting (3pcs) - Red",
-      "url": "https://www.xtool.com/products/1-8-glitter-translucent-glossy-acrylic-sheet-for-diode-laser-cutting-3pcs",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/P5020370__3mm_30x30cm3pcs_format.webp?v=1726131122",
-      "price": 10.49,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 14.99,
-      "discount_pct": 30
     },
     {
       "id": "xtool-xtoolcare-for-apparel-printer-plus-50266602635503",
