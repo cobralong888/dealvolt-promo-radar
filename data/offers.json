@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T06:33:00Z",
+  "generated_at": "2026-09-22T12:32:29Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -149,7 +149,7 @@
           "label": "School Offers"
         }
       ],
-      "deal_count": 10,
+      "deal_count": 12,
       "product_count": 12
     },
     {
@@ -716,6 +716,21 @@
       "discount_pct": 13
     },
     {
+      "id": "xtool-thin-beveled-faceted-heart-shaped-k5-crystal-3pcs-49996162400495",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "Thin Beveled Faceted Heart-Shaped K5 Crystal (3pcs) - Default Title",
+      "url": "https://www.xtool.com/products/thin-beveled-faceted-heart-shaped-k5-crystal-3pcs",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/thin-beveled-faceted-heart-shaped-k5-crystal-3pcs-02_2668-247.webp?v=1782728254",
+      "price": 19.29,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 21.99,
+      "discount_pct": 12
+    },
+    {
       "id": "xtool-general-purpose-laser-materials-package-1-50269045555439",
       "brand_slug": "xtool",
       "brand_name": "xTool",
@@ -729,6 +744,21 @@
       "source_kind": "products_json",
       "compare_at": 104.99,
       "discount_pct": 10
+    },
+    {
+      "id": "xtool-material-chamfered-rectangular-k9-crystal-1pcs-50555022835951",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "Chamfered Rectangular K9 Crystal - 3.15\" / 8cm",
+      "url": "https://www.xtool.com/products/material-chamfered-rectangular-k9-crystal-1pcs",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/chamfered-rectangular-k9-crystal-1pcs-01.webp?v=1787312694",
+      "price": 24.94,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 26.99,
+      "discount_pct": 8
     },
     {
       "id": "cozyla-open-box-cozyla-calendar-46945654604025",
