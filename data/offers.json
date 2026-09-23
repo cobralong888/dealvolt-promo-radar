@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T00:32:07Z",
+  "generated_at": "2026-09-23T06:33:47Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -416,6 +416,21 @@
       "discount_pct": 32
     },
     {
+      "id": "xtool-k9-crystal-ball-engraving-studio-supply-kit-50873343705327",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "K9 Crystal Ball Engraving Studio Supply Kit - Default Title",
+      "url": "https://www.xtool.com/products/k9-crystal-ball-engraving-studio-supply-kit",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu__qitaleichanpin_us_pc_shoutu_5284-1296.webp?v=1790129884",
+      "price": 967.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 1347.99,
+      "discount_pct": 28
+    },
+    {
       "id": "xtool-xtoolcare-for-apparel-printer-plus-50266602635503",
       "brand_slug": "xtool",
       "brand_name": "xTool",
@@ -746,21 +761,6 @@
       "discount_pct": 10
     },
     {
-      "id": "xtool-material-chamfered-rectangular-k9-crystal-1pcs-50555022835951",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Chamfered Rectangular K9 Crystal - 3.15\" / 8cm",
-      "url": "https://www.xtool.com/products/material-chamfered-rectangular-k9-crystal-1pcs",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/chamfered-rectangular-k9-crystal-1pcs-01.webp?v=1787312694",
-      "price": 24.94,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 26.99,
-      "discount_pct": 8
-    },
-    {
       "id": "cozyla-open-box-cozyla-calendar-46945654604025",
       "brand_slug": "cozyla",
       "brand_name": "Cozyla",
@@ -777,6 +777,19 @@
     }
   ],
   "products": [
+    {
+      "id": "momcozy-v3-double-electric-breast-pump-47537152852166",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Momcozy V3 Double Electric Breast Pump - White",
+      "url": "https://momcozy.com/products/v3-double-electric-breast-pump",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/KF01_1_5x-WH.webp?v=1790131851",
+      "price": 249.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
     {
       "id": "momcozy-purehug-ergonomic-baby-carrier-1-47423896092870",
       "brand_slug": "momcozy",
@@ -915,19 +928,6 @@
       "url": "https://momcozy.com/products/upgraded-breastmilk-storage-bags",
       "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/80pcs.jpg?v=1789023393",
       "price": 9.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "momcozy-adjustable-buckle-baby-wrap-carrier-45719384096966",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Adjustable Buckle Baby Wrap Carrier for Newborns - Deep Black / Regular-M",
-      "url": "https://momcozy.com/products/adjustable-buckle-baby-wrap-carrier",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/6_aa47231a-b08c-4c24-b1c7-95340aeaaf96.jpg?v=1762420091",
-      "price": 39.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
