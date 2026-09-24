@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T00:34:37Z",
+  "generated_at": "2026-09-24T06:33:53Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -778,6 +778,19 @@
   ],
   "products": [
     {
+      "id": "momcozy-purehug-ergonomic-baby-carrier-2-47703448649926",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "PureHug Ergonomic Baby Carrier - Cotton / Black",
+      "url": "https://momcozy.com/products/purehug-ergonomic-baby-carrier-2",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/black-01_112d6a25-d6a5-4916-bd80-84726eddb759.jpg?v=1774497253",
+      "price": 59.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "momcozy-momcozy-seamless-sleep-bra-wireless-stretchy-soft-44761777012934",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -794,23 +807,10 @@
       "id": "momcozy-v3-double-electric-breast-pump-47537152852166",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
-      "title": "Momcozy V3 Double Electric Breast Pump - White",
+      "title": "Momcozy V3 Double Electric Breast Pump - Cloud White",
       "url": "https://momcozy.com/products/v3-double-electric-breast-pump",
       "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/KF01_1_5x_28b67e54-524b-4cf1-a454-2ca0e9021e3f.webp?v=1790148122",
       "price": 249.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "momcozy-purehug-ergonomic-baby-carrier-1-47423896092870",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "PureHug Ergonomic Baby Carrier - Cotton / Black",
-      "url": "https://momcozy.com/products/purehug-ergonomic-baby-carrier-1",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/black-01_112d6a25-d6a5-4916-bd80-84726eddb759.jpg?v=1774497253",
-      "price": 59.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
@@ -1636,6 +1636,32 @@
       "source_kind": "products_json"
     },
     {
+      "id": "xtool-material-2lb-candle-making-kit-with-wax-melter-50798630273263",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "2lb Candle Making Kit with Wax Melter - 2lb Candle Making Kit with Wax Melter",
+      "url": "https://www.xtool.com/products/material-2lb-candle-making-kit-with-wax-melter",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/01_533ad297-3a32-4590-b1bb-31491b4d496a.png?v=1790215350",
+      "price": 47.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "xtool-material-xtool-selected-uv-dtf-a-b-film-roll-set-for-o1-omni-printer-50419",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "xTool Selected UV DTF A/B Film Roll Set for O1 Omni Printer - Default Title",
+      "url": "https://www.xtool.com/products/material-xtool-selected-uv-dtf-a-b-film-roll-set-for-o1-omni-printer",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu__qitaleichanpin_us_pc_xtool-selected-uv-dtf-a-b-film-roll-set-02_4232-1155.webp?v=1790220967",
+      "price": 69.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "xtool-xtool-adjustable-phone-case-jig-for-wonderpress-50865874632943",
       "brand_slug": "xtool",
       "brand_name": "xTool",
@@ -1760,32 +1786,6 @@
       "url": "https://www.xtool.com/products/material-dtf-printing-powder-500g",
       "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/dtf-printing-powder-500g-01.webp?v=1789569007",
       "price": 18.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "xtool-material-xtool-m2-deluxe-home-diy-kit-50727642300655",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "xTool M2 Deluxe Home DIY Kit - Default Title",
-      "url": "https://www.xtool.com/products/material-xtool-m2-deluxe-home-diy-kit",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/xtool-m2-deluxe-home-diy-kit-02.webp?v=1789128575",
-      "price": 79.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "xtool-badge-jig-50724354556143",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Badge jig - Badge jig / 1pcs",
-      "url": "https://www.xtool.com/products/badge-jig",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/badge-jig-01.webp?v=1789136907",
-      "price": 10.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
