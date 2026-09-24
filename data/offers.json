@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T06:33:53Z",
+  "generated_at": "2026-09-24T12:33:30Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -521,6 +521,21 @@
       "discount_pct": 25
     },
     {
+      "id": "momcozy-wellness-1-breast-pump-120-breastmilk-storage-bags-47264856441030",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Momcozy Breast Pump Wellness 1 + 120 Breastmilk Storage Bags - Default Title",
+      "url": "https://momcozy.com/products/wellness-1-breast-pump-120-breastmilk-storage-bags",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/W1_a24c0fb9-f1a2-4cbc-93e2-267d94ffb7fe.png?v=1789629706",
+      "price": 262.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 349.99,
+      "discount_pct": 25
+    },
+    {
       "id": "momcozy-everyday-ease-bundle-s12-pro-quick-m5-smart-breast-pump-45719368138950",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -548,21 +563,6 @@
       "source_url": "https://momcozy.com/products.json?limit=250",
       "source_kind": "products_json",
       "compare_at": 299.98,
-      "discount_pct": 25
-    },
-    {
-      "id": "momcozy-momcozy-nightpro-baby-bottle-warmer-night-feeding-45954466840774",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Momcozy Night Pro Baby Bottle Warmer - Night Feeding - Warmer",
-      "url": "https://momcozy.com/products/momcozy-nightpro-baby-bottle-warmer-night-feeding",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/2_logo.jpg?v=1783590625",
-      "price": 59.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 79.99,
       "discount_pct": 25
     },
     {
@@ -626,6 +626,21 @@
       "discount_pct": 21
     },
     {
+      "id": "xtool-lightning-deal-xtool-apparel-printer-plus-versatile-bundle-test-noidex-508",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "Lightning Deal | xTool Apparel Printer Plus Versatile Bundle - Versatile Bundle",
+      "url": "https://www.xtool.com/products/lightning-deal-xtool-apparel-printer-plus-versatile-bundle-test-noidex",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-a-dtf_us_pc_xtoolapparelprinterversatilebundle_14044-201_b3f69444-e552-4b47-bb1f-15df9b744c09.webp?v=1785468793",
+      "price": 6479.0,
+      "currency": "USD",
+      "availability": "OutOfStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 8099.0,
+      "discount_pct": 20
+    },
+    {
       "id": "xtool-xtoolcare-for-xtool-o1-50167798694127",
       "brand_slug": "xtool",
       "brand_name": "xTool",
@@ -639,6 +654,21 @@
       "source_kind": "products_json",
       "compare_at": 299.0,
       "discount_pct": 20
+    },
+    {
+      "id": "xtool-lightning-deal-xtool-wonderpress-heat-press-craft-oven-test-noidex-5088545",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "Lightning Deal | xTool WonderPress Heat Press + Craft Oven Module - Heat Press + Craft Oven Module",
+      "url": "https://www.xtool.com/products/lightning-deal-xtool-wonderpress-heat-press-craft-oven-test-noidex",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-reyaji_us_pc_us-heatpresscraftovenmodule_6149-830.webp?v=1781493117",
+      "price": 543.0,
+      "currency": "USD",
+      "availability": "OutOfStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 639.0,
+      "discount_pct": 15
     },
     {
       "id": "ringconn-ringconn-gen-2-rose-gold-48458050273588",
@@ -731,42 +761,12 @@
       "discount_pct": 13
     },
     {
-      "id": "xtool-thin-beveled-faceted-heart-shaped-k5-crystal-3pcs-49996162400495",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Thin Beveled Faceted Heart-Shaped K5 Crystal (3pcs) - Default Title",
-      "url": "https://www.xtool.com/products/thin-beveled-faceted-heart-shaped-k5-crystal-3pcs",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/thin-beveled-faceted-heart-shaped-k5-crystal-3pcs-02_2668-247.webp?v=1782728254",
-      "price": 19.29,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 21.99,
-      "discount_pct": 12
-    },
-    {
-      "id": "xtool-general-purpose-laser-materials-package-1-50269045555439",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "General-Purpose Laser Materials Package - Default Title",
-      "url": "https://www.xtool.com/products/general-purpose-laser-materials-package-1",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/general-purpose-laser-materials-package-04.webp?v=1785376352",
-      "price": 94.49,
-      "currency": "USD",
-      "availability": "OutOfStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 104.99,
-      "discount_pct": 10
-    },
-    {
       "id": "cozyla-open-box-cozyla-calendar-46945654604025",
       "brand_slug": "cozyla",
       "brand_name": "Cozyla",
       "title": "Open-Box Calendar Plus 2 (Like New) - 15.6\" / 1080P FHD",
       "url": "https://www.cozyla.com/products/open-box-cozyla-calendar",
-      "image": "https://cdn.shopify.com/s/files/1/0657/4958/2073/files/24inch_cozyla_smart_calendar.jpg?v=1761813633",
+      "image": "https://cdn.shopify.com/s/files/1/0657/4958/2073/files/15.6_cal_plus_2_Main_mb_6e2139d5-3cbd-45a9-b905-b312b1877633.webp?v=1790241731",
       "price": 329.99,
       "currency": "USD",
       "availability": "InStock",
@@ -777,6 +777,19 @@
     }
   ],
   "products": [
+    {
+      "id": "momcozy-baby-sleep-sack-1-5-tog-easy-swaddle-wrap-for-0-3m-bundle-45697162707142",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Baby Sleep Sack 1.5 TOG & Easy Swaddle Wrap For 0-3M Bundle - Bloom / Small(0-6 Months/6.6-19.8 lbs) / Pink",
+      "url": "https://momcozy.com/products/baby-sleep-sack-1-5-tog-easy-swaddle-wrap-for-0-3m-bundle",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/Baby_Easy_Swaddle_Wrap_For_0-3M_Sleep_Sack_1.5_TOG_Bundle.png?v=1779351292",
+      "price": 79.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
     {
       "id": "momcozy-purehug-ergonomic-baby-carrier-2-47703448649926",
       "brand_slug": "momcozy",
@@ -848,7 +861,7 @@
       "brand_name": "Momcozy",
       "title": "Pre-order: Momcozy DeepClean Lite Baby Bottle Washer and Sterilizer - Default Title",
       "url": "https://momcozy.com/products/momcozy-deepclean-lite-baby-bottle-washer-and-sterilizer",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/Frame2147241273.jpg?v=1790151286",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/Frame_2147241273_83da3475-763d-4f81-926c-c7cb153eeecf.jpg?v=1790234105",
       "price": 299.99,
       "currency": "USD",
       "availability": "OutOfStock",
@@ -915,19 +928,6 @@
       "url": "https://momcozy.com/products/cleaning-and-on-the-go-bundle-deepclean-baby-bottle-washerd8-and-bottle-warmer-and-bottle-cooler",
       "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/20260910-151948.png?v=1789025323",
       "price": 529.97,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "momcozy-diaper-pail-bundle-diaper-pail-trash-bags-deodorizer-packs-4684083481824",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Diaper Pail Bundle: Diaper Pail + 45 Trash Bags + 4 Deodorizer Packs - Default Title",
-      "url": "https://momcozy.com/products/diaper-pail-bundle-diaper-pail-trash-bags-deodorizer-packs",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/diaper-pail-Trash_Bags-Deodorizer_Packs.jpg?v=1785383252",
-      "price": 121.97,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
@@ -1584,6 +1584,19 @@
       "source_kind": "products_json"
     },
     {
+      "id": "roborock-roborock-f25-steam-wet-dry-vacuum-with-steam-and-high-temperature-clean",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Roborock F25 Steam Wet & Dry Vacuum with Steam and High Temperature Self Cleaning - Default Title",
+      "url": "https://us.roborock.com/products/roborock-f25-steam-wet-dry-vacuum-with-steam-and-high-temperature-cleaning",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/1_17ee611f-e30c-4240-9eac-c1cabe1a5289.jpg?v=1781506625",
+      "price": 649.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "roborock-roborock-rotating-mop-cloths-for-saros-20-qrevo-edge-24-pack-4338216897",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
@@ -1591,19 +1604,6 @@
       "url": "https://us.roborock.com/products/roborock-rotating-mop-cloths-for-saros-20-qrevo-edge-24-pack",
       "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/2_Saros-10R-1.jpg?v=1757937015",
       "price": 39.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "roborock-roborock-qrevo-s-pro-robot-vacuum-43252617969782",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock Qrevo S Pro Robot Vacuum and Mop - 18,500 Pa Suction & Multifunctional Dock - Black",
-      "url": "https://us.roborock.com/products/roborock-qrevo-s-pro-robot-vacuum",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Roborock_Qrevo_Edge_2_Robot_Vacuum.jpg?v=1776825130",
-      "price": 699.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://us.roborock.com/products.json?limit=250",
@@ -1633,6 +1633,19 @@
       "currency": "USD",
       "availability": "OutOfStock",
       "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "xtool-material-dual-size-aluminum-emergency-whistle-set-10pcs-50873231442159",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "Dual-Size Aluminum Emergency Whistle Set (10pcs) - Default Title",
+      "url": "https://www.xtool.com/products/material-dual-size-aluminum-emergency-whistle-set-10pcs",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu__qitaleichanpin_us_pc_01_5386-2505.webp?v=1790247539",
+      "price": 9.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
       "source_kind": "products_json"
     },
     {
@@ -1773,19 +1786,6 @@
       "url": "https://www.xtool.com/products/m2-cleancut-panel",
       "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-m2_us_pc_us1-cleancutpanel_10001-1287.webp?v=1789372464",
       "price": 39.0,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "xtool-material-dtf-printing-powder-500g-50735064776943",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "DTF Printing Powder (500g) - DTF Printing Powder (500g)",
-      "url": "https://www.xtool.com/products/material-dtf-printing-powder-500g",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/dtf-printing-powder-500g-01.webp?v=1789569007",
-      "price": 18.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
