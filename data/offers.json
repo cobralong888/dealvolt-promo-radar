@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T00:35:28Z",
+  "generated_at": "2026-09-25T06:33:35Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -626,21 +626,6 @@
       "discount_pct": 21
     },
     {
-      "id": "xtool-lightning-deal-xtool-apparel-printer-plus-versatile-bundle-test-noidex-508",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Lightning Deal | xTool Apparel Printer Plus Versatile Bundle - Versatile Bundle",
-      "url": "https://www.xtool.com/products/lightning-deal-xtool-apparel-printer-plus-versatile-bundle-test-noidex",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-a-dtf_us_pc_xtoolapparelprinterversatilebundle_14044-201_b3f69444-e552-4b47-bb1f-15df9b744c09.webp?v=1785468793",
-      "price": 6479.0,
-      "currency": "USD",
-      "availability": "OutOfStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 8099.0,
-      "discount_pct": 20
-    },
-    {
       "id": "xtool-xtoolcare-for-xtool-o1-50167798694127",
       "brand_slug": "xtool",
       "brand_name": "xTool",
@@ -654,21 +639,6 @@
       "source_kind": "products_json",
       "compare_at": 299.0,
       "discount_pct": 20
-    },
-    {
-      "id": "xtool-lightning-deal-xtool-wonderpress-heat-press-craft-oven-test-noidex-5088545",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Lightning Deal | xTool WonderPress Heat Press + Craft Oven Module - Heat Press + Craft Oven Module",
-      "url": "https://www.xtool.com/products/lightning-deal-xtool-wonderpress-heat-press-craft-oven-test-noidex",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-reyaji_us_pc_us-heatpresscraftovenmodule_6149-830.webp?v=1781493117",
-      "price": 543.0,
-      "currency": "USD",
-      "availability": "OutOfStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 639.0,
-      "discount_pct": 15
     },
     {
       "id": "ringconn-ringconn-gen-2-rose-gold-48458050273588",
@@ -759,6 +729,36 @@
       "source_kind": "products_json",
       "compare_at": 31.99,
       "discount_pct": 13
+    },
+    {
+      "id": "xtool-thin-beveled-faceted-heart-shaped-k5-crystal-3pcs-49996162400495",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "Thin Beveled Faceted Heart-Shaped K5 Crystal (3pcs) - Default Title",
+      "url": "https://www.xtool.com/products/thin-beveled-faceted-heart-shaped-k5-crystal-3pcs",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/thin-beveled-faceted-heart-shaped-k5-crystal-3pcs-02_2668-247.webp?v=1782728254",
+      "price": 19.29,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 21.99,
+      "discount_pct": 12
+    },
+    {
+      "id": "xtool-general-purpose-laser-materials-package-1-50269045555439",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "General-Purpose Laser Materials Package - Default Title",
+      "url": "https://www.xtool.com/products/general-purpose-laser-materials-package-1",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/general-purpose-laser-materials-package-04.webp?v=1785376352",
+      "price": 94.49,
+      "currency": "USD",
+      "availability": "OutOfStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 104.99,
+      "discount_pct": 10
     },
     {
       "id": "cozyla-open-box-cozyla-calendar-46945654604025",
