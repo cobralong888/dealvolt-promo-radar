@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T06:33:35Z",
+  "generated_at": "2026-09-25T12:33:34Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -416,6 +416,21 @@
       "discount_pct": 32
     },
     {
+      "id": "xtool-material-ceramic-fridge-magnet-20pcs-50308078043375",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "xTool Selected Ceramic Fridge Magnet (20pcs) - Round",
+      "url": "https://www.xtool.com/products/material-ceramic-fridge-magnet-20pcs",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/round-ceramic-fridge-magnet-02.png?v=1786067538",
+      "price": 11.89,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 16.99,
+      "discount_pct": 30
+    },
+    {
       "id": "xtool-k9-crystal-ball-engraving-studio-supply-kit-50873343705327",
       "brand_slug": "xtool",
       "brand_name": "xTool",
@@ -744,21 +759,6 @@
       "source_kind": "products_json",
       "compare_at": 21.99,
       "discount_pct": 12
-    },
-    {
-      "id": "xtool-general-purpose-laser-materials-package-1-50269045555439",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "General-Purpose Laser Materials Package - Default Title",
-      "url": "https://www.xtool.com/products/general-purpose-laser-materials-package-1",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/general-purpose-laser-materials-package-04.webp?v=1785376352",
-      "price": 94.49,
-      "currency": "USD",
-      "availability": "OutOfStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 104.99,
-      "discount_pct": 10
     },
     {
       "id": "cozyla-open-box-cozyla-calendar-46945654604025",
@@ -1129,6 +1129,19 @@
       "source_kind": "sitemap_products"
     },
     {
+      "id": "ninja-multi-purpose-pan-for-ninja-cooking-system",
+      "brand_slug": "ninja",
+      "brand_name": "Ninja",
+      "title": "Multi Purpose Pan for Ninja Cooking System",
+      "url": "https://www.sharkninja.com/multi-purpose-pan-for-ninja-cooking-system/AMC01.html",
+      "image": "https://assets.sharkninja.com/image/upload/f_auto/q_auto/SharkNinja-NA/AMC01_01.jpg",
+      "price": 23.99,
+      "currency": "USD",
+      "availability": "http://schema.org/OutOfStock",
+      "source_url": "https://www.sharkninja.com/multi-purpose-pan-for-ninja-cooking-system/AMC01.html",
+      "source_kind": "sitemap_products"
+    },
+    {
       "id": "ninja-roasting-lifters",
       "brand_slug": "ninja",
       "brand_name": "Ninja",
@@ -1142,55 +1155,42 @@
       "source_kind": "sitemap_products"
     },
     {
-      "id": "ninja-roasting-rack-for-your-cooking-system",
+      "id": "ninja-ninja-spatula",
       "brand_slug": "ninja",
       "brand_name": "Ninja",
-      "title": "Roasting Rack for your Cooking System",
-      "url": "https://www.sharkninja.com/roasting-rack-for-your-cooking-system/AMC20.html",
-      "image": "https://assets.sharkninja.com/image/upload/f_auto/q_auto/SharkNinja-NA/AMC20_01.jpg",
-      "price": 13.99,
-      "currency": "USD",
-      "availability": "http://schema.org/InStock",
-      "source_url": "https://www.sharkninja.com/roasting-rack-for-your-cooking-system/AMC20.html",
-      "source_kind": "sitemap_products"
-    },
-    {
-      "id": "ninja-non-stick-removable-pot-cooking-system",
-      "brand_slug": "ninja",
-      "brand_name": "Ninja",
-      "title": "Non Stick Removable Pot -Cooking System",
-      "url": "https://www.sharkninja.com/non-stick-removable-pot--cooking-system/AMC21.html",
-      "image": "https://assets.sharkninja.com/image/upload/f_auto/q_auto/SharkNinja-NA/AMC21_01.jpg",
-      "price": 28.99,
-      "currency": "USD",
-      "availability": "http://schema.org/InStock",
-      "source_url": "https://www.sharkninja.com/non-stick-removable-pot--cooking-system/AMC21.html",
-      "source_kind": "sitemap_products"
-    },
-    {
-      "id": "ninja-ninja-instant-cooker-steam-rack",
-      "brand_slug": "ninja",
-      "brand_name": "Ninja",
-      "title": "Ninja® Instant Cooker Steam Rack",
-      "url": "https://www.sharkninja.com/ninja-instant-cooker-steam-rack/APC01.html",
-      "image": "https://assets.sharkninja.com/image/upload/f_auto/q_auto/SharkNinja-NA/APC01_01.jpg",
-      "price": 16.99,
+      "title": "Ninja Spatula",
+      "url": "https://www.sharkninja.com/ninja-spatula/AMC14.html",
+      "image": "https://assets.sharkninja.com/image/upload/f_auto/q_auto/SharkNinja-NA/AMC14_01.jpg",
+      "price": 8.99,
       "currency": "USD",
       "availability": "http://schema.org/OutOfStock",
-      "source_url": "https://www.sharkninja.com/ninja-instant-cooker-steam-rack/APC01.html",
+      "source_url": "https://www.sharkninja.com/ninja-spatula/AMC14.html",
       "source_kind": "sitemap_products"
     },
     {
-      "id": "ninja-ninja-instant-cooker-glass-lid",
+      "id": "ninja-ninja-spoon",
       "brand_slug": "ninja",
       "brand_name": "Ninja",
-      "title": "Ninja® Instant Cooker Glass Lid",
-      "url": "https://www.sharkninja.com/ninja-instant-cooker-glass-lid/APC02.html",
-      "image": "https://assets.sharkninja.com/image/upload/f_auto/q_auto/SharkNinja-NA/APC02_01.jpg",
-      "price": 16.99,
+      "title": "Ninja Spoon",
+      "url": "https://www.sharkninja.com/ninja-spoon/AMC15.html",
+      "image": "https://assets.sharkninja.com/image/upload/f_auto/q_auto/SharkNinja-NA/AMC15_01.jpg",
+      "price": 8.99,
       "currency": "USD",
       "availability": "http://schema.org/OutOfStock",
-      "source_url": "https://www.sharkninja.com/ninja-instant-cooker-glass-lid/APC02.html",
+      "source_url": "https://www.sharkninja.com/ninja-spoon/AMC15.html",
+      "source_kind": "sitemap_products"
+    },
+    {
+      "id": "ninja-ninja-mini-warmer-cooking-system",
+      "brand_slug": "ninja",
+      "brand_name": "Ninja",
+      "title": "Ninja Mini Warmer - Cooking System",
+      "url": "https://www.sharkninja.com/ninja-mini-warmer---cooking-system/AMC17.html",
+      "image": "https://assets.sharkninja.com/image/upload/f_auto/q_auto/SharkNinja-NA/AMC17_01.jpg",
+      "price": 39.99,
+      "currency": "USD",
+      "availability": "http://schema.org/OutOfStock",
+      "source_url": "https://www.sharkninja.com/ninja-mini-warmer---cooking-system/AMC17.html",
       "source_kind": "sitemap_products"
     },
     {
