@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T06:32:36Z",
+  "generated_at": "2026-09-27T12:32:09Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -1109,7 +1109,7 @@
       "title": "Ninja 5-QT Air Fryer Pro",
       "url": "https://www.sharkninja.com/ninja-air-fryer-pro-4-in-1/AF141.html",
       "image": "https://assets.sharkninja.com/image/upload/f_auto/q_auto/SharkNinja-NA/AF141_01.jpg",
-      "price": 129.99,
+      "price": 99.99,
       "currency": "USD",
       "availability": "http://schema.org/InStock",
       "source_url": "https://www.sharkninja.com/ninja-air-fryer-pro-4-in-1/AF141.html",
@@ -1122,7 +1122,7 @@
       "title": "Ninja 6.5-QT Air Fryer Pro in Stone Gold",
       "url": "https://www.sharkninja.com/ninja-air-fryer-pro-xl-6-in-1-stone-gold/AF181SD.html",
       "image": "https://assets.sharkninja.com/image/upload/f_auto/q_auto/SharkNinja-NA/AF181SD_01.jpg",
-      "price": 179.99,
+      "price": 119.99,
       "currency": "USD",
       "availability": "https://schema.org/InStock",
       "source_url": "https://www.sharkninja.com/ninja-air-fryer-pro-xl-6-in-1/AF181.html",
@@ -1480,6 +1480,19 @@
       "source_kind": "products_json"
     },
     {
+      "id": "roborock-roborock-accessories-pack-for-saros-10-42226657362038",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Roborock Accessories Pack for Saros 10 (Not compatible with Saros 10R ) - Default Title",
+      "url": "https://us.roborock.com/products/roborock-accessories-pack-for-saros-10",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Saros10-Verdelite.jpg?v=1747819505",
+      "price": 99.0,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "roborock-roborock-saros-20-flow-44181001338998",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
@@ -1617,19 +1630,6 @@
       "url": "https://us.roborock.com/products/roborock-3-packs-disposable-dust-bags-for-h60-hub-ultra-and-h60-hub-pro-cordless-vacuum-cleaner-with-auto-empty-dock-stick-vacuum-cleaner-for-home-and-pet-hair-anti-tangle-brush-led-dust-detection",
       "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/3L.jpg?v=1776327958",
       "price": 12.99,
-      "currency": "USD",
-      "availability": "OutOfStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "roborock-roborock-3-packs-disposable-dust-bags-for-h60-hub-ultra-and-h60-hub-pro",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock 12 Packs Disposable Dust Bags for H60 Hub Ultra and H60 Hub Pro Cordless Vacuum Cleaner - Default Title",
-      "url": "https://us.roborock.com/products/roborock-3-packs-disposable-dust-bags-for-h60-hub-ultra-and-h60-hub-pro-cordless-vacuum-cleaner-copy",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/61Rjvr4FSVL._AC_SL1500.jpg?v=1776235910",
-      "price": 49.99,
       "currency": "USD",
       "availability": "OutOfStock",
       "source_url": "https://us.roborock.com/products.json?limit=250",
