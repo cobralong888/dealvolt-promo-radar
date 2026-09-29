@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T18:32:58Z",
+  "generated_at": "2026-09-29T00:35:37Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -229,7 +229,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/S7_Max_Ultra_B.jpg?v=1757915973",
       "price": 399.99,
       "currency": "USD",
-      "availability": "InStock",
+      "availability": "OutOfStock",
       "source_url": "https://us.roborock.com/products.json?limit=250",
       "source_kind": "products_json",
       "compare_at": 1299.99,
