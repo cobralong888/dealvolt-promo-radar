@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T06:35:32Z",
+  "generated_at": "2026-09-29T12:36:15Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -1226,7 +1226,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0504/7094/4954/files/motion-sensor-800px-removebg-preview.png?v=1700830750",
       "price": 29.99,
       "currency": "USD",
-      "availability": "https://schema.org/InStock",
+      "availability": "https://schema.org/SoldOut",
       "source_url": "https://www.eufy.com/products/t8910021",
       "source_kind": "sitemap_products"
     },
@@ -1543,19 +1543,6 @@
       "source_kind": "products_json"
     },
     {
-      "id": "roborock-roborock-qrevo-edge-3-pro-robot-vacuum-44022024470646",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock Qrevo Edge 3 Pro Robot Vacuum - Black",
-      "url": "https://us.roborock.com/products/roborock-qrevo-edge-3-pro-robot-vacuum",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Set_VidaF.png?v=1786520909",
-      "price": 1499.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
       "id": "roborock-roborock-qrevo-2-pro-1-43890947326070",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
@@ -1615,6 +1602,19 @@
       "url": "https://us.roborock.com/products/roborock-3-packs-disposable-dust-bags-for-h60-hub-ultra-and-h60-hub-pro-cordless-vacuum-cleaner-copy",
       "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/61Rjvr4FSVL._AC_SL1500.jpg?v=1776235910",
       "price": 49.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "roborock-roborock-rechargeable-battery-pack-for-h60-hub-pro-and-h60-pro-cordless",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Roborock Rechargeable Battery Pack for H60 Hub Pro and H60 Pro Cordless Vacuum Cleaner - Default Title",
+      "url": "https://us.roborock.com/products/roborock-rechargeable-battery-pack-for-h60-hub-pro-and-h60-pro-cordless-vacuum-cleaner-stick-vacuum-cleaner-for-home-and-pet-hair-anti-tangle-brush-led-dust-detection",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/511NiK-HGhL._AC_SL1500.jpg?v=1776236734",
+      "price": 129.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://us.roborock.com/products.json?limit=250",
