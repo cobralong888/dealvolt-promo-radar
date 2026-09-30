@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T00:37:43Z",
+  "generated_at": "2026-09-30T06:35:29Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -849,7 +849,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/Frame_2147241273_83da3475-763d-4f81-926c-c7cb153eeecf.jpg?v=1790234105",
       "price": 299.99,
       "currency": "USD",
-      "availability": "OutOfStock",
+      "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
       "source_kind": "products_json"
     },
@@ -1226,7 +1226,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0504/7094/4954/files/motion-sensor-800px-removebg-preview.png?v=1700830750",
       "price": 29.99,
       "currency": "USD",
-      "availability": "https://schema.org/SoldOut",
+      "availability": "https://schema.org/InStock",
       "source_url": "https://www.eufy.com/products/t8910021",
       "source_kind": "sitemap_products"
     },
@@ -1473,7 +1473,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Saros10-Verdelite.jpg?v=1747819505",
       "price": 99.0,
       "currency": "USD",
-      "availability": "InStock",
+      "availability": "OutOfStock",
       "source_url": "https://us.roborock.com/products.json?limit=250",
       "source_kind": "products_json"
     },
