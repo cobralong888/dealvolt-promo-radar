@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T12:39:21Z",
+  "generated_at": "2026-09-30T18:32:06Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -386,21 +386,6 @@
       "discount_pct": 40
     },
     {
-      "id": "xtool-f2-ultra-mopa-uv-ultimate-business-duo-test-noidex-50916416749807",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Lightning Deals | xTool F2 Ultra (Dual) + F2 Ultra UV Productive Duo - F2 Ultra (Dual) +F2 Ultra UV Productive Duo",
-      "url": "https://www.xtool.com/products/f2-ultra-mopa-uv-ultimate-business-duo-test-noidex",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-baidituyingyong_us_pc_us-f2ultra_dual__f2ultrauvproductiveduo_8648-32922_7c82ec4d-fffa-4110-84ab-bdff9b98d674.webp?v=1790752988",
-      "price": 8399.0,
-      "currency": "USD",
-      "availability": "OutOfStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 12397.0,
-      "discount_pct": 32
-    },
-    {
       "id": "momcozy-6-in-1-fast-baby-bottle-warmer-and-120-count-breastmilk-storage-bags-441",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -626,36 +611,6 @@
       "discount_pct": 21
     },
     {
-      "id": "xtool-lightning-deal-xtool-s1-40w-deluxe-bundle-enclosed-diode-laser-cutter-test",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Lightning Deal | xTool S1 40W Deluxe Bundle - 40W Deluxe Bundle",
-      "url": "https://www.xtool.com/products/lightning-deal-xtool-s1-40w-deluxe-bundle-enclosed-diode-laser-cutter-test-noidex",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-baidituyingyong_ca_pc_s1-40w-black-deluxebundle_5121-48682_430x_7ec8289c-389b-4307-9563-a13907e5857f.webp?v=1789640077",
-      "price": 1831.0,
-      "currency": "USD",
-      "availability": "OutOfStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 2289.0,
-      "discount_pct": 20
-    },
-    {
-      "id": "xtool-lightning-deals-xtool-f2-standalone-test-noidex-50916543004911",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Lightning Deals| xTool F2 Standalone - F2 Standalone",
-      "url": "https://www.xtool.com/products/lightning-deals-xtool-f2-standalone-test-noidex",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-f2chanpinye_us_pc_f2_2488-2704.webp?v=1762229455",
-      "price": 1199.0,
-      "currency": "USD",
-      "availability": "OutOfStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 1499.0,
-      "discount_pct": 20
-    },
-    {
       "id": "xtool-xtoolcare-for-xtool-o1-50167798694127",
       "brand_slug": "xtool",
       "brand_name": "xTool",
@@ -744,6 +699,51 @@
       "source_kind": "products_json",
       "compare_at": 31.99,
       "discount_pct": 13
+    },
+    {
+      "id": "xtool-material-xtool-selected-dt-maintenance-tank-for-o1-omni-printer-5016370102",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "xTool Selected DT Maintenance Tank for O1 Omni Printer - Default Title",
+      "url": "https://www.xtool.com/products/material-xtool-selected-dt-maintenance-tank-for-o1-omni-printer",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/xtool-selected-dt-maintenance-tank-01.webp?v=1783956688",
+      "price": 27.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 31.99,
+      "discount_pct": 13
+    },
+    {
+      "id": "xtool-thin-beveled-faceted-heart-shaped-k5-crystal-3pcs-49996162400495",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "Thin Beveled Faceted Heart-Shaped K5 Crystal (3pcs) - Default Title",
+      "url": "https://www.xtool.com/products/thin-beveled-faceted-heart-shaped-k5-crystal-3pcs",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/thin-beveled-faceted-heart-shaped-k5-crystal-3pcs-02_2668-247.webp?v=1782728254",
+      "price": 19.29,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 21.99,
+      "discount_pct": 12
+    },
+    {
+      "id": "xtool-general-purpose-laser-materials-package-1-50269045555439",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "General-Purpose Laser Materials Package - Default Title",
+      "url": "https://www.xtool.com/products/general-purpose-laser-materials-package-1",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/general-purpose-laser-materials-package-04.webp?v=1785376352",
+      "price": 94.49,
+      "currency": "USD",
+      "availability": "OutOfStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 104.99,
+      "discount_pct": 10
     },
     {
       "id": "cozyla-open-box-cozyla-calendar-46945654604025",
