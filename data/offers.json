@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T12:37:13Z",
+  "generated_at": "2026-10-01T18:35:05Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -1673,19 +1673,6 @@
       "source_kind": "products_json"
     },
     {
-      "id": "xtool-xtool-m2-color-craft-laser-cutter-engraver-test-noindex-50844150366447",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "xTool M2: Color Craft Laser Cutter & Engraver - 10W / 10W Standalone",
-      "url": "https://www.xtool.com/products/xtool-m2-color-craft-laser-cutter-engraver-test-noindex",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-m2_us_pc_10w-20wdanji_4582-263_9b492bef-5903-4722-b2d8-a36c8c99b45e.webp?v=1779863675",
-      "price": 599.0,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
       "id": "xtool-material-flip-top-black-gift-box-for-k9-crystal-and-base-50775418175727",
       "brand_slug": "xtool",
       "brand_name": "xTool",
@@ -1773,6 +1760,19 @@
       "price": 39.0,
       "currency": "USD",
       "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "xtool-material-dtf-printing-powder-500g-50735064776943",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "DTF Printing Powder (500g) - DTF Printing Powder (500g)",
+      "url": "https://www.xtool.com/products/material-dtf-printing-powder-500g",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/dtf-printing-powder-500g-01.webp?v=1789569007",
+      "price": 18.99,
+      "currency": "USD",
+      "availability": "OutOfStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
       "source_kind": "products_json"
     },
