@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T00:37:04Z",
+  "generated_at": "2026-10-02T06:35:40Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -394,7 +394,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-baidituyingyong_us_pc_us-f2ultra_dual__f2ultrauvproductiveduo_8648-32922_7c82ec4d-fffa-4110-84ab-bdff9b98d674.webp?v=1790752988",
       "price": 8399.0,
       "currency": "USD",
-      "availability": "OutOfStock",
+      "availability": "InStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
       "source_kind": "products_json",
       "compare_at": 12397.0,
@@ -634,7 +634,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-baidituyingyong_ca_pc_s1-40w-black-deluxebundle_5121-48682_430x_7ec8289c-389b-4307-9563-a13907e5857f.webp?v=1789640077",
       "price": 1831.0,
       "currency": "USD",
-      "availability": "OutOfStock",
+      "availability": "InStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
       "source_kind": "products_json",
       "compare_at": 2289.0,
@@ -1016,9 +1016,9 @@
       "title": "Anker 2.4G Wireless Vertical Ergonomic Optical Mouse",
       "url": "https://www.anker.com/products/a7582",
       "image": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/E1.png?v=1744787878",
-      "price": 29.99,
+      "price": 9999999.99,
       "currency": "USD",
-      "availability": "https://schema.org/InStock",
+      "availability": "https://schema.org/SoldOut",
       "source_url": "https://www.anker.com/products/a7582",
       "source_kind": "sitemap_products"
     },
