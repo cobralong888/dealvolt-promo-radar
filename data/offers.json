@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T18:33:33Z",
+  "generated_at": "2026-10-03T00:35:37Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -1499,7 +1499,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Set_Beryl_S_B.png?v=1790045685",
       "price": 1699.99,
       "currency": "USD",
-      "availability": "InStock",
+      "availability": "OutOfStock",
       "source_url": "https://us.roborock.com/products.json?limit=250",
       "source_kind": "products_json"
     },
