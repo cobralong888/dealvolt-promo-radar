@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T00:35:37Z",
+  "generated_at": "2026-10-03T06:37:36Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -1016,9 +1016,9 @@
       "title": "Anker 2.4G Wireless Vertical Ergonomic Optical Mouse",
       "url": "https://www.anker.com/products/a7582",
       "image": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/E1.png?v=1744787878",
-      "price": 9999999.99,
+      "price": 29.99,
       "currency": "USD",
-      "availability": "https://schema.org/SoldOut",
+      "availability": "https://schema.org/InStock",
       "source_url": "https://www.anker.com/products/a7582",
       "source_kind": "sitemap_products"
     },
