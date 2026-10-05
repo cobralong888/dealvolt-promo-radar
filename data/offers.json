@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T12:39:18Z",
+  "generated_at": "2026-10-05T18:36:43Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -149,7 +149,7 @@
           "label": "School Offers"
         }
       ],
-      "deal_count": 11,
+      "deal_count": 10,
       "product_count": 12
     },
     {
@@ -684,21 +684,6 @@
       "source_kind": "products_json",
       "compare_at": 21.99,
       "discount_pct": 12
-    },
-    {
-      "id": "xtool-xtoolcare-for-apparel-printer-plus-50266602635503",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "xToolCare for Apparel Printer Plus - 1-Year Plan",
-      "url": "https://www.xtool.com/products/xtoolcare-for-apparel-printer-plus",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-dtf_us_pc_xtoolcarefordtf_7175-178.webp?v=1744107911",
-      "price": 485.0,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 539.0,
-      "discount_pct": 10
     },
     {
       "id": "xtool-general-purpose-laser-materials-package-1-50269045555439",
