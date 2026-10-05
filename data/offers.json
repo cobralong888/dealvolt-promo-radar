@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T00:40:03Z",
+  "generated_at": "2026-10-05T06:41:54Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -304,7 +304,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/cca277d7-f2b0-4eef-8f92-f2340a92cea9_fefcc0d8-520e-467e-80af-855c1828f49a.jpg?v=1725035800",
       "price": 219.99,
       "currency": "USD",
-      "availability": "InStock",
+      "availability": "OutOfStock",
       "source_url": "https://us.roborock.com/products.json?limit=250",
       "source_kind": "products_json",
       "compare_at": 599.99,
