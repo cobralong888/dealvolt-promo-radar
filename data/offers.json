@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T06:36:36Z",
+  "generated_at": "2026-10-06T12:36:42Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -165,7 +165,7 @@
           "label": "Student Discount Program"
         }
       ],
-      "deal_count": 1,
+      "deal_count": 2,
       "product_count": 12
     },
     {
@@ -236,6 +236,21 @@
       "discount_pct": 69
     },
     {
+      "id": "roborock-roborock-s8-max-ultra-with-refill-drainage-system-40697726828662",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Roborock S8 Max Ultra with Refill & Drainage System - Default Title",
+      "url": "https://us.roborock.com/products/roborock-s8-max-ultra-with-refill-drainage-system",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/S8_Max_Ultra_W.jpg?v=1757915452",
+      "price": 549.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 1699.99,
+      "discount_pct": 68
+    },
+    {
       "id": "roborock-certified-refurbished-90-new-roborock-qrevo-master-robot-vacuum-with-mu",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
@@ -264,6 +279,21 @@
       "source_kind": "products_json",
       "compare_at": 1399.99,
       "discount_pct": 66
+    },
+    {
+      "id": "roborock-roborock-saros-z70-42153743188086",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Roborock Saros Z70 Robot Vacuum with OmniGrip™ Mechanical Arm - Black",
+      "url": "https://us.roborock.com/products/roborock-saros-z70",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Z70_B_Set_ffd70f58-2474-48d6-bc96-642049b0ba2a.jpg?v=1757914634",
+      "price": 964.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 2599.99,
+      "discount_pct": 63
     },
     {
       "id": "roborock-certified-refurbished-90-new-roborock-qrevo-edge-robot-vacuum-with-mult",
@@ -311,36 +341,6 @@
       "discount_pct": 63
     },
     {
-      "id": "roborock-roborock-saros-z70-42153743188086",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock Saros Z70 Robot Vacuum with OmniGrip™ Mechanical Arm - Black",
-      "url": "https://us.roborock.com/products/roborock-saros-z70",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Z70_B_Set_ffd70f58-2474-48d6-bc96-642049b0ba2a.jpg?v=1757914634",
-      "price": 999.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 2599.99,
-      "discount_pct": 62
-    },
-    {
-      "id": "roborock-roborock-s8-max-ultra-with-refill-drainage-system-40697726828662",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock S8 Max Ultra with Refill & Drainage System - Default Title",
-      "url": "https://us.roborock.com/products/roborock-s8-max-ultra-with-refill-drainage-system",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/S8_Max_Ultra_W.jpg?v=1757915452",
-      "price": 649.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 1699.99,
-      "discount_pct": 62
-    },
-    {
       "id": "roborock-roborock-q7-max-plus-39673154142326",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
@@ -371,6 +371,21 @@
       "discount_pct": 62
     },
     {
+      "id": "momcozy-momcozy-6-in-1-fast-baby-bottle-warmer-43177428779206",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "6-in-1 Fast Baby Bottle Warmer - Warmer",
+      "url": "https://momcozy.com/products/momcozy-6-in-1-fast-baby-bottle-warmer",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/1_456709c1-0f65-4444-b75d-629f4c04f945.jpg?v=1779352551",
+      "price": 33.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 59.99,
+      "discount_pct": 43
+    },
+    {
       "id": "momcozy-momcozy-shapewear-bodysuit-postpartum-daily-dress-44781901381830",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -386,6 +401,21 @@
       "discount_pct": 40
     },
     {
+      "id": "momcozy-momcozy-women-maternity-biker-shorts-with-pocket-6-over-belly-high-waist",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Momcozy Women's 6\" Over Belly Maternity Biker Shorts with Pockets - Black / M",
+      "url": "https://momcozy.com/products/momcozy-women-maternity-biker-shorts-with-pocket-6-over-belly-high-waisted-pregnancy-yoga-shorts-seamless-casual-activewear",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/1_8d1d58c3-605f-4adc-a24d-47f7ae1cab68.jpg?v=1779351342",
+      "price": 19.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 29.99,
+      "discount_pct": 33
+    },
+    {
       "id": "momcozy-6-in-1-fast-baby-bottle-warmer-and-120-count-breastmilk-storage-bags-441",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -399,6 +429,51 @@
       "source_kind": "products_json",
       "compare_at": 79.98,
       "discount_pct": 32
+    },
+    {
+      "id": "momcozy-momcozy-smart-wearable-baby-thermometer-signal-booster-set-4695122283744",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Momcozy Smart Wearable Baby Thermometer & Signal Booster Set - Default Title",
+      "url": "https://momcozy.com/products/momcozy-smart-wearable-baby-thermometer-signal-booster-set",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/4_cea513b6-9972-4b6f-bec2-38de613b2894.png?v=1787061527",
+      "price": 47.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 69.98,
+      "discount_pct": 31
+    },
+    {
+      "id": "momcozy-momcozy-wellness-1-warm-massage-wearable-breast-pump-w1-47272658239686",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Momcozy Wellness 1 Warm-Massage Wearable Breast Pump - Double",
+      "url": "https://momcozy.com/products/momcozy-wellness-1-warm-massage-wearable-breast-pump-w1",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/1._1_app2.jpg?v=1777030861",
+      "price": 229.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 329.99,
+      "discount_pct": 30
+    },
+    {
+      "id": "momcozy-momcozy-contact-free-smart-baby-monitor-45653313781958",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Momcozy Contact-Free Smart Baby Monitor (BM08) - Default Title",
+      "url": "https://momcozy.com/products/momcozy-contact-free-smart-baby-monitor",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/BM08-1_697ff420-4032-42b7-b1f3-c5fb370e5ac7.jpg?v=1779416125",
+      "price": 175.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 249.99,
+      "discount_pct": 30
     },
     {
       "id": "xtool-k9-crystal-ball-engraving-studio-supply-kit-50873343705327",
@@ -431,34 +506,19 @@
       "discount_pct": 28
     },
     {
-      "id": "momcozy-slim-smart-bundle-air-1-m9-breast-pump-45719369482438",
+      "id": "momcozy-s12-pro-quick-breast-pump-replacement-parts-45731821912262",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
-      "title": "Slim & Smart Bundle: Air 1 Ultra-slim Breast Pump and M9 Mobile Flow™ Breast Pump - Default Title",
-      "url": "https://momcozy.com/products/slim-smart-bundle-air-1-m9-breast-pump",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/Air1_M9_964c4ec7-6619-44ef-ade5-da39b1d2aad8.webp?v=1779351253",
-      "price": 479.99,
+      "title": "S12 Pro Quick Breast Pump Replacement Parts - Flange 24mm (1 pc)",
+      "url": "https://momcozy.com/products/s12-pro-quick-breast-pump-replacement-parts",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/24_-1.png?v=1779353086",
+      "price": 13.67,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
       "source_kind": "products_json",
-      "compare_at": 639.98,
-      "discount_pct": 25
-    },
-    {
-      "id": "momcozy-workday-flow-bundle-m6-m9-breast-pump-45719369253062",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Workday Flow Bundle: M6 Mobile Style™ Breast Pump and M9 Mobile Flow™ Breast Pump - Default Title",
-      "url": "https://momcozy.com/products/workday-flow-bundle-m6-m9-breast-pump",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/M6_M9.webp?v=1779351254",
-      "price": 374.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 499.98,
-      "discount_pct": 25
+      "compare_at": 18.99,
+      "discount_pct": 28
     },
     {
       "id": "momcozy-power-portability-bundle-m6-v1-pro-breast-pump-45719368597702",
@@ -473,21 +533,6 @@
       "source_url": "https://momcozy.com/products.json?limit=250",
       "source_kind": "products_json",
       "compare_at": 429.98,
-      "discount_pct": 25
-    },
-    {
-      "id": "momcozy-control-power-bundle-m5-smart-v1-pro-breast-pump-45719368892614",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Control & Power Bundle: M5 Smart Wearable Breast Pump & V1 Pro V1 Pro Hospital-Grade Breast Pump - Default Title",
-      "url": "https://momcozy.com/products/control-power-bundle-m5-smart-v1-pro-breast-pump",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/v1pro_m5smart.webp?v=1779351256",
-      "price": 299.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 399.98,
       "discount_pct": 25
     },
     {
@@ -521,36 +566,6 @@
       "discount_pct": 25
     },
     {
-      "id": "momcozy-momcozy-nightpro-baby-bottle-warmer-night-feeding-45954466840774",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Momcozy Night Pro Baby Bottle Warmer - Night Feeding - Warmer",
-      "url": "https://momcozy.com/products/momcozy-nightpro-baby-bottle-warmer-night-feeding",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/2_logo.jpg?v=1783590625",
-      "price": 59.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 79.99,
-      "discount_pct": 25
-    },
-    {
-      "id": "momcozy-momcozy-6-in-1-fast-baby-bottle-warmer-43177428779206",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "6-in-1 Fast Baby Bottle Warmer - Warmer",
-      "url": "https://momcozy.com/products/momcozy-6-in-1-fast-baby-bottle-warmer",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/1_456709c1-0f65-4444-b75d-629f4c04f945.jpg?v=1779352551",
-      "price": 44.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 59.99,
-      "discount_pct": 25
-    },
-    {
       "id": "xtool-xtool-f2-ultra-60w-mopa-40w-diode-dual-laser-engraver-copy-test-noindex-46",
       "brand_slug": "xtool",
       "brand_name": "xTool",
@@ -566,19 +581,19 @@
       "discount_pct": 24
     },
     {
-      "id": "momcozy-momcozy-automeal-baby-food-maker-43930445742278",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Momcozy AutoMeal Baby Food Maker - Default Title",
-      "url": "https://momcozy.com/products/momcozy-automeal-baby-food-maker",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/1-2_ff5cd7b0-f9ed-43ef-aabc-814fd603a163.jpg?v=1779352209",
-      "price": 99.99,
+      "id": "ringconn-ringconn-gen-2-air-48494897266996",
+      "brand_slug": "ringconn",
+      "brand_name": "RingConn",
+      "title": "RingConn Gen 2 Air - Dune Gold / 6",
+      "url": "https://ringconn.com/products/ringconn-gen-2-air",
+      "image": "https://cdn.shopify.com/s/files/1/0850/1769/0420/files/ringconn_gen_2_air_3.png?v=1780302382",
+      "price": 159.0,
       "currency": "USD",
-      "availability": "OutOfStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
+      "availability": "InStock",
+      "source_url": "https://ringconn.com/products.json?limit=250",
       "source_kind": "products_json",
-      "compare_at": 129.99,
-      "discount_pct": 23
+      "compare_at": 199.0,
+      "discount_pct": 20
     },
     {
       "id": "ringconn-ringconn-gen-2-rose-gold-48458050273588",
@@ -733,6 +748,32 @@
   ],
   "products": [
     {
+      "id": "momcozy-day-night-wireless-full-coverage-everyday-bra-43736796201158",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Day&Night - Wireless Full-Coverage Everyday Bra - Oyster Pink / S",
+      "url": "https://momcozy.com/products/day-night-wireless-full-coverage-everyday-bra",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/EB007.jpg?v=1716970571",
+      "price": 27.99,
+      "currency": "USD",
+      "availability": "OutOfStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "momcozy-bamboo-pregnancy-postpartum-panties-underwear-44507511161030",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Bamboo Pregnancy Postpartum Panties Underwear - 2 pack / S",
+      "url": "https://momcozy.com/products/bamboo-pregnancy-postpartum-panties-underwear",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/IMG_202503178395_1200x1498_0a248efb-d11f-4a32-aa4f-d4ef0a565445.jpg?v=1779351940",
+      "price": 19.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "momcozy-baby-sleep-bundle-baby-monitor-bm04-easy-swaddle-wrap-48082108973254",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -778,7 +819,7 @@
       "title": "Momcozy Seamless Sleep Bra - Wireless, Stretchy & Soft - Huckleberry / XXL",
       "url": "https://momcozy.com/products/momcozy-seamless-sleep-bra-wireless-stretchy-soft",
       "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/1_9f28b77d-ff36-4c4b-8f5b-04d0a78a7819.jpg?v=1752715315",
-      "price": 29.99,
+      "price": 23.99,
       "currency": "USD",
       "availability": "OutOfStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
@@ -807,19 +848,6 @@
       "price": 44.99,
       "currency": "USD",
       "availability": "OutOfStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "momcozy-momcozy-portable-breast-pump-cleaner-spray-44092495364294",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Momcozy Portable Breast Pump Cleaner Spray - Default Title",
-      "url": "https://momcozy.com/products/momcozy-portable-breast-pump-cleaner-spray",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/15_da1fe294-0715-4905-bff4-c58b4370fcf6.jpg?v=1779352175",
-      "price": 9.99,
-      "currency": "USD",
-      "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
       "source_kind": "products_json"
     },
@@ -856,7 +884,7 @@
       "title": "Postpartum Recovery Essentials Kit - Default Title",
       "url": "https://momcozy.com/products/postpartum-recovery-essentials-kit-b",
       "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/1_529001b4-6f97-4543-8433-63d8f1cca98d.jpg?v=1780653200",
-      "price": 44.99,
+      "price": 35.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
@@ -870,19 +898,6 @@
       "url": "https://momcozy.com/products/huggable-u-shaped-maternity-body-pillow-100-cotton",
       "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/1_4f8e46c7-fbc9-4e18-ad2b-0271ca8df8f5.jpg?v=1779351542",
       "price": 59.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "momcozy-wellness-1-breast-pump-120-breastmilk-storage-bags-47264856441030",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Momcozy Breast Pump Wellness 1 + 120 Breastmilk Storage Bags - Default Title",
-      "url": "https://momcozy.com/products/wellness-1-breast-pump-120-breastmilk-storage-bags",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/W1_a24c0fb9-f1a2-4cbc-93e2-267d94ffb7fe.png?v=1789629706",
-      "price": 349.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
@@ -1066,7 +1081,7 @@
       "image": "https://assets.sharkninja.com/image/upload/f_auto/q_auto/SharkNinja-NA/AF141_01.jpg",
       "price": 99.99,
       "currency": "USD",
-      "availability": "http://schema.org/InStock",
+      "availability": "http://schema.org/OutOfStock",
       "source_url": "https://www.sharkninja.com/ninja-air-fryer-pro-4-in-1/AF141.html",
       "source_kind": "sitemap_products"
     },
@@ -1448,32 +1463,6 @@
       "source_kind": "products_json"
     },
     {
-      "id": "roborock-roborock-f25-pro-turbo-44152807325814",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock F25 Pro Turbo Wet Dry Vacuum with HyperScrub One-Tap Deep Cleaning - Default Title",
-      "url": "https://us.roborock.com/products/roborock-f25-pro-turbo",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/2_06eb12a0-4340-4aba-8202-d003cb51cc05.png?v=1788941901",
-      "price": 549.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "roborock-roborock-saros-20-flow-44181001338998",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock Saros 20 Flow - SpiraFlow™ 2.0 Pressurized Self-Cleaning System - Default Title",
-      "url": "https://us.roborock.com/products/roborock-saros-20-flow",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Set_Beryl_S_B.png?v=1790045685",
-      "price": 1699.99,
-      "currency": "USD",
-      "availability": "OutOfStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
       "id": "roborock-12th-anniversary-roborock-h60-cordless-stick-vacuum-cleaner-44112067952",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
@@ -1587,6 +1576,32 @@
       "price": 129.99,
       "currency": "USD",
       "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "roborock-roborock-mop-cloth-4pcs-for-saros-10r-and-saros-z70-1-42340202315894",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Roborock Mop Cloth*4pcs for Saros 10R and Saros Z70-Point Program - Default Title",
+      "url": "https://us.roborock.com/products/roborock-mop-cloth-4pcs-for-saros-10r-and-saros-z70-1",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/2_Saros-10R-1.jpg?v=1757937015",
+      "price": 25.99,
+      "currency": "USD",
+      "availability": "OutOfStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "roborock-roborock-s7-s7-maxv-s7-max-ultra-q5-q7-q7-max-series-main-brush-cover-4",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Roborock S7/S7 MaxV/S7 Max Ultra/Q5/Q7/Q7 Max Series Main Brush Cover-Point Program - Black",
+      "url": "https://us.roborock.com/products/roborock-s7-s7-maxv-s7-max-ultra-q5-q7-q7-max-series-main-brush-cover",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/S7_48d0a969-70a9-4284-97be-5d91bf290a40.jpg?v=1757937521",
+      "price": 20.99,
+      "currency": "USD",
+      "availability": "OutOfStock",
       "source_url": "https://us.roborock.com/products.json?limit=250",
       "source_kind": "products_json"
     },
@@ -1945,7 +1960,7 @@
       "id": "cozyla-calendar-plus-3-48629494186233",
       "brand_slug": "cozyla",
       "brand_name": "Cozyla",
-      "title": "Calendar Plus 3 - 24\" QHD / Save $30 with Membership",
+      "title": "Calendar Plus 3 - 24\" QHD / Save 15% with Membership",
       "url": "https://www.cozyla.com/products/calendar-plus-3",
       "image": "https://cdn.shopify.com/s/files/1/0657/4958/2073/files/32_cal_plus_3_main1_mb_new.webp?v=1786431108",
       "price": 799.99,
@@ -1958,7 +1973,7 @@
       "id": "cozyla-calendar-neo-24-48785580327161",
       "brand_slug": "cozyla",
       "brand_name": "Cozyla",
-      "title": "Calendar Neo - 24\" / Save $30 with Membership",
+      "title": "Calendar Neo - 24\" / Save 20% with Membership",
       "url": "https://www.cozyla.com/products/calendar-neo-24",
       "image": "https://cdn.shopify.com/s/files/1/0657/4958/2073/files/080624neo-mb-1_3736343d-0e53-4498-950c-f1277beee767.webp?v=1786147399",
       "price": 499.99,
@@ -1971,7 +1986,7 @@
       "id": "cozyla-routie-48629533180153",
       "brand_slug": "cozyla",
       "brand_name": "Cozyla",
-      "title": "Routie - 7\" / Save $30 with Membership",
+      "title": "Routie - 7\" / Save 20% with Membership",
       "url": "https://www.cozyla.com/products/routie",
       "image": "https://cdn.shopify.com/s/files/1/0657/4958/2073/files/cozyla-routie-best_kids-beside-companion.webp?v=1785925726",
       "price": 169.99,
@@ -1984,7 +1999,7 @@
       "id": "cozyla-calendar-neo-48629486813433",
       "brand_slug": "cozyla",
       "brand_name": "Cozyla",
-      "title": "Calendar Neo - 15.6\" / Save $30 with Membership",
+      "title": "Calendar Neo - 15.6\" / Save 20% with Membership",
       "url": "https://www.cozyla.com/products/calendar-neo",
       "image": "https://cdn.shopify.com/s/files/1/0657/4958/2073/files/15.6NeoMenu.webp?v=1784204024",
       "price": 199.99,
