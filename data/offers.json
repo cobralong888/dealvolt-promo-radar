@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T12:36:42Z",
+  "generated_at": "2026-10-06T18:33:34Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -416,6 +416,21 @@
       "discount_pct": 33
     },
     {
+      "id": "momcozy-momcozy-5-inch-dual-mode-smart-baby-monitor-with-2-camera-bm04-458665764",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Momcozy 5-Inch Dual-mode Smart Baby Monitor with 2 Camera -BM04 - Default Title",
+      "url": "https://momcozy.com/products/momcozy-5-inch-dual-mode-smart-baby-monitor-with-2-camera-bm04",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/BM04-2-dtc.jpg?v=1776740186",
+      "price": 175.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 259.99,
+      "discount_pct": 32
+    },
+    {
       "id": "momcozy-6-in-1-fast-baby-bottle-warmer-and-120-count-breastmilk-storage-bags-441",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -458,21 +473,6 @@
       "source_url": "https://momcozy.com/products.json?limit=250",
       "source_kind": "products_json",
       "compare_at": 329.99,
-      "discount_pct": 30
-    },
-    {
-      "id": "momcozy-momcozy-contact-free-smart-baby-monitor-45653313781958",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Momcozy Contact-Free Smart Baby Monitor (BM08) - Default Title",
-      "url": "https://momcozy.com/products/momcozy-contact-free-smart-baby-monitor",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/BM08-1_697ff420-4032-42b7-b1f3-c5fb370e5ac7.jpg?v=1779416125",
-      "price": 175.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 249.99,
       "discount_pct": 30
     },
     {
@@ -800,19 +800,6 @@
       "source_kind": "products_json"
     },
     {
-      "id": "momcozy-purehug-ergonomic-baby-carrier-2-47703448649926",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "PureHug Ergonomic Baby Carrier - Cotton / Black",
-      "url": "https://momcozy.com/products/purehug-ergonomic-baby-carrier-2",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/black-01_112d6a25-d6a5-4916-bd80-84726eddb759.jpg?v=1774497253",
-      "price": 59.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
       "id": "momcozy-momcozy-seamless-sleep-bra-wireless-stretchy-soft-44761777012934",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -891,13 +878,26 @@
       "source_kind": "products_json"
     },
     {
-      "id": "momcozy-huggable-u-shaped-maternity-body-pillow-100-cotton-45128284930246",
+      "id": "momcozy-wellness-1-breast-pump-120-breastmilk-storage-bags-47264856441030",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
-      "title": "Huggable - 100% Cotton U Shaped Maternity Body Pillow - Hatha Grey",
-      "url": "https://momcozy.com/products/huggable-u-shaped-maternity-body-pillow-100-cotton",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/1_4f8e46c7-fbc9-4e18-ad2b-0271ca8df8f5.jpg?v=1779351542",
-      "price": 59.99,
+      "title": "Momcozy Breast Pump Wellness 1 + 120 Breastmilk Storage Bags - Default Title",
+      "url": "https://momcozy.com/products/wellness-1-breast-pump-120-breastmilk-storage-bags",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/W1_a24c0fb9-f1a2-4cbc-93e2-267d94ffb7fe.png?v=1789629706",
+      "price": 349.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "momcozy-feeding-bundle-s12-pro-quick-and-4-in-1-hands-free-pumping-bra-and-120-b",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Feeding Bundle:S12 Pro Quick  and  4-in-1 Hands Free  Pumping Bra  and  120 Breastmilk Storage Bags - White / S",
+      "url": "https://momcozy.com/products/feeding-bundle-s12-pro-quick-and-4-in-1-hands-free-pumping-bra-and-120-breastmilk-storage-bags",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/1920_S12_Pro_YN12.jpg?v=1781071645",
+      "price": 186.37,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
