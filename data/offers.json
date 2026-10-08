@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T00:40:40Z",
+  "generated_at": "2026-10-08T06:38:33Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -491,6 +491,21 @@
       "discount_pct": 28
     },
     {
+      "id": "momcozy-5-inch-dual-mode-smart-baby-monitor-bm04-45866585358534",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Momcozy 5-Inch Dual-mode Smart Baby Monitor-BM04 - Default Title",
+      "url": "https://momcozy.com/products/5-inch-dual-mode-smart-baby-monitor-bm04",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/01_4c42530c-411e-49a8-86a5-729bfa32119c.jpg?v=1776758311",
+      "price": 135.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 189.99,
+      "discount_pct": 28
+    },
+    {
       "id": "momcozy-momcozy-pro-collagen-belly-firming-moisturizer-stretch-mark-cream-454573",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -519,21 +534,6 @@
       "source_kind": "products_json",
       "compare_at": 18.99,
       "discount_pct": 28
-    },
-    {
-      "id": "momcozy-power-portability-bundle-m6-v1-pro-breast-pump-45719368597702",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Power & Portability Bundle: M6 Mobile Style™ Breast Pump & V1 Pro Hospital-Grade Wearable Breast Pump - Default Title",
-      "url": "https://momcozy.com/products/power-portability-bundle-m6-v1-pro-breast-pump",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/M6_V1Pro.webp?v=1779351258",
-      "price": 322.49,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 429.98,
-      "discount_pct": 25
     },
     {
       "id": "momcozy-everyday-ease-bundle-s12-pro-quick-m5-smart-breast-pump-45719368138950",
@@ -819,7 +819,7 @@
       "title": "Momcozy Seamless Sleep Bra - Wireless, Stretchy & Soft - Huckleberry / XXL",
       "url": "https://momcozy.com/products/momcozy-seamless-sleep-bra-wireless-stretchy-soft",
       "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/1_9f28b77d-ff36-4c4b-8f5b-04d0a78a7819.jpg?v=1752715315",
-      "price": 23.99,
+      "price": 32.99,
       "currency": "USD",
       "availability": "OutOfStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
@@ -884,7 +884,7 @@
       "title": "Postpartum Recovery Essentials Kit - Default Title",
       "url": "https://momcozy.com/products/postpartum-recovery-essentials-kit-b",
       "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/1_529001b4-6f97-4543-8433-63d8f1cca98d.jpg?v=1780653200",
-      "price": 35.99,
+      "price": 44.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
