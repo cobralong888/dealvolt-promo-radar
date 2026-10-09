@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T00:43:39Z",
+  "generated_at": "2026-10-09T06:38:41Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -1170,7 +1170,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0504/7094/4954/files/11s_max.png?v=1723126852",
       "price": 279.99,
       "currency": "USD",
-      "availability": "https://schema.org/InStock",
+      "availability": "https://schema.org/SoldOut",
       "source_url": "https://www.eufy.com/products/t2126113",
       "source_kind": "sitemap_products"
     },
@@ -1246,7 +1246,7 @@
       "title": "Side brush, Compatible with 11S,11S PLUS,11S MAX,12,15C,15C MAX,15T,25C,30,30C",
       "url": "https://www.eufy.com/products/t2905031",
       "image": "https://cdn.shopify.com/s/files/1/0504/7094/4954/products/T2905031.jpg?v=1611313271",
-      "price": 11.99,
+      "price": 12.99,
       "currency": "USD",
       "availability": "https://schema.org/InStock",
       "source_url": "https://www.eufy.com/products/t2905031",
@@ -1591,6 +1591,19 @@
       "source_kind": "products_json"
     },
     {
+      "id": "xtool-flash-giveaway-free-xtool-c1-color-cutter-test-noidex-50978321367279",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "Flash Giveaway | Free xTool C1 Color Cutter - Default Title",
+      "url": "https://www.xtool.com/products/flash-giveaway-free-xtool-c1-color-cutter-test-noidex",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-c1_us_pc_giveaway1-pc_1257-6209.webp?v=1791470146",
+      "price": 0.0,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "xtool-material-dual-size-aluminum-emergency-whistle-set-10pcs-50873231442159",
       "brand_slug": "xtool",
       "brand_name": "xTool",
@@ -1730,19 +1743,6 @@
       "price": 18.99,
       "currency": "USD",
       "availability": "OutOfStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "xtool-material-xtool-m2-deluxe-home-diy-kit-50727642300655",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "xTool M2 Deluxe Home DIY Kit - Default Title",
-      "url": "https://www.xtool.com/products/material-xtool-m2-deluxe-home-diy-kit",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/xtool-m2-deluxe-home-diy-kit-02.webp?v=1789128575",
-      "price": 79.99,
-      "currency": "USD",
-      "availability": "InStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
       "source_kind": "products_json"
     },
