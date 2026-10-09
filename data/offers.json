@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T06:38:41Z",
+  "generated_at": "2026-10-09T12:35:59Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -1539,6 +1539,19 @@
       "source_kind": "products_json"
     },
     {
+      "id": "roborock-roborock-qrevo-s-pro-robot-vacuum-43252617969782",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Roborock Qrevo S Pro Robot Vacuum and Mop - 18,500 Pa Suction & Multifunctional Dock - Black",
+      "url": "https://us.roborock.com/products/roborock-qrevo-s-pro-robot-vacuum",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Roborock_Qrevo_Edge_2_Robot_Vacuum.jpg?v=1776825130",
+      "price": 699.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "roborock-roborock-3-packs-disposable-dust-bags-for-h60-hub-ultra-and-h60-hub-pro",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
@@ -1578,16 +1591,29 @@
       "source_kind": "products_json"
     },
     {
-      "id": "roborock-roborock-mop-cloth-4pcs-for-saros-10r-and-saros-z70-1-42340202315894",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock Mop Cloth*4pcs for Saros 10R and Saros Z70-Point Program - Default Title",
-      "url": "https://us.roborock.com/products/roborock-mop-cloth-4pcs-for-saros-10r-and-saros-z70-1",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/2_Saros-10R-1.jpg?v=1757937015",
-      "price": 25.99,
+      "id": "xtool-air-filter-for-o1-omni-printer-50981718917359",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "Air Filter for O1 Omni Printer - Default Title",
+      "url": "https://www.xtool.com/products/air-filter-for-o1-omni-printer",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-a-o1omniprinter_us_pc_4_11756-30661.webp?v=1791530662",
+      "price": 59.0,
       "currency": "USD",
-      "availability": "OutOfStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "xtool-ink-pad-scraper-replacement-kit-for-o1-omni-printer-50981628805359",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "Ink Pad & Scraper Replacement Kit for O1 Omni Printer - Default Title",
+      "url": "https://www.xtool.com/products/ink-pad-scraper-replacement-kit-for-o1-omni-printer",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-a-o1omniprinter_us_pc_11_11756-30762.webp?v=1791530581",
+      "price": 39.0,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
       "source_kind": "products_json"
     },
     {
@@ -1717,32 +1743,6 @@
       "price": 21.99,
       "currency": "USD",
       "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "xtool-m2-cleancut-panel-50753984004335",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "M2 CleanCut Panel - Default Title",
-      "url": "https://www.xtool.com/products/m2-cleancut-panel",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-m2_us_pc_us1-cleancutpanel_10001-1287.webp?v=1789372464",
-      "price": 39.0,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "xtool-material-dtf-printing-powder-500g-50735064776943",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "DTF Printing Powder (500g) - DTF Printing Powder (500g)",
-      "url": "https://www.xtool.com/products/material-dtf-printing-powder-500g",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/dtf-printing-powder-500g-01.webp?v=1789569007",
-      "price": 18.99,
-      "currency": "USD",
-      "availability": "OutOfStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
       "source_kind": "products_json"
     },
