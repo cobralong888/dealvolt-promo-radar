@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T06:35:22Z",
+  "generated_at": "2026-10-10T12:34:30Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -1539,19 +1539,6 @@
       "source_kind": "products_json"
     },
     {
-      "id": "roborock-roborock-qrevo-s-pro-robot-vacuum-43252617969782",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock Qrevo S Pro Robot Vacuum and Mop - 18,500 Pa Suction & Multifunctional Dock - Black",
-      "url": "https://us.roborock.com/products/roborock-qrevo-s-pro-robot-vacuum",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Roborock_Qrevo_Edge_2_Robot_Vacuum.jpg?v=1776825130",
-      "price": 699.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
       "id": "roborock-roborock-3-packs-disposable-dust-bags-for-h60-hub-ultra-and-h60-hub-pro",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
@@ -1587,6 +1574,19 @@
       "price": 129.99,
       "currency": "USD",
       "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "roborock-roborock-mop-cloth-4pcs-for-saros-10r-and-saros-z70-1-42340202315894",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Roborock Mop Cloth*4pcs for Saros 10R and Saros Z70-Point Program - Default Title",
+      "url": "https://us.roborock.com/products/roborock-mop-cloth-4pcs-for-saros-10r-and-saros-z70-1",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/2_Saros-10R-1.jpg?v=1757937015",
+      "price": 25.99,
+      "currency": "USD",
+      "availability": "OutOfStock",
       "source_url": "https://us.roborock.com/products.json?limit=250",
       "source_kind": "products_json"
     },
@@ -1713,7 +1713,7 @@
       "brand_name": "xTool",
       "title": "Halloween Pumpkin LED Light Base - Plug-in Type / All-in-one Bundle",
       "url": "https://www.xtool.com/products/material-halloween-pumpkin-led-light-base-plug-in-type",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu__qitaleichanpin_us_pc_halloween-pumpkin-led-light-base-plug-in-type-02_5226-3890_84f7c3f3-a378-4f7c-ae02-04edd9a05f4d.webp?v=1789728500",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu_fuzhuxinghaocai_biaojipenwu_nairejiaodai_mulayoudeng__us_pc_halloween-pumpkin-led-light-base-plug-in-type-11_4603-1691.webp?v=1791620667",
       "price": 81.99,
       "currency": "USD",
       "availability": "InStock",
