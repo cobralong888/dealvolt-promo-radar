@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T12:34:30Z",
+  "generated_at": "2026-10-10T18:32:41Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -1591,6 +1591,19 @@
       "source_kind": "products_json"
     },
     {
+      "id": "xtool-xtool-o1-omni-printer-printhead-50981567070447",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "xTool O1 Omni Printer Printhead - 01 UV",
+      "url": "https://www.xtool.com/products/xtool-o1-omni-printer-printhead",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-a-o1omniprinter_us_pc_37_12188-42656.webp?v=1791644658",
+      "price": 399.0,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "xtool-air-filter-for-o1-omni-printer-50981718917359",
       "brand_slug": "xtool",
       "brand_name": "xTool",
@@ -1728,19 +1741,6 @@
       "url": "https://www.xtool.com/products/material-mold-release-agent-150ml",
       "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu__qitaleichanpin_us_pc_01_5183-1084.webp?v=1789717982",
       "price": 6.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "xtool-material-flat-bottom-k9-crystal-ball-50677551104239",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Flat-Bottom K9 Crystal Ball - Default Title",
-      "url": "https://www.xtool.com/products/material-flat-bottom-k9-crystal-ball",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/flat-bottom-k9-crystal-ball-01.webp?v=1789569154",
-      "price": 21.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
