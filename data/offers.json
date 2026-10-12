@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T00:43:23Z",
+  "generated_at": "2026-10-12T06:43:26Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -266,21 +266,6 @@
       "discount_pct": 66
     },
     {
-      "id": "roborock-roborock-s8-max-ultra-with-refill-drainage-system-40697726828662",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock S8 Max Ultra with Refill & Drainage System - Default Title",
-      "url": "https://us.roborock.com/products/roborock-s8-max-ultra-with-refill-drainage-system",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/S8_Max_Ultra_W.jpg?v=1757915452",
-      "price": 600.0,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 1699.99,
-      "discount_pct": 65
-    },
-    {
       "id": "roborock-certified-refurbished-90-new-roborock-qrevo-edge-robot-vacuum-with-mult",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
@@ -369,6 +354,21 @@
       "source_kind": "products_json",
       "compare_at": 659.99,
       "discount_pct": 62
+    },
+    {
+      "id": "roborock-certified-refurbished-90-new-roborock-qrevo-slim-robot-vacuum-with-mult",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "【Certified Refurbished 90% New】Roborock Qrevo Slim Robot Vacuum with Multifunctional Self-Cleaning Dock 3.0 (Upgraded from Qrevo Master) - Default Title",
+      "url": "https://us.roborock.com/products/certified-refurbished-90-new-roborock-qrevo-slim-robot-vacuum-with-multifunctional-self-cleaning-dock-3-0-upgraded-from-qrevo-master",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Qrevo_Slim-1.png?v=1789886889",
+      "price": 549.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 1399.99,
+      "discount_pct": 61
     },
     {
       "id": "momcozy-momcozy-6-in-1-fast-baby-bottle-warmer-43177428779206",
@@ -1435,6 +1435,19 @@
       "source_kind": "products_json"
     },
     {
+      "id": "roborock-roborock-qrevo-2-pro-set-robot-vacuum-48979528122486",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Roborock Qrevo 2 Pro Set Robot Vacuum with Auto Mop Removal - White",
+      "url": "https://us.roborock.com/products/roborock-qrevo-2-pro-set-robot-vacuum",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Qrevo-2-Pro-Set.png?v=1789453487",
+      "price": 899.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "roborock-roborock-accessories-pack-for-saros-10-42226657362038",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
@@ -1444,19 +1457,6 @@
       "price": 99.0,
       "currency": "USD",
       "availability": "OutOfStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "roborock-roborock-f25-pro-turbo-44152807325814",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock F25 Pro Turbo Wet Dry Vacuum with HyperScrub One-Tap Deep Cleaning - Default Title",
-      "url": "https://us.roborock.com/products/roborock-f25-pro-turbo",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/2_06eb12a0-4340-4aba-8202-d003cb51cc05.png?v=1788941901",
-      "price": 549.99,
-      "currency": "USD",
-      "availability": "InStock",
       "source_url": "https://us.roborock.com/products.json?limit=250",
       "source_kind": "products_json"
     },
@@ -1500,11 +1500,37 @@
       "source_kind": "products_json"
     },
     {
+      "id": "roborock-roborock-qrevo-edge-3-pro-43974124339318",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Roborock Qrevo Edge 3 Pro Robot Vacuum and Mop with Hot Water Mopping & Intelligent Dock - Black",
+      "url": "https://us.roborock.com/products/roborock-qrevo-edge-3-pro",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Set_VidaF.png?v=1786520909",
+      "price": 1499.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "roborock-roborock-qrevo-2-pro-1-43890947326070",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
       "title": "Roborock Qrevo 2 Pro - White",
       "url": "https://us.roborock.com/products/roborock-qrevo-2-pro-1",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/1_0c4f03e7-1afb-4503-9a4f-a0c9c64aad83.png?v=1784537625",
+      "price": 799.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "roborock-roborock-qrevo-2-pro-43866730791030",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Roborock Qrevo 2 Pro Robot Vacuum with Auto Mop Removal - White",
+      "url": "https://us.roborock.com/products/roborock-qrevo-2-pro",
       "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/1_0c4f03e7-1afb-4503-9a4f-a0c9c64aad83.png?v=1784537625",
       "price": 799.99,
       "currency": "USD",
@@ -1534,7 +1560,20 @@
       "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/2_Saros-10R-1.jpg?v=1757937015",
       "price": 39.99,
       "currency": "USD",
-      "availability": "OutOfStock",
+      "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "roborock-roborock-qrevo-s-pro-robot-vacuum-43252617969782",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Roborock Qrevo S Pro Robot Vacuum and Mop - 18,500 Pa Suction & Multifunctional Dock - Black",
+      "url": "https://us.roborock.com/products/roborock-qrevo-s-pro-robot-vacuum",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Roborock_Qrevo_Edge_2_Robot_Vacuum.jpg?v=1776825130",
+      "price": 699.99,
+      "currency": "USD",
+      "availability": "InStock",
       "source_url": "https://us.roborock.com/products.json?limit=250",
       "source_kind": "products_json"
     },
@@ -1547,47 +1586,21 @@
       "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/3L.jpg?v=1776327958",
       "price": 12.99,
       "currency": "USD",
-      "availability": "OutOfStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "roborock-roborock-3-packs-disposable-dust-bags-for-h60-hub-ultra-and-h60-hub-pro",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock 12 Packs Disposable Dust Bags for H60 Hub Ultra and H60 Hub Pro Cordless Vacuum Cleaner - Default Title",
-      "url": "https://us.roborock.com/products/roborock-3-packs-disposable-dust-bags-for-h60-hub-ultra-and-h60-hub-pro-cordless-vacuum-cleaner-copy",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/61Rjvr4FSVL._AC_SL1500.jpg?v=1776235910",
-      "price": 49.99,
-      "currency": "USD",
       "availability": "InStock",
       "source_url": "https://us.roborock.com/products.json?limit=250",
       "source_kind": "products_json"
     },
     {
-      "id": "roborock-roborock-rechargeable-battery-pack-for-h60-hub-pro-and-h60-pro-cordless",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock Rechargeable Battery Pack for H60 Hub Pro and H60 Pro Cordless Vacuum Cleaner - Default Title",
-      "url": "https://us.roborock.com/products/roborock-rechargeable-battery-pack-for-h60-hub-pro-and-h60-pro-cordless-vacuum-cleaner-stick-vacuum-cleaner-for-home-and-pet-hair-anti-tangle-brush-led-dust-detection",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/511NiK-HGhL._AC_SL1500.jpg?v=1776236734",
-      "price": 129.99,
+      "id": "xtool-flash-giveaway-free-waterproof-dura-ink-for-c1-test-noidex-51002204717295",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "Flash Giveaway | Free Waterproof Dura Ink for C1 - Default Title",
+      "url": "https://www.xtool.com/products/flash-giveaway-free-waterproof-dura-ink-for-c1-test-noidex",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-c1_us_pc_giveaway3-pc_1777-3831.webp?v=1791603247",
+      "price": 0.0,
       "currency": "USD",
       "availability": "InStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "roborock-roborock-saros-20-43028327432310",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock Saros 20 – AdaptiLift™ Chassis 3.0 for Smooth Threshold Crossing, Powered by 36,000 Pa Suction - Default Title",
-      "url": "https://us.roborock.com/products/roborock-saros-20",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/CPS.png?v=1784799292",
-      "price": 1599.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
       "source_kind": "products_json"
     },
     {
@@ -1626,19 +1639,6 @@
       "price": 39.0,
       "currency": "USD",
       "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "xtool-flash-giveaway-free-xtool-c1-color-cutter-test-noidex-50978321367279",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Flash Giveaway | Free xTool C1 Color Cutter - Default Title",
-      "url": "https://www.xtool.com/products/flash-giveaway-free-xtool-c1-color-cutter-test-noidex",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-c1_us_pc_giveaway1-pc_1257-6209.webp?v=1791470146",
-      "price": 0.0,
-      "currency": "USD",
-      "availability": "OutOfStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
       "source_kind": "products_json"
     },
