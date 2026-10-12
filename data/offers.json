@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T06:43:26Z",
+  "generated_at": "2026-10-12T12:53:47Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -371,19 +371,34 @@
       "discount_pct": 61
     },
     {
+      "id": "momcozy-momcozy-shapewear-bodysuit-postpartum-daily-dress-44781901381830",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Momcozy Shapewear Bodysuit - Postpartum & Daily Dress - Black - no nursing clips / M",
+      "url": "https://momcozy.com/products/momcozy-shapewear-bodysuit-postpartum-daily-dress",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/b58ce7b99582c961375527c3c6b27ebb_d316db94-b460-44e0-a059-6e0cefbbe400.png?v=1779351712",
+      "price": 35.99,
+      "currency": "USD",
+      "availability": "OutOfStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 59.99,
+      "discount_pct": 40
+    },
+    {
       "id": "momcozy-momcozy-6-in-1-fast-baby-bottle-warmer-43177428779206",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
       "title": "6-in-1 Fast Baby Bottle Warmer - Warmer",
       "url": "https://momcozy.com/products/momcozy-6-in-1-fast-baby-bottle-warmer",
       "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/1_456709c1-0f65-4444-b75d-629f4c04f945.jpg?v=1779352551",
-      "price": 33.99,
+      "price": 39.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
       "source_kind": "products_json",
       "compare_at": 59.99,
-      "discount_pct": 43
+      "discount_pct": 33
     },
     {
       "id": "momcozy-6-in-1-fast-baby-bottle-warmer-and-120-count-breastmilk-storage-bags-441",
@@ -398,6 +413,21 @@
       "source_url": "https://momcozy.com/products.json?limit=250",
       "source_kind": "products_json",
       "compare_at": 79.98,
+      "discount_pct": 32
+    },
+    {
+      "id": "momcozy-momcozy-breast-milk-collection-shell-46051151282374",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Momcozy Waterdrop Breast Milk Collection Shell - 2 Count",
+      "url": "https://momcozy.com/products/momcozy-breast-milk-collection-shell",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/03_1x_03f7abcb-d022-493f-a89c-ac0df1bacf82.webp?v=1783654436",
+      "price": 20.39,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 29.99,
       "discount_pct": 32
     },
     {
@@ -536,21 +566,6 @@
       "discount_pct": 25
     },
     {
-      "id": "momcozy-momcozy-nightpro-baby-bottle-warmer-night-feeding-45954466840774",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Momcozy Night Pro Baby Bottle Warmer - Night Feeding - Warmer",
-      "url": "https://momcozy.com/products/momcozy-nightpro-baby-bottle-warmer-night-feeding",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/2_logo.jpg?v=1783590625",
-      "price": 59.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 79.99,
-      "discount_pct": 25
-    },
-    {
       "id": "xtool-xtool-f2-ultra-60w-mopa-40w-diode-dual-laser-engraver-copy-test-noindex-46",
       "brand_slug": "xtool",
       "brand_name": "xTool",
@@ -564,21 +579,6 @@
       "source_kind": "products_json",
       "compare_at": 6599.0,
       "discount_pct": 24
-    },
-    {
-      "id": "momcozy-momcozy-cooling-pregnancy-pillow-44674582675654",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "EXCLUSIVE dreamlign Cooling Comfort Pregnancy Pillow-Blue - Default Title",
-      "url": "https://momcozy.com/products/momcozy-cooling-pregnancy-pillow",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/IMG_202506118846_1200x1498_89205be1-ff06-41c2-86dc-36549d35fe42.jpg?v=1779353682",
-      "price": 49.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 64.99,
-      "discount_pct": 23
     },
     {
       "id": "ringconn-ringconn-gen-2-rose-gold-48458050273588",
@@ -733,6 +733,19 @@
   ],
   "products": [
     {
+      "id": "momcozy-baby-sleep-bundle-baby-sleep-sack-baby-monitor-bm04-48087080730822",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Baby-Sleep Bundle: Baby Sleep Sack & Portable Sound machine - Green / Small(0-6 Months/6.6-19.8 lbs)",
+      "url": "https://momcozy.com/products/baby-sleep-bundle-baby-sleep-sack-baby-monitor-bm04",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/ChatGPT_2026_9_30_18_55_16.png?v=1790766063",
+      "price": 67.98,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "momcozy-momcozy-milk-formula-dispenser-45593594331334",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -850,6 +863,19 @@
       "source_kind": "products_json"
     },
     {
+      "id": "momcozy-momcozy-portable-breast-pump-cleaner-spray-44092495364294",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Momcozy Portable Breast Pump Cleaner Spray - Default Title",
+      "url": "https://momcozy.com/products/momcozy-portable-breast-pump-cleaner-spray",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/15_da1fe294-0715-4905-bff4-c58b4370fcf6.jpg?v=1779352175",
+      "price": 9.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "momcozy-momcozy-deepclean-lite-baby-bottle-washer-and-sterilizer-48074921935046",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -857,32 +883,6 @@
       "url": "https://momcozy.com/products/momcozy-deepclean-lite-baby-bottle-washer-and-sterilizer",
       "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/Frame_2147241273_83da3475-763d-4f81-926c-c7cb153eeecf.jpg?v=1790234105",
       "price": 299.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "momcozy-momcozy-mom-and-more-gift-box-47201552269510",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Momcozy Mom and More Gift Box - Default Title",
-      "url": "https://momcozy.com/products/momcozy-mom-and-more-gift-box",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/MomandMoreGiftBox1.jpg?v=1789457260",
-      "price": 350.0,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "momcozy-postpartum-recovery-essentials-kit-b-47273085567174",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Postpartum Recovery Essentials Kit - Default Title",
-      "url": "https://momcozy.com/products/postpartum-recovery-essentials-kit-b",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/1_529001b4-6f97-4543-8433-63d8f1cca98d.jpg?v=1780653200",
-      "price": 44.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
@@ -910,7 +910,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/A2123115_TD01_V1_6bb82e6f-d121-4045-8811-41a3470df180.png?v=1730775274",
       "price": 29.99,
       "currency": "USD",
-      "availability": "https://schema.org/InStock",
+      "availability": "https://schema.org/SoldOut",
       "source_url": "https://www.anker.com/products/a2123",
       "source_kind": "sitemap_products"
     },
@@ -1591,6 +1591,58 @@
       "source_kind": "products_json"
     },
     {
+      "id": "xtool-material-rectangula-rubber-wood-led-light-base-with-groove-plug-in-type-50",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "Rectangula Rubber Wood LED Light Base with Groove (Plug-in Type) - Battery Type / All-in-one Bundle",
+      "url": "https://www.xtool.com/products/material-rectangula-rubber-wood-led-light-base-with-groove-plug-in-type",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu__qitaleichanpin_us_pc_rectangula-rubber-wood-led-light-base-with-groove-plug-in-type-02_5235-4352.webp?v=1789730957",
+      "price": 82.99,
+      "currency": "USD",
+      "availability": "OutOfStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "xtool-material-k9-large-rectangle-crystal-50801946755311",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "K9 Large Rectangle Crystal (1pcs) - Default Title",
+      "url": "https://www.xtool.com/products/material-k9-large-rectangle-crystal",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu__qitaleichanpin_us_pc_k9-rectangle-crystal-200_140_50mm-01_5002-7975_b8a3c81d-db25-49eb-9ea2-12bb675d19b6.webp?v=1789726533",
+      "price": 74.99,
+      "currency": "USD",
+      "availability": "OutOfStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "xtool-material-xtool-selected-fiber-mopa-laser-material-kit-50722526920943",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "Fiber/MOPA Laser Material Kit - Default Title",
+      "url": "https://www.xtool.com/products/material-xtool-selected-fiber-mopa-laser-material-kit",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu__qitaleichanpin_us_pc_fiber-mopa-laser-material-kit-01_5216-1847.webp?v=1789722756",
+      "price": 89.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "xtool-xtool-x1-privilege-voucher-50980649566447",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "xTool X1 Privilege Voucher - Default Title",
+      "url": "https://www.xtool.com/products/xtool-x1-privilege-voucher",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-x1_us_pc_f2ultra_single_-deluxebundle_5293-2237.webp?v=1791526029",
+      "price": 100.0,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "xtool-flash-giveaway-free-waterproof-dura-ink-for-c1-test-noidex-51002204717295",
       "brand_slug": "xtool",
       "brand_name": "xTool",
@@ -1689,58 +1741,6 @@
       "url": "https://www.xtool.com/products/xtool-adjustable-phone-case-jig-for-wonderpress",
       "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-a-reyaji_us_pc_us1_11312-66.webp?v=1789984605",
       "price": 49.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "xtool-material-flip-top-black-gift-box-for-k9-crystal-and-base-50775418175727",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Flip-Top Black Gift Box for K9 Crystal and Base - K9 Rectangle Crystal & Base Adapter Version / Gift Package Set",
-      "url": "https://www.xtool.com/products/material-flip-top-black-gift-box-for-k9-crystal-and-base",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu__qitaleichanpin_us_pc_flip-top-black-gift-box-for-50x50x80mm-glass-with-base-01_5161-1443_9832628f-7d20-4da6-af4f-41de28ca4944.webp?v=1789733438",
-      "price": 29.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "xtool-material-glass-painting-pens-5pcs-50722072527087",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Glass Painting Pens (5pcs) - Mixed Color",
-      "url": "https://www.xtool.com/products/material-glass-painting-pens-5pcs",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu__qitaleichanpin_us_pc_01_5161-1887.webp?v=1789713360",
-      "price": 6.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "xtool-material-halloween-pumpkin-led-light-base-plug-in-type-50798618771695",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Halloween Pumpkin LED Light Base - Plug-in Type / All-in-one Bundle",
-      "url": "https://www.xtool.com/products/material-halloween-pumpkin-led-light-base-plug-in-type",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu_fuzhuxinghaocai_biaojipenwu_nairejiaodai_mulayoudeng__us_pc_halloween-pumpkin-led-light-base-plug-in-type-11_4603-1691.webp?v=1791620667",
-      "price": 81.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "xtool-material-mold-release-agent-150ml-50722480488687",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Mold Release Agent (150ml) - Default Title",
-      "url": "https://www.xtool.com/products/material-mold-release-agent-150ml",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu__qitaleichanpin_us_pc_01_5183-1084.webp?v=1789717982",
-      "price": 6.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
