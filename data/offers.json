@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T18:32:51Z",
+  "generated_at": "2026-10-12T00:43:23Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -1578,15 +1578,15 @@
       "source_kind": "products_json"
     },
     {
-      "id": "roborock-roborock-mop-cloth-4pcs-for-saros-10r-and-saros-z70-1-42340202315894",
+      "id": "roborock-roborock-saros-20-43028327432310",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
-      "title": "Roborock Mop Cloth*4pcs for Saros 10R and Saros Z70-Point Program - Default Title",
-      "url": "https://us.roborock.com/products/roborock-mop-cloth-4pcs-for-saros-10r-and-saros-z70-1",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/2_Saros-10R-1.jpg?v=1757937015",
-      "price": 25.99,
+      "title": "Roborock Saros 20 – AdaptiLift™ Chassis 3.0 for Smooth Threshold Crossing, Powered by 36,000 Pa Suction - Default Title",
+      "url": "https://us.roborock.com/products/roborock-saros-20",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/CPS.png?v=1784799292",
+      "price": 1599.99,
       "currency": "USD",
-      "availability": "OutOfStock",
+      "availability": "InStock",
       "source_url": "https://us.roborock.com/products.json?limit=250",
       "source_kind": "products_json"
     },
