@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T04:54:35Z",
+  "generated_at": "2026-10-14T11:52:39Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -84,7 +84,7 @@
         }
       ],
       "deal_count": 0,
-      "product_count": 9
+      "product_count": 10
     },
     {
       "slug": "ugreen",
@@ -733,11 +733,24 @@
   ],
   "products": [
     {
-      "id": "momcozy-baby-sleep-bundle-baby-sleep-sack-baby-monitor-bm04-48087080730822",
+      "id": "momcozy-baby-sleep-bundle-baby-sleep-sack-baby-monitor-bm04-48091224342726",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Baby-Sleep Bundle: Baby Sleep Sack & Baby Monitor BM04 - Green / Small(0-6 Months/6.6-19.8 lbs)",
+      "url": "https://momcozy.com/products/baby-sleep-bundle-baby-sleep-sack-baby-monitor-bm04",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/bd04243680971b5d9eb2953a7c0898d6.png?v=1791960227",
+      "price": 229.98,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "momcozy-baby-sleep-bundle-baby-sleep-sack-portable-sound-machine-48087080730822",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
       "title": "Baby-Sleep Bundle: Baby Sleep Sack & Portable Sound machine - Green / Small(0-6 Months/6.6-19.8 lbs)",
-      "url": "https://momcozy.com/products/baby-sleep-bundle-baby-sleep-sack-baby-monitor-bm04",
+      "url": "https://momcozy.com/products/baby-sleep-bundle-baby-sleep-sack-portable-sound-machine",
       "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/ChatGPT_2026_9_30_18_55_16.png?v=1790766063",
       "price": 67.98,
       "currency": "USD",
@@ -876,17 +889,17 @@
       "source_kind": "products_json"
     },
     {
-      "id": "momcozy-momcozy-deepclean-lite-baby-bottle-washer-and-sterilizer-48074921935046",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Pre-order: Momcozy DeepClean Lite Baby Bottle Washer and Sterilizer - Bottle Washer + Free Washing Block (First 500 Pre-orders)",
-      "url": "https://momcozy.com/products/momcozy-deepclean-lite-baby-bottle-washer-and-sterilizer",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/Frame_2147241273_83da3475-763d-4f81-926c-c7cb153eeecf.jpg?v=1790234105",
-      "price": 299.99,
+      "id": "anker-anker-lt-b-gt-321-lt-b-gt-usb-c-to-lightning-cable-3-ft-6-ft-10-ft",
+      "brand_slug": "anker",
+      "brand_name": "Anker",
+      "title": "Anker &lt;b&gt;321&lt;/b&gt; USB-C to Lightning Cable (3 ft / 6 ft / 10 ft)",
+      "url": "https://www.anker.com/products/a8633",
+      "image": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/A8632022_TD01_V1_9948cabb-aac9-4d31-a420-a839b3eebc2c.png?v=1730775221",
+      "price": 9999999.99,
       "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
+      "availability": "https://schema.org/SoldOut",
+      "source_url": "https://www.anker.com/products/a8633",
+      "source_kind": "sitemap_products"
     },
     {
       "id": "anker-anker-lt-b-gt-331-lt-b-gt-usb-c-to-lightning-cable",
@@ -1003,19 +1016,6 @@
       "currency": "USD",
       "availability": "https://schema.org/InStock",
       "source_url": "https://www.anker.com/products/a1229",
-      "source_kind": "sitemap_products"
-    },
-    {
-      "id": "anker-anker-lt-b-gt-310-lt-b-gt-usb-c-adapter-4k-hdmi",
-      "brand_slug": "anker",
-      "brand_name": "Anker",
-      "title": "Anker &lt;b&gt;310&lt;/b&gt; USB-C Adapter (4K HDMI)",
-      "url": "https://www.anker.com/products/a8312",
-      "image": "https://cdn.shopify.com/s/files/1/0493/9834/9974/products/A83120A1-Anker_310_USB-C_Adapter_4K_HDMI.png?v=1672495014",
-      "price": 16.99,
-      "currency": "USD",
-      "availability": "https://schema.org/InStock",
-      "source_url": "https://www.anker.com/products/a8312",
       "source_kind": "sitemap_products"
     },
     {
@@ -1198,6 +1198,19 @@
       "currency": "USD",
       "availability": "https://schema.org/InStock",
       "source_url": "https://www.eufy.com/products/t8910021",
+      "source_kind": "sitemap_products"
+    },
+    {
+      "id": "eufy-5-piece-home-alarm-kit",
+      "brand_slug": "eufy",
+      "brand_name": "eufy",
+      "title": "5-Piece Home Alarm Kit",
+      "url": "https://www.eufy.com/products/t8990",
+      "image": "https://cdn.shopify.com/s/files/1/0504/7094/4954/files/5-PieceHomeAlarmKit.png?v=1685068080",
+      "price": 259.99,
+      "currency": "USD",
+      "availability": "https://schema.org/InStock",
+      "source_url": "https://www.eufy.com/products/t8990",
       "source_kind": "sitemap_products"
     },
     {
@@ -1664,7 +1677,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu__qitaleichanpin_us_pc_k9-rectangle-crystal-200_140_50mm-01_5002-7975_b8a3c81d-db25-49eb-9ea2-12bb675d19b6.webp?v=1789726533",
       "price": 74.99,
       "currency": "USD",
-      "availability": "OutOfStock",
+      "availability": "InStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
       "source_kind": "products_json"
     },
