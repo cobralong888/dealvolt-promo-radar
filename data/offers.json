@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T18:39:57Z",
+  "generated_at": "2026-10-14T04:54:35Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -84,7 +84,7 @@
         }
       ],
       "deal_count": 0,
-      "product_count": 10
+      "product_count": 9
     },
     {
       "slug": "ugreen",
@@ -1201,19 +1201,6 @@
       "source_kind": "sitemap_products"
     },
     {
-      "id": "eufy-5-piece-home-alarm-kit",
-      "brand_slug": "eufy",
-      "brand_name": "eufy",
-      "title": "5-Piece Home Alarm Kit",
-      "url": "https://www.eufy.com/products/t8990",
-      "image": "https://cdn.shopify.com/s/files/1/0504/7094/4954/files/5-PieceHomeAlarmKit.png?v=1685068080",
-      "price": 259.99,
-      "currency": "USD",
-      "availability": "https://schema.org/InStock",
-      "source_url": "https://www.eufy.com/products/t8990",
-      "source_kind": "sitemap_products"
-    },
-    {
       "id": "eufy-indoor-cam-e220-2k-2-cam-kit-pan-amp-tilt",
       "brand_slug": "eufy",
       "brand_name": "eufy",
@@ -1721,19 +1708,6 @@
       "source_kind": "products_json"
     },
     {
-      "id": "xtool-xtool-o1-omni-printer-printhead-50981567070447",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "xTool O1 Omni Printer Printhead - 01 UV",
-      "url": "https://www.xtool.com/products/xtool-o1-omni-printer-printhead",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-a-o1omniprinter_us_pc_37_12188-42656.webp?v=1791644658",
-      "price": 399.0,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
       "id": "xtool-air-filter-for-o1-omni-printer-50981718917359",
       "brand_slug": "xtool",
       "brand_name": "xTool",
@@ -1741,6 +1715,19 @@
       "url": "https://www.xtool.com/products/air-filter-for-o1-omni-printer",
       "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-a-o1omniprinter_us_pc_4_11756-30661.webp?v=1791530662",
       "price": 59.0,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "xtool-ink-pad-scraper-replacement-kit-for-o1-omni-printer-50981628805359",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "Ink Pad & Scraper Replacement Kit for O1 Omni Printer - Default Title",
+      "url": "https://www.xtool.com/products/ink-pad-scraper-replacement-kit-for-o1-omni-printer",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-a-o1omniprinter_us_pc_11_11756-30762.webp?v=1791530581",
+      "price": 39.0,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
@@ -1755,7 +1742,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0850/1769/0420/files/ringconn_gen_3_charging_case_2.webp?v=1787900142",
       "price": 79.0,
       "currency": "USD",
-      "availability": "InStock",
+      "availability": "OutOfStock",
       "source_url": "https://ringconn.com/products.json?limit=250",
       "source_kind": "products_json"
     },
