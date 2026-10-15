@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T21:41:57Z",
+  "generated_at": "2026-10-15T04:39:39Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -149,7 +149,7 @@
           "label": "School Offers"
         }
       ],
-      "deal_count": 10,
+      "deal_count": 11,
       "product_count": 12
     },
     {
@@ -369,6 +369,21 @@
       "source_kind": "products_json",
       "compare_at": 1399.99,
       "discount_pct": 61
+    },
+    {
+      "id": "xtool-3-15-chamfered-rectangular-k9-crystal-bulk-supply-pack-80pcs-5105392304151",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "3.15\" Chamfered Rectangular K9 Crystal Bulk Supply Pack (80pcs) - Default Title",
+      "url": "https://www.xtool.com/products/3-15-chamfered-rectangular-k9-crystal-bulk-supply-pack-80pcs",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu__qitaleichanpin_us_pc_shoutu_5284-1777.webp?v=1791977998",
+      "price": 1294.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 2159.99,
+      "discount_pct": 40
     },
     {
       "id": "momcozy-momcozy-shapewear-bodysuit-postpartum-daily-dress-44781901381830",
