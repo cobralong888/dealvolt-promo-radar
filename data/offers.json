@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T11:29:59Z",
+  "generated_at": "2026-10-15T17:01:45Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -401,6 +401,36 @@
       "discount_pct": 40
     },
     {
+      "id": "xtool-buy-3-get-2-free-3-74-x-3-15-x-1-57-beveled-faceted-heart-shaped-k9-crysta",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "[Buy 3 Get 2 Free] 3.74\" x 3.15\" x 1.57\" Beveled Faceted Heart-Shaped K9 Crystal - 5 Crystals Pay for 3",
+      "url": "https://www.xtool.com/products/buy-3-get-2-free-3-74-x-3-15-x-1-57-beveled-faceted-heart-shaped-k9-crystal",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu_fuzhuxinghaocai_biaojipenwu_nairejiaodai_mulayoudeng__us_pc_shoutu_4721-7316.webp?v=1792069563",
+      "price": 79.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 133.99,
+      "discount_pct": 40
+    },
+    {
+      "id": "xtool-buy-3-get-2-free-3-74-x-3-15-x-1-57-beveled-heart-shaped-k9-crystal-510981",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "[Buy 3 Get 2 Free] 3.74\" x 3.15\" x 1.57\" Beveled Heart-Shaped K9 Crystal - 5 Crystals Pay for 3",
+      "url": "https://www.xtool.com/products/buy-3-get-2-free-3-74-x-3-15-x-1-57-beveled-heart-shaped-k9-crystal",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu_fuzhuxinghaocai_biaojipenwu_nairejiaodai_mulayoudeng__us_pc_shoutu_4721-7374.webp?v=1792082128",
+      "price": 76.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 128.99,
+      "discount_pct": 40
+    },
+    {
       "id": "momcozy-momcozy-shapewear-bodysuit-postpartum-daily-dress-44781901381830",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -459,6 +489,21 @@
       "source_kind": "products_json",
       "compare_at": 29.99,
       "discount_pct": 32
+    },
+    {
+      "id": "xtool-free-gift-bundle-3-15-chamfered-rectangular-k9-crystal-with-free-crystal-b",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "[Free Gift Bundle] 3.15\" Chamfered Rectangular K9 Crystal with Free Crystal Balls - 10 Blocks and 5 Free Balls",
+      "url": "https://www.xtool.com/products/free-gift-bundle-3-15-chamfered-rectangular-k9-crystal-with-free-crystal-balls",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu_fuzhuxinghaocai_biaojipenwu_nairejiaodai_mulayoudeng__us_pc_shoutu_4721-7141.webp?v=1792058051",
+      "price": 268.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 378.99,
+      "discount_pct": 29
     },
     {
       "id": "xtool-k9-crystal-ball-engraving-studio-supply-kit-50873343705327",
@@ -699,51 +744,6 @@
       "source_kind": "products_json",
       "compare_at": 104.99,
       "discount_pct": 14
-    },
-    {
-      "id": "xtool-material-xtool-selected-uv-maintenance-tank-for-o1-omni-printer-5016373438",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "xTool Selected UV Maintenance Tank for O1 Omni Printer - Default Title",
-      "url": "https://www.xtool.com/products/material-xtool-selected-uv-maintenance-tank-for-o1-omni-printer",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/xtool-selected-uv-maintenance-tank.webp?v=1783958010",
-      "price": 27.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 31.99,
-      "discount_pct": 13
-    },
-    {
-      "id": "xtool-material-xtool-selected-dt-maintenance-tank-for-o1-omni-printer-5016370102",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "xTool Selected DT Maintenance Tank for O1 Omni Printer - Default Title",
-      "url": "https://www.xtool.com/products/material-xtool-selected-dt-maintenance-tank-for-o1-omni-printer",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/xtool-selected-dt-maintenance-tank-01.webp?v=1783956688",
-      "price": 27.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 31.99,
-      "discount_pct": 13
-    },
-    {
-      "id": "xtool-thin-beveled-faceted-heart-shaped-k5-crystal-3pcs-49996162400495",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Thin Beveled Faceted Heart-Shaped K5 Crystal (3pcs) - Default Title",
-      "url": "https://www.xtool.com/products/thin-beveled-faceted-heart-shaped-k5-crystal-3pcs",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/thin-beveled-faceted-heart-shaped-k5-crystal-3pcs-02_2668-247.webp?v=1782728254",
-      "price": 19.29,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 21.99,
-      "discount_pct": 12
     },
     {
       "id": "cozyla-open-box-cozyla-calendar-46945654604025",
