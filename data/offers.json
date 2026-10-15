@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T04:39:39Z",
+  "generated_at": "2026-10-15T11:29:59Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -149,7 +149,7 @@
           "label": "School Offers"
         }
       ],
-      "deal_count": 11,
+      "deal_count": 12,
       "product_count": 12
     },
     {
@@ -386,6 +386,21 @@
       "discount_pct": 40
     },
     {
+      "id": "xtool-3-94-x-2-76-x-2-36-k9-rectangle-crystal-bulk-supply-pack-80pcs-51055082832",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "3.94\" x 2.76\" x 2.36\" K9 Rectangle Crystal Bulk Supply Pack (80pcs) - Default Title",
+      "url": "https://www.xtool.com/products/3-94-x-2-76-x-2-36-k9-rectangle-crystal-bulk-supply-pack-80pcs",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu__qitaleichanpin_us_pc_shoutu_5286-1967.webp?v=1792044288",
+      "price": 1246.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 2079.99,
+      "discount_pct": 40
+    },
+    {
       "id": "momcozy-momcozy-shapewear-bodysuit-postpartum-daily-dress-44781901381830",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -596,6 +611,36 @@
       "discount_pct": 24
     },
     {
+      "id": "xtool-free-gift-bundle-3-1-k9-crystal-ball-with-free-led-stands-and-engraving-oi",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "[Free Gift Bundle] 3.1\" K9 Crystal Ball with Free LED Stands and Engraving Oil - 6 Balls and 2 Free Stands & 2 Free Oils",
+      "url": "https://www.xtool.com/products/free-gift-bundle-3-1-k9-crystal-ball-with-free-led-stands-and-engraving-oil",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu_fuzhuxinghaocai_biaojipenwu_nairejiaodai_mulayoudeng__us_pc_shoutu_4721-7572.webp?v=1792055231",
+      "price": 130.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 172.99,
+      "discount_pct": 24
+    },
+    {
+      "id": "xtool-free-gift-bundle-3-1-k9-crystal-ball-with-free-led-display-stands-51057385",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "[Free Gift Bundle] 3.1\" K9 Crystal Ball with Free LED Display Stands - 3 Balls and 2 Free Stands",
+      "url": "https://www.xtool.com/products/free-gift-bundle-3-1-k9-crystal-ball-with-free-led-display-stands",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu_fuzhuxinghaocai_biaojipenwu_nairejiaodai_mulayoudeng__us_pc_shoutu_4721-7262.webp?v=1792047916",
+      "price": 64.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 82.99,
+      "discount_pct": 22
+    },
+    {
       "id": "ringconn-ringconn-gen-2-rose-gold-48458050273588",
       "brand_slug": "ringconn",
       "brand_name": "RingConn",
@@ -701,36 +746,6 @@
       "discount_pct": 12
     },
     {
-      "id": "xtool-general-purpose-laser-materials-package-1-50269045555439",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "General-Purpose Laser Materials Package - Default Title",
-      "url": "https://www.xtool.com/products/general-purpose-laser-materials-package-1",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/general-purpose-laser-materials-package-04.webp?v=1785376352",
-      "price": 94.49,
-      "currency": "USD",
-      "availability": "OutOfStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 104.99,
-      "discount_pct": 10
-    },
-    {
-      "id": "xtool-material-chamfered-rectangular-k9-crystal-1pcs-50555022835951",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Chamfered Rectangular K9 Crystal - 3.15\" / 8cm",
-      "url": "https://www.xtool.com/products/material-chamfered-rectangular-k9-crystal-1pcs",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/chamfered-rectangular-k9-crystal-1pcs-01.webp?v=1787312694",
-      "price": 24.94,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 26.99,
-      "discount_pct": 8
-    },
-    {
       "id": "cozyla-open-box-cozyla-calendar-46945654604025",
       "brand_slug": "cozyla",
       "brand_name": "Cozyla",
@@ -747,6 +762,19 @@
     }
   ],
   "products": [
+    {
+      "id": "momcozy-v3-double-electric-breast-pump-replacement-parts-48325964005574",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "V3 Double Electric Breast Pump Replacement Parts - Milk Collector*1",
+      "url": "https://momcozy.com/products/v3-double-electric-breast-pump-replacement-parts",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/V_--DTC_-1.jpg?v=1779354056",
+      "price": 15.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
     {
       "id": "momcozy-baby-sleep-bundle-baby-sleep-sack-baby-monitor-bm04-48091224342726",
       "brand_slug": "momcozy",
@@ -887,19 +915,6 @@
       "price": 44.99,
       "currency": "USD",
       "availability": "OutOfStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "momcozy-momcozy-portable-breast-pump-cleaner-spray-44092495364294",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Momcozy Portable Breast Pump Cleaner Spray - Default Title",
-      "url": "https://momcozy.com/products/momcozy-portable-breast-pump-cleaner-spray",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/15_da1fe294-0715-4905-bff4-c58b4370fcf6.jpg?v=1779352175",
-      "price": 9.99,
-      "currency": "USD",
-      "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
       "source_kind": "products_json"
     },
@@ -1468,7 +1483,7 @@
       "brand_name": "Roborock",
       "title": "Roborock Qrevo 2 Pro Set Robot Vacuum with Auto Mop Removal - White",
       "url": "https://us.roborock.com/products/roborock-qrevo-2-pro-set-robot-vacuum",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Qrevo-2-Pro-Set.png?v=1789453487",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/3-_set_37acf750-a2d3-44d2-9fb5-79f6ec8e4d5f.jpg?v=1792043134",
       "price": 899.99,
       "currency": "USD",
       "availability": "InStock",
@@ -1770,7 +1785,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0850/1769/0420/files/ringconn_gen_3_charging_case_2.webp?v=1787900142",
       "price": 79.0,
       "currency": "USD",
-      "availability": "OutOfStock",
+      "availability": "InStock",
       "source_url": "https://ringconn.com/products.json?limit=250",
       "source_kind": "products_json"
     },
