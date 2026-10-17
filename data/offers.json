@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T21:08:53Z",
+  "generated_at": "2026-10-17T04:26:41Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -1621,6 +1621,19 @@
       "source_kind": "products_json"
     },
     {
+      "id": "xtool-flash-giveaway-free-innovative-add-ons-for-c1-test-noidex-51002366656751",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "Flash Giveaway | Free Innovative Add-Ons for C1 - Default Title",
+      "url": "https://www.xtool.com/products/flash-giveaway-free-innovative-add-ons-for-c1-test-noidex",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-c1_us_pc_giveaway4-pc_1777-3839.webp?v=1792113952",
+      "price": 0.0,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "xtool-animal-lamp-kit-51122371690735",
       "brand_slug": "xtool",
       "brand_name": "xTool",
@@ -1760,19 +1773,6 @@
       "price": 5599.0,
       "currency": "USD",
       "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "xtool-material-rectangula-rubber-wood-led-light-base-with-groove-plug-in-type-50",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Rectangula Rubber Wood LED Light Base with Groove (Plug-in Type) - Battery Type / All-in-one Bundle",
-      "url": "https://www.xtool.com/products/material-rectangula-rubber-wood-led-light-base-with-groove-plug-in-type",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu__qitaleichanpin_us_pc_rectangula-rubber-wood-led-light-base-with-groove-plug-in-type-02_5235-4352.webp?v=1789730957",
-      "price": 82.99,
-      "currency": "USD",
-      "availability": "OutOfStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
       "source_kind": "products_json"
     },
