@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T04:26:41Z",
+  "generated_at": "2026-10-17T10:44:33Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -1629,7 +1629,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-c1_us_pc_giveaway4-pc_1777-3839.webp?v=1792113952",
       "price": 0.0,
       "currency": "USD",
-      "availability": "InStock",
+      "availability": "OutOfStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
       "source_kind": "products_json"
     },
