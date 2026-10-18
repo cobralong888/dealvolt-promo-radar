@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T11:05:54Z",
+  "generated_at": "2026-10-18T15:52:31Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -185,7 +185,7 @@
           "label": "Exclusive Discount"
         }
       ],
-      "deal_count": 1,
+      "deal_count": 2,
       "product_count": 12
     }
   ],
@@ -714,6 +714,21 @@
       "source_kind": "products_json",
       "compare_at": 82.99,
       "discount_pct": 22
+    },
+    {
+      "id": "cozyla-calendar-max-go-47407910387961",
+      "brand_slug": "cozyla",
+      "brand_name": "Cozyla",
+      "title": "55\" Cozyla Calendar Max Go - 4K UHD",
+      "url": "https://www.cozyla.com/products/calendar-max-go",
+      "image": "https://cdn.shopify.com/s/files/1/0657/4958/2073/files/Calendar_Max_Go_01.jpg?v=1772787654",
+      "price": 2499.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.cozyla.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 2999.99,
+      "discount_pct": 17
     },
     {
       "id": "ringconn-ringconn-gen-2-rose-gold-48458050273588",
@@ -2063,19 +2078,6 @@
       "source_kind": "products_json"
     },
     {
-      "id": "cozyla-calendar-max-go-47407910387961",
-      "brand_slug": "cozyla",
-      "brand_name": "Cozyla",
-      "title": "55\" Cozyla Calendar Max Go - 4K UHD",
-      "url": "https://www.cozyla.com/products/calendar-max-go",
-      "image": "https://cdn.shopify.com/s/files/1/0657/4958/2073/files/Calendar_Max_Go_01.jpg?v=1772787654",
-      "price": 2999.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.cozyla.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
       "id": "cozyla-pro-wifi-digital-picture-frame-hd-touchscreen-digital-photo-frame-4385056",
       "brand_slug": "cozyla",
       "brand_name": "Cozyla",
@@ -2083,6 +2085,19 @@
       "url": "https://www.cozyla.com/products/pro-wifi-digital-picture-frame-hd-touchscreen-digital-photo-frame",
       "image": "https://cdn.shopify.com/s/files/1/0657/4958/2073/files/cozyladigitalpictureframewifidigitalphotoframeimage_1.jpg?v=1713160168",
       "price": 269.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.cozyla.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "cozyla-full-motion-wall-mount-extension-arm-rotate-tilt-swivel-44763209138425",
+      "brand_slug": "cozyla",
+      "brand_name": "Cozyla",
+      "title": "Full Motion Wall Mount with Extension Arm - White",
+      "url": "https://www.cozyla.com/products/full-motion-wall-mount-extension-arm-rotate-tilt-swivel",
+      "image": "https://cdn.shopify.com/s/files/1/0657/4958/2073/files/cozylacalendarkitchentvbathroomtvwallmount3.jpg?v=1763981089",
+      "price": 49.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://www.cozyla.com/products.json?limit=250",
