@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T04:41:50Z",
+  "generated_at": "2026-10-19T13:16:12Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -311,21 +311,6 @@
       "discount_pct": 63
     },
     {
-      "id": "roborock-roborock-saros-z70-42153743188086",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock Saros Z70 Robot Vacuum with OmniGrip™ Mechanical Arm - Black",
-      "url": "https://us.roborock.com/products/roborock-saros-z70",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Z70_B_Set_ffd70f58-2474-48d6-bc96-642049b0ba2a.jpg?v=1757914634",
-      "price": 999.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 2599.99,
-      "discount_pct": 62
-    },
-    {
       "id": "roborock-roborock-q7-max-plus-39673154142326",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
@@ -369,6 +354,21 @@
       "source_kind": "products_json",
       "compare_at": 1399.99,
       "discount_pct": 61
+    },
+    {
+      "id": "roborock-certified-refurbished-90-new-roborock-qrevo-pro-robot-vacuum-with-multi",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "【Certified Refurbished 90% New】Roborock Qrevo Pro Robot Vacuum with Multifunctional Dock 2.0 - White",
+      "url": "https://us.roborock.com/products/certified-refurbished-90-new-roborock-qrevo-pro-robot-vacuum-with-multifunctional-dock-2-0",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Qrevo_Pro_W.png?v=1789886884",
+      "price": 399.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 999.99,
+      "discount_pct": 60
     },
     {
       "id": "xtool-buy-3-get-2-free-irregular-round-glass-coaster-2pcs-per-set-51077103354095",
@@ -506,19 +506,19 @@
       "discount_pct": 32
     },
     {
-      "id": "momcozy-momcozy-breast-milk-collection-shell-46051151282374",
+      "id": "momcozy-momcozy-coolfit-nursing-bra-ultra-stretch-45575769915590",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
-      "title": "Momcozy Waterdrop Breast Milk Collection Shell - 2 Count",
-      "url": "https://momcozy.com/products/momcozy-breast-milk-collection-shell",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/03_1x_03f7abcb-d022-493f-a89c-ac0df1bacf82.webp?v=1783654436",
-      "price": 20.39,
+      "title": "Momcozy CoolFit Nursing Bra - Ultra Stretch - Black / S",
+      "url": "https://momcozy.com/products/momcozy-coolfit-nursing-bra-ultra-stretch",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/8ee163965c752b4df31d594396825cee.png?v=1772251903",
+      "price": 34.99,
       "currency": "USD",
-      "availability": "InStock",
+      "availability": "OutOfStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
       "source_kind": "products_json",
-      "compare_at": 29.99,
-      "discount_pct": 32
+      "compare_at": 49.99,
+      "discount_pct": 30
     },
     {
       "id": "xtool-free-gift-bundle-3-15-chamfered-rectangular-k9-crystal-with-free-crystal-b",
@@ -656,18 +656,18 @@
       "discount_pct": 25
     },
     {
-      "id": "momcozy-momcozy-nightpro-baby-bottle-warmer-night-feeding-45954466840774",
+      "id": "momcozy-function-u-liquid-spandex-printed-nursing-bra-43232995573958",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
-      "title": "Momcozy Night Pro Baby Bottle Warmer - Night Feeding - Warmer",
-      "url": "https://momcozy.com/products/momcozy-nightpro-baby-bottle-warmer-night-feeding",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/2_logo.jpg?v=1783590625",
-      "price": 59.99,
+      "title": "Function - U Liquid Spandex Printed Nursing Bra with Performax™ Technology - Oyster Pink / M",
+      "url": "https://momcozy.com/products/function-u-liquid-spandex-printed-nursing-bra",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/9_96077aff-d4cf-4644-9dae-5c2e1a0dd681.jpg?v=1779352320",
+      "price": 29.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
       "source_kind": "products_json",
-      "compare_at": 79.99,
+      "compare_at": 39.99,
       "discount_pct": 25
     },
     {
@@ -778,13 +778,13 @@
   ],
   "products": [
     {
-      "id": "momcozy-fb095-airmesh-48332486115526",
+      "id": "momcozy-fb095-airmesh-48367065530566",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
-      "title": "FB095 Airmesh - Default Title",
+      "title": "Momcozy AirMesh Busty Nursing Bra - Champagne Nude / S",
       "url": "https://momcozy.com/products/fb095-airmesh",
-      "image": null,
-      "price": 0.0,
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/Product_02_1024_2560_2x_91acecbf-796d-4ba3-8e7a-7692964a25a1.webp?v=1792392048",
+      "price": 59.99,
       "currency": "USD",
       "availability": "OutOfStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
@@ -908,19 +908,6 @@
       "source_kind": "products_json"
     },
     {
-      "id": "momcozy-momcozy-seamless-sleep-bra-wireless-stretchy-soft-44761777012934",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Momcozy Seamless Sleep Bra - Wireless, Stretchy & Soft - Huckleberry / XXL",
-      "url": "https://momcozy.com/products/momcozy-seamless-sleep-bra-wireless-stretchy-soft",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/1_9f28b77d-ff36-4c4b-8f5b-04d0a78a7819.jpg?v=1752715315",
-      "price": 29.99,
-      "currency": "USD",
-      "availability": "OutOfStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
       "id": "momcozy-v3-double-electric-breast-pump-47537152852166",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -930,6 +917,19 @@
       "price": 249.99,
       "currency": "USD",
       "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "momcozy-momcozy-seamless-tummy-shapewear-shorts-postpartum-daily-dress-447820594",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Momcozy Seamless Tummy Shapewear Shorts - Postpartum & Daily Dress - Nude / M",
+      "url": "https://momcozy.com/products/momcozy-seamless-tummy-shapewear-shorts-postpartum-daily-dress",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/10_ce6a4a0e-dd09-49fd-907f-a027220a8241.jpg?v=1779351709",
+      "price": 44.99,
+      "currency": "USD",
+      "availability": "OutOfStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
       "source_kind": "products_json"
     },
@@ -1493,19 +1493,6 @@
       "source_kind": "products_json"
     },
     {
-      "id": "roborock-roborock-qrevo-2-pro-set-robot-vacuum-48979528122486",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock Qrevo 2 Pro Set Robot Vacuum with Auto Mop Removal - White",
-      "url": "https://us.roborock.com/products/roborock-qrevo-2-pro-set-robot-vacuum",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/3-_set_37acf750-a2d3-44d2-9fb5-79f6ec8e4d5f.jpg?v=1792043134",
-      "price": 899.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
       "id": "roborock-roborock-accessories-pack-for-saros-10-42226657362038",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
@@ -1597,13 +1584,13 @@
       "source_kind": "products_json"
     },
     {
-      "id": "roborock-roborock-f25-bx-wet-and-dry-vacuum-cleaner-43473938153590",
+      "id": "roborock-roborock-f25-steam-wet-dry-vacuum-with-steam-and-high-temperature-clean",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
-      "title": "Roborock F25 BX Wet and Dry Vacuum Cleaner - Default Title",
-      "url": "https://us.roborock.com/products/roborock-f25-bx-wet-and-dry-vacuum-cleaner",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/1_61a350e0-af71-469a-852f-c47678f33b1b.jpg?v=1780555165",
-      "price": 399.99,
+      "title": "Roborock F25 Steam Wet & Dry Vacuum with Steam and High Temperature Self Cleaning - Default Title",
+      "url": "https://us.roborock.com/products/roborock-f25-steam-wet-dry-vacuum-with-steam-and-high-temperature-cleaning",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/1_17ee611f-e30c-4240-9eac-c1cabe1a5289.jpg?v=1781506625",
+      "price": 599.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://us.roborock.com/products.json?limit=250",
@@ -1623,6 +1610,19 @@
       "source_kind": "products_json"
     },
     {
+      "id": "roborock-roborock-qrevo-edge-2-robot-vacuum-43252620296310",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Roborock Qrevo Edge 2 - 25,000 Pa HyperForce™  Suction & Dual Anti-Tangle System - Default Title",
+      "url": "https://us.roborock.com/products/roborock-qrevo-edge-2-robot-vacuum",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Roborock_Qrevo_Edge_2.jpg?v=1776826094",
+      "price": 1299.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "roborock-roborock-qrevo-s-pro-robot-vacuum-43252617969782",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
@@ -1633,6 +1633,19 @@
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "xtool-xtool-wonderpress-3d-auto-heat-press-amz-51154897600751",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "xTool WonderPress 3D Auto Heat Press-AMZ - Heat Press Standalone",
+      "url": "https://www.xtool.com/products/xtool-wonderpress-3d-auto-heat-press-amz",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-reyaji_us_pc_us-wonderpress_5448-3589.webp?v=1781493117",
+      "price": 598.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
       "source_kind": "products_json"
     },
     {
@@ -1775,19 +1788,6 @@
       "price": 9.99,
       "currency": "USD",
       "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "xtool-material-holographic-inkjet-sticker-paper-25pcs-50506698064111",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Holographic Inkjet Sticker Paper (25pcs) - Default Title",
-      "url": "https://www.xtool.com/products/material-holographic-inkjet-sticker-paper-25pcs",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/48_48.jpg?v=1789884502",
-      "price": 9.99,
-      "currency": "USD",
-      "availability": "OutOfStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
       "source_kind": "products_json"
     },
