@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T11:37:16Z",
+  "generated_at": "2026-10-20T17:05:03Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -778,6 +778,19 @@
   ],
   "products": [
     {
+      "id": "momcozy-changego-stroller-winter-travel-bundles-48375003250886",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "ChangeGo Stroller Winter Travel Bundles - ChangeGo Stroller+Hand Muff",
+      "url": "https://momcozy.com/products/changego-stroller-winter-travel-bundles",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/Bundle_98907cab-624c-4747-8e18-26ca3229d9a6.png?v=1792495869",
+      "price": 759.98,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "momcozy-airmesh-busty-nursing-bra-48367065530566",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -917,19 +930,6 @@
       "price": 249.99,
       "currency": "USD",
       "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "momcozy-momcozy-seamless-tummy-shapewear-shorts-postpartum-daily-dress-447820594",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Momcozy Seamless Tummy Shapewear Shorts - Postpartum & Daily Dress - Nude / M",
-      "url": "https://momcozy.com/products/momcozy-seamless-tummy-shapewear-shorts-postpartum-daily-dress",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/10_ce6a4a0e-dd09-49fd-907f-a027220a8241.jpg?v=1779351709",
-      "price": 44.99,
-      "currency": "USD",
-      "availability": "OutOfStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
       "source_kind": "products_json"
     },
