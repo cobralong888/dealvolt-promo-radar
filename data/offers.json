@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T04:47:44Z",
+  "generated_at": "2026-10-21T11:49:41Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -60,7 +60,7 @@
       "source_status": "ok",
       "promo": [],
       "deal_count": 0,
-      "product_count": 9
+      "product_count": 10
     },
     {
       "slug": "eufy",
@@ -796,7 +796,7 @@
       "brand_name": "Momcozy",
       "title": "Momcozy AirMesh Busty Nursing Bra - Champagne Nude / S",
       "url": "https://momcozy.com/products/airmesh-busty-nursing-bra",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/Product_02_1024_2560_2x_91acecbf-796d-4ba3-8e7a-7692964a25a1.webp?v=1792392048",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/20261021-162947.webp?v=1792571436",
       "price": 59.99,
       "currency": "USD",
       "availability": "InStock",
@@ -1178,6 +1178,19 @@
       "currency": "USD",
       "availability": "http://schema.org/OutOfStock",
       "source_url": "https://www.sharkninja.com/ninja-mini-warmer---cooking-system/AMC17.html",
+      "source_kind": "sitemap_products"
+    },
+    {
+      "id": "ninja-roasting-rack-for-your-cooking-system",
+      "brand_slug": "ninja",
+      "brand_name": "Ninja",
+      "title": "Roasting Rack for your Cooking System",
+      "url": "https://www.sharkninja.com/roasting-rack-for-your-cooking-system/AMC20.html",
+      "image": "https://assets.sharkninja.com/image/upload/f_auto/q_auto/SharkNinja-NA/AMC20_01.jpg",
+      "price": 13.99,
+      "currency": "USD",
+      "availability": "http://schema.org/InStock",
+      "source_url": "https://www.sharkninja.com/roasting-rack-for-your-cooking-system/AMC20.html",
       "source_kind": "sitemap_products"
     },
     {
@@ -1610,16 +1623,55 @@
       "source_kind": "products_json"
     },
     {
-      "id": "roborock-roborock-3-packs-disposable-dust-bags-for-h60-hub-ultra-and-h60-hub-pro",
+      "id": "roborock-roborock-qrevo-s-pro-robot-vacuum-43252617969782",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
-      "title": "Roborock 3 Packs Disposable Dust Bags for H60 Hub Ultra and H60 Hub Pro Cordless Vacuum Cleaner - Default Title",
-      "url": "https://us.roborock.com/products/roborock-3-packs-disposable-dust-bags-for-h60-hub-ultra-and-h60-hub-pro-cordless-vacuum-cleaner-with-auto-empty-dock-stick-vacuum-cleaner-for-home-and-pet-hair-anti-tangle-brush-led-dust-detection",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/3L.jpg?v=1776327958",
+      "title": "Roborock Qrevo S Pro Robot Vacuum and Mop - 18,500 Pa Suction & Multifunctional Dock - Black",
+      "url": "https://us.roborock.com/products/roborock-qrevo-s-pro-robot-vacuum",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Roborock_Qrevo_Edge_2_Robot_Vacuum.jpg?v=1776825130",
+      "price": 699.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "xtool-material-3d-sublimation-silicone-mug-wrap-jig-for-11oz-mugs3pcs-5087335150",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "3D Sublimation Silicone Mug Wrap Jig For 11oz Mugs (3pcs) - Default Title",
+      "url": "https://www.xtool.com/products/material-3d-sublimation-silicone-mug-wrap-jig-for-11oz-mugs3pcs",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu__qitaleichanpin_us_pc_01_5394-6696.webp?v=1792571705",
+      "price": 22.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "xtool-material-inkjet-printing-primer-wipe-for-wood-50pcs-50865700045039",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "Inkjet Printing Primer Wipe for Wood (50pcs) - Default Title",
+      "url": "https://www.xtool.com/products/material-inkjet-printing-primer-wipe-for-wood-50pcs",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/inkjet-printing-primer-wipe-for-wood-50pcs-01.webp?v=1792566824",
       "price": 12.99,
       "currency": "USD",
-      "availability": "OutOfStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "xtool-material-mixed-shape-christmas-glass-ornament-4pcs-50798636073199",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "Mixed-Shape Christmas Glass Ornament (4pcs) - Default Title",
+      "url": "https://www.xtool.com/products/material-mixed-shape-christmas-glass-ornament-4pcs",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mixed-shape-christmas-glass-ornament-04.webp?v=1792569464",
+      "price": 19.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
       "source_kind": "products_json"
     },
     {
@@ -1734,45 +1786,6 @@
       "url": "https://www.xtool.com/products/material-curved-aluminum-alloy-and-crystal-trophy",
       "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu__qitaleichanpin_us_pc_curved-aluminum-alloy-and-crystal-trophy-01_5767-1533.webp?v=1792154134",
       "price": 51.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "xtool-material-doodle-print-transfer-paper-for-light-fabric-20pcs-50733421101295",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Doodle & Print Transfer Paper for Light Fabric (20pcs) - For Light Fabric",
-      "url": "https://www.xtool.com/products/material-doodle-print-transfer-paper-for-light-fabric-20pcs",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu__qitaleichanpin_us_pc_doodle-print-transfer-paper-for-light-fabric-01_5735-6975.webp?v=1792152843",
-      "price": 16.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "xtool-knurled-thumb-nut-threaded-rod-connector-kit-51121006543087",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Knurled Thumb Nut & Threaded Rod Connector Kit - Default Title",
-      "url": "https://www.xtool.com/products/knurled-thumb-nut-threaded-rod-connector-kit",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/knurled-thumb-nut-threaded-rod-connector-kit-01.webp?v=1792144839",
-      "price": 19.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "xtool-round-3-color-led-light-base-51120560046319",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Round 3-Color LED Light Base - Default Title",
-      "url": "https://www.xtool.com/products/round-3-color-led-light-base",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/round-3-color-led-light-base-01.webp?v=1792142988",
-      "price": 9.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
