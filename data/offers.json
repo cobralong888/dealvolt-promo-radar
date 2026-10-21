@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T21:37:48Z",
+  "generated_at": "2026-10-21T04:47:44Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -60,7 +60,7 @@
       "source_status": "ok",
       "promo": [],
       "deal_count": 0,
-      "product_count": 10
+      "product_count": 9
     },
     {
       "slug": "eufy",
@@ -778,13 +778,13 @@
   ],
   "products": [
     {
-      "id": "momcozy-changego-stroller-winter-travel-bundles-48375003250886",
+      "id": "momcozy-changego-stroller-winter-travel-bundles-48375003349190",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
-      "title": "ChangeGo Stroller Winter Travel Bundles - ChangeGo Stroller+Hand Muff",
+      "title": "ChangeGo Stroller Winter Travel Bundles - ChangeGo Stroller+Hand Muff+Footmuff",
       "url": "https://momcozy.com/products/changego-stroller-winter-travel-bundles",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/Bundle_98907cab-624c-4747-8e18-26ca3229d9a6.png?v=1792495869",
-      "price": 759.98,
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/Bundle_4d510ea5-0fc5-4777-9225-161d1e2b4f27.png?v=1792495869",
+      "price": 909.97,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
@@ -1100,19 +1100,6 @@
       "currency": "USD",
       "availability": "http://schema.org/InStock",
       "source_url": "https://www.sharkninja.com/filter-kit/XF22.html",
-      "source_kind": "sitemap_products"
-    },
-    {
-      "id": "ninja-ninja-5-qt-air-fryer-pro",
-      "brand_slug": "ninja",
-      "brand_name": "Ninja",
-      "title": "Ninja 5-QT Air Fryer Pro",
-      "url": "https://www.sharkninja.com/ninja-air-fryer-pro-4-in-1/AF141.html",
-      "image": "https://assets.sharkninja.com/image/upload/f_auto/q_auto/SharkNinja-NA/AF141_01.jpg",
-      "price": 129.99,
-      "currency": "USD",
-      "availability": "http://schema.org/OutOfStock",
-      "source_url": "https://www.sharkninja.com/ninja-air-fryer-pro-4-in-1/AF141.html",
       "source_kind": "sitemap_products"
     },
     {
