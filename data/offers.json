@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T04:49:47Z",
+  "generated_at": "2026-10-23T11:39:37Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -778,6 +778,19 @@
   ],
   "products": [
     {
+      "id": "momcozy-wellness-1-warm-massage-breast-pump-replacement-storagebag-4827543578234",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Momcozy Wellness 1 Breast Pump Storage Bag - Default Title",
+      "url": "https://momcozy.com/products/wellness-1-warm-massage-breast-pump-replacement-storagebag",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/Detail_01_3x_38798a97-7932-453e-99c2-ad560ec4a359.webp?v=1791791656",
+      "price": 49.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "momcozy-bath-bombs-gift-set-with-7-cute-animal-shapes-44296389591238",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -915,19 +928,6 @@
       "url": "https://momcozy.com/products/baby-sleep-bundle-baby-monitor-bm04-easy-swaddle-wrap",
       "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/BM04_1_0bfd09b1-b94a-4922-9d93-82df80f41473.jpg?v=1790763941",
       "price": 229.98,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "momcozy-baby-sleep-sack-1-5-tog-easy-swaddle-wrap-for-0-3m-bundle-45697162707142",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Baby Sleep Sack 1.5 TOG & Easy Swaddle Wrap For 0-3M Bundle - Bloom / Small(0-6 Months/6.6-19.8 lbs) / Pink",
-      "url": "https://momcozy.com/products/baby-sleep-sack-1-5-tog-easy-swaddle-wrap-for-0-3m-bundle",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/Baby_Easy_Swaddle_Wrap_For_0-3M_Sleep_Sack_1.5_TOG_Bundle.png?v=1779351292",
-      "price": 79.0,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
@@ -1623,15 +1623,15 @@
       "source_kind": "products_json"
     },
     {
-      "id": "roborock-roborock-qrevo-s-pro-robot-vacuum-43252617969782",
+      "id": "roborock-roborock-3-packs-disposable-dust-bags-for-h60-hub-ultra-and-h60-hub-pro",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
-      "title": "Roborock Qrevo S Pro Robot Vacuum and Mop - 18,500 Pa Suction & Multifunctional Dock - Black",
-      "url": "https://us.roborock.com/products/roborock-qrevo-s-pro-robot-vacuum",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Roborock_Qrevo_Edge_2_Robot_Vacuum.jpg?v=1776825130",
-      "price": 699.99,
+      "title": "Roborock 3 Packs Disposable Dust Bags for H60 Hub Ultra and H60 Hub Pro Cordless Vacuum Cleaner - Default Title",
+      "url": "https://us.roborock.com/products/roborock-3-packs-disposable-dust-bags-for-h60-hub-ultra-and-h60-hub-pro-cordless-vacuum-cleaner-with-auto-empty-dock-stick-vacuum-cleaner-for-home-and-pet-hair-anti-tangle-brush-led-dust-detection",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/3L.jpg?v=1776327958",
+      "price": 12.99,
       "currency": "USD",
-      "availability": "InStock",
+      "availability": "OutOfStock",
       "source_url": "https://us.roborock.com/products.json?limit=250",
       "source_kind": "products_json"
     },
