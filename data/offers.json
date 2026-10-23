@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:36:15Z",
+  "generated_at": "2026-10-23T04:49:47Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -746,19 +746,19 @@
       "discount_pct": 15
     },
     {
-      "id": "xtool-material-xtool-selected-uv-ink-for-o1-omni-printer-50163216810223",
+      "id": "xtool-material-essential-ink-set-for-o1-omni-printer-50267657502959",
       "brand_slug": "xtool",
       "brand_name": "xTool",
-      "title": "xTool Selected UV Ink for O1 Omni Printer - UV Ink Essential Set",
-      "url": "https://www.xtool.com/products/material-xtool-selected-uv-ink-for-o1-omni-printer",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/P0104001450UV_7022ff46-48cc-4be6-af87-028131fb0ebe.png?v=1784775397",
-      "price": 102.99,
+      "title": "Essential Ink Set for O1 Omni Printer - For Single UV",
+      "url": "https://www.xtool.com/products/material-essential-ink-set-for-o1-omni-printer",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/essential-ink-set-for-single-uv-o1-omni-printer-01.webp?v=1785343606",
+      "price": 129.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
       "source_kind": "products_json",
-      "compare_at": 120.99,
-      "discount_pct": 15
+      "compare_at": 151.99,
+      "discount_pct": 14
     },
     {
       "id": "cozyla-open-box-cozyla-calendar-46945654604025",
@@ -777,6 +777,19 @@
     }
   ],
   "products": [
+    {
+      "id": "momcozy-bath-bombs-gift-set-with-7-cute-animal-shapes-44296389591238",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Momcozy Natural Essential Oil Bath Bombs with 7 Cute Animal Shapes(14 Pcs) - Default Title",
+      "url": "https://momcozy.com/products/bath-bombs-gift-set-with-7-cute-animal-shapes",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/DTC-bombs-3.jpg?v=1779352056",
+      "price": 29.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
     {
       "id": "momcozy-momcozy-deepclean-lite-baby-bottle-washer-and-sterilizer-48074921935046",
       "brand_slug": "momcozy",
@@ -915,19 +928,6 @@
       "url": "https://momcozy.com/products/baby-sleep-sack-1-5-tog-easy-swaddle-wrap-for-0-3m-bundle",
       "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/Baby_Easy_Swaddle_Wrap_For_0-3M_Sleep_Sack_1.5_TOG_Bundle.png?v=1779351292",
       "price": 79.0,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "momcozy-purehug-ergonomic-baby-carrier-2-47703448649926",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "PureHug Ergonomic Baby Carrier - Cotton / Black",
-      "url": "https://momcozy.com/products/purehug-ergonomic-baby-carrier-2",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/black-01_112d6a25-d6a5-4916-bd80-84726eddb759.jpg?v=1774497253",
-      "price": 59.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
@@ -1636,6 +1636,19 @@
       "source_kind": "products_json"
     },
     {
+      "id": "xtool-consumables-kit-for-xtool-selected-air-compressor-air-dryer-51237082431727",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "Consumables Kit for xTool Selected Air Compressor & Air Dryer - Air Compressor Consumables Kit",
+      "url": "https://www.xtool.com/products/consumables-kit-for-xtool-selected-air-compressor-air-dryer",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-baidituyingyong_au_pc_airdryerconsumableskit_9141-16651_09d51414-2e2a-473d-af4f-8995fd3a1799.webp?v=1792719290",
+      "price": 69.0,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "xtool-xtool-m2-riser-base-kit-51067500298479",
       "brand_slug": "xtool",
       "brand_name": "xTool",
@@ -1773,19 +1786,6 @@
       "url": "https://www.xtool.com/products/silicone-hose",
       "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/02__4x2_1_af7e3b4c-f1e3-4b9b-b02e-d90ee59bbd73.jpg?v=1792374998",
       "price": 2.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "xtool-animal-lamp-kit-51122371690735",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Animal Lamp Kit - All-in-one Bundle",
-      "url": "https://www.xtool.com/products/animal-lamp-kit",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/animal-lamp-kit-01.webp?v=1792157610",
-      "price": 55.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
