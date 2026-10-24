@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T04:37:26Z",
+  "generated_at": "2026-10-24T11:00:39Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -1545,19 +1545,6 @@
       "source_kind": "products_json"
     },
     {
-      "id": "roborock-roborock-qrevo-edge-3-pro-43974124339318",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock Qrevo Edge 3 Pro Robot Vacuum and Mop with Hot Water Mopping & Intelligent Dock - Black",
-      "url": "https://us.roborock.com/products/roborock-qrevo-edge-3-pro",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Set_VidaF.png?v=1786520909",
-      "price": 1499.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
       "id": "roborock-roborock-qrevo-2-pro-1-43890947326070",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
@@ -1580,19 +1567,6 @@
       "price": 15.99,
       "currency": "USD",
       "availability": "OutOfStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "roborock-roborock-f25-steam-wet-dry-vacuum-with-steam-and-high-temperature-clean",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock F25 Steam Wet & Dry Vacuum with Steam and High Temperature Self Cleaning - Default Title",
-      "url": "https://us.roborock.com/products/roborock-f25-steam-wet-dry-vacuum-with-steam-and-high-temperature-cleaning",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/1_17ee611f-e30c-4240-9eac-c1cabe1a5289.jpg?v=1781506625",
-      "price": 599.99,
-      "currency": "USD",
-      "availability": "InStock",
       "source_url": "https://us.roborock.com/products.json?limit=250",
       "source_kind": "products_json"
     },
@@ -1632,6 +1606,32 @@
       "price": 12.99,
       "currency": "USD",
       "availability": "OutOfStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "roborock-roborock-3-packs-disposable-dust-bags-for-h60-hub-ultra-and-h60-hub-pro",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Roborock 12 Packs Disposable Dust Bags for H60 Hub Ultra and H60 Hub Pro Cordless Vacuum Cleaner - Default Title",
+      "url": "https://us.roborock.com/products/roborock-3-packs-disposable-dust-bags-for-h60-hub-ultra-and-h60-hub-pro-cordless-vacuum-cleaner-copy",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/61Rjvr4FSVL._AC_SL1500.jpg?v=1776235910",
+      "price": 49.99,
+      "currency": "USD",
+      "availability": "OutOfStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "roborock-roborock-rechargeable-battery-pack-for-h60-hub-pro-and-h60-pro-cordless",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Roborock Rechargeable Battery Pack for H60 Hub Pro and H60 Pro Cordless Vacuum Cleaner - Default Title",
+      "url": "https://us.roborock.com/products/roborock-rechargeable-battery-pack-for-h60-hub-pro-and-h60-pro-cordless-vacuum-cleaner-stick-vacuum-cleaner-for-home-and-pet-hair-anti-tangle-brush-led-dust-detection",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/511NiK-HGhL._AC_SL1500.jpg?v=1776236734",
+      "price": 129.99,
+      "currency": "USD",
+      "availability": "InStock",
       "source_url": "https://us.roborock.com/products.json?limit=250",
       "source_kind": "products_json"
     },
