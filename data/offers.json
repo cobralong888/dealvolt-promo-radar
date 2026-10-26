@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T04:47:45Z",
+  "generated_at": "2026-10-26T13:03:28Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -266,6 +266,21 @@
       "discount_pct": 66
     },
     {
+      "id": "roborock-roborock-s8-max-ultra-with-refill-drainage-system-40697726828662",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Roborock S8 Max Ultra with Refill & Drainage System - Default Title",
+      "url": "https://us.roborock.com/products/roborock-s8-max-ultra-with-refill-drainage-system",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/S8_Max_Ultra_W.jpg?v=1757915452",
+      "price": 599.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 1699.99,
+      "discount_pct": 65
+    },
+    {
       "id": "roborock-certified-refurbished-90-new-roborock-qrevo-edge-robot-vacuum-with-mult",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
@@ -311,6 +326,21 @@
       "discount_pct": 63
     },
     {
+      "id": "roborock-roborock-saros-z70-42153743188086",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Roborock Saros Z70 Robot Vacuum with OmniGrip™ Mechanical Arm - Black",
+      "url": "https://us.roborock.com/products/roborock-saros-z70",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Z70_B_Set_ffd70f58-2474-48d6-bc96-642049b0ba2a.jpg?v=1757914634",
+      "price": 999.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 2599.99,
+      "discount_pct": 62
+    },
+    {
       "id": "roborock-roborock-q7-max-plus-39673154142326",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
@@ -339,36 +369,6 @@
       "source_kind": "products_json",
       "compare_at": 659.99,
       "discount_pct": 62
-    },
-    {
-      "id": "roborock-certified-refurbished-90-new-roborock-qrevo-slim-robot-vacuum-with-mult",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "【Certified Refurbished 90% New】Roborock Qrevo Slim Robot Vacuum with Multifunctional Self-Cleaning Dock 3.0 (Upgraded from Qrevo Master) - Default Title",
-      "url": "https://us.roborock.com/products/certified-refurbished-90-new-roborock-qrevo-slim-robot-vacuum-with-multifunctional-self-cleaning-dock-3-0-upgraded-from-qrevo-master",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Qrevo_Slim-1.png?v=1789886889",
-      "price": 549.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 1399.99,
-      "discount_pct": 61
-    },
-    {
-      "id": "roborock-certified-refurbished-90-new-roborock-qrevo-pro-robot-vacuum-with-multi",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "【Certified Refurbished 90% New】Roborock Qrevo Pro Robot Vacuum with Multifunctional Dock 2.0 - White",
-      "url": "https://us.roborock.com/products/certified-refurbished-90-new-roborock-qrevo-pro-robot-vacuum-with-multifunctional-dock-2-0",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Qrevo_Pro_W.png?v=1789886884",
-      "price": 399.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 999.99,
-      "discount_pct": 60
     },
     {
       "id": "xtool-buy-3-get-2-free-irregular-round-glass-coaster-2pcs-per-set-51077103354095",
@@ -461,21 +461,6 @@
       "discount_pct": 40
     },
     {
-      "id": "momcozy-momcozy-shapewear-bodysuit-postpartum-daily-dress-44781901381830",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Momcozy Shapewear Bodysuit - Postpartum & Daily Dress - Black - no nursing clips / M",
-      "url": "https://momcozy.com/products/momcozy-shapewear-bodysuit-postpartum-daily-dress",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/b58ce7b99582c961375527c3c6b27ebb_d316db94-b460-44e0-a059-6e0cefbbe400.png?v=1779351712",
-      "price": 35.99,
-      "currency": "USD",
-      "availability": "OutOfStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 59.99,
-      "discount_pct": 40
-    },
-    {
       "id": "momcozy-momcozy-6-in-1-fast-baby-bottle-warmer-43177428779206",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -504,21 +489,6 @@
       "source_kind": "products_json",
       "compare_at": 79.98,
       "discount_pct": 32
-    },
-    {
-      "id": "momcozy-momcozy-coolfit-nursing-bra-ultra-stretch-45575769915590",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Momcozy CoolFit Nursing Bra - Ultra Stretch - Black / S",
-      "url": "https://momcozy.com/products/momcozy-coolfit-nursing-bra-ultra-stretch",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/8ee163965c752b4df31d594396825cee.png?v=1772251903",
-      "price": 34.99,
-      "currency": "USD",
-      "availability": "OutOfStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 49.99,
-      "discount_pct": 30
     },
     {
       "id": "xtool-free-gift-bundle-3-15-chamfered-rectangular-k9-crystal-with-free-crystal-b",
@@ -656,18 +626,18 @@
       "discount_pct": 25
     },
     {
-      "id": "momcozy-function-u-liquid-spandex-printed-nursing-bra-43232995573958",
+      "id": "momcozy-momcozy-nightpro-baby-bottle-warmer-night-feeding-45954466840774",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
-      "title": "Function - U Liquid Spandex Printed Nursing Bra with Performax™ Technology - Oyster Pink / M",
-      "url": "https://momcozy.com/products/function-u-liquid-spandex-printed-nursing-bra",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/9_96077aff-d4cf-4644-9dae-5c2e1a0dd681.jpg?v=1779352320",
-      "price": 29.99,
+      "title": "Momcozy Night Pro Baby Bottle Warmer - Night Feeding - Warmer",
+      "url": "https://momcozy.com/products/momcozy-nightpro-baby-bottle-warmer-night-feeding",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/2_logo.jpg?v=1783590625",
+      "price": 59.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
       "source_kind": "products_json",
-      "compare_at": 39.99,
+      "compare_at": 79.99,
       "discount_pct": 25
     },
     {
@@ -699,6 +669,36 @@
       "source_kind": "products_json",
       "compare_at": 172.99,
       "discount_pct": 24
+    },
+    {
+      "id": "momcozy-momcozy-automeal-baby-food-maker-43930445742278",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Momcozy AutoMeal Baby Food Maker - Default Title",
+      "url": "https://momcozy.com/products/momcozy-automeal-baby-food-maker",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/1-2_ff5cd7b0-f9ed-43ef-aabc-814fd603a163.jpg?v=1779352209",
+      "price": 99.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 129.99,
+      "discount_pct": 23
+    },
+    {
+      "id": "momcozy-momcozy-cooling-pregnancy-pillow-44674582675654",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "EXCLUSIVE dreamlign Cooling Comfort Pregnancy Pillow-Blue - Default Title",
+      "url": "https://momcozy.com/products/momcozy-cooling-pregnancy-pillow",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/IMG_202506118846_1200x1498_89205be1-ff06-41c2-86dc-36549d35fe42.jpg?v=1779353682",
+      "price": 49.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 64.99,
+      "discount_pct": 23
     },
     {
       "id": "xtool-free-gift-bundle-3-1-k9-crystal-ball-with-free-led-display-stands-51057385",
@@ -746,19 +746,19 @@
       "discount_pct": 15
     },
     {
-      "id": "xtool-material-essential-ink-set-for-o1-omni-printer-50267657502959",
+      "id": "xtool-material-xtool-selected-uv-ink-for-o1-omni-printer-50163216810223",
       "brand_slug": "xtool",
       "brand_name": "xTool",
-      "title": "Essential Ink Set for O1 Omni Printer - For Single UV",
-      "url": "https://www.xtool.com/products/material-essential-ink-set-for-o1-omni-printer",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/essential-ink-set-for-single-uv-o1-omni-printer-01.webp?v=1785343606",
-      "price": 129.99,
+      "title": "UV Ink for O1 Omni Printer - UV Ink Essential Set",
+      "url": "https://www.xtool.com/products/material-xtool-selected-uv-ink-for-o1-omni-printer",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/P0104001450UV_7022ff46-48cc-4be6-af87-028131fb0ebe.png?v=1784775397",
+      "price": 102.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
       "source_kind": "products_json",
-      "compare_at": 151.99,
-      "discount_pct": 14
+      "compare_at": 120.99,
+      "discount_pct": 15
     },
     {
       "id": "cozyla-open-box-cozyla-calendar-46945654604025",
@@ -785,6 +785,19 @@
       "url": "https://momcozy.com/products/wellness-1-warm-massage-breast-pump-replacement-storagebag",
       "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/Detail_01_3x_38798a97-7932-453e-99c2-ad560ec4a359.webp?v=1791791656",
       "price": 49.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "momcozy-momcozy-wide-calf-compression-socks-20-30mmhg-for-sports-2-pairs-b-48402",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Momcozy Wide Calf Compression Socks 20-30mmHg for Sports 2 Pairs - Purple and white / S",
+      "url": "https://momcozy.com/products/momcozy-wide-calf-compression-socks-20-30mmhg-for-sports-2-pairs-b",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/product_1_1_3x_456141d6-1324-478d-8be4-c9d096b9f31d.webp?v=1792740531",
+      "price": 29.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
@@ -915,19 +928,6 @@
       "url": "https://momcozy.com/products/bamboo-pregnancy-postpartum-panties-underwear",
       "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/IMG_202503178395_1200x1498_0a248efb-d11f-4a32-aa4f-d4ef0a565445.jpg?v=1779351940",
       "price": 19.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "momcozy-baby-sleep-bundle-baby-monitor-bm04-easy-swaddle-wrap-48082108973254",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Baby-Sleep Bundle: Baby Monitor BM04 & Easy Swaddle Wrap - Serenity",
-      "url": "https://momcozy.com/products/baby-sleep-bundle-baby-monitor-bm04-easy-swaddle-wrap",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/BM04_1_0bfd09b1-b94a-4922-9d93-82df80f41473.jpg?v=1790763941",
-      "price": 229.98,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
@@ -1506,6 +1506,19 @@
       "source_kind": "products_json"
     },
     {
+      "id": "roborock-roborock-saros-20-flow-44181001338998",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Roborock Saros 20 Flow - SpiraFlow™ 2.0 Pressurized Self-Cleaning System - Default Title",
+      "url": "https://us.roborock.com/products/roborock-saros-20-flow",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Set_Beryl_S_B.png?v=1790045685",
+      "price": 1699.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "roborock-12th-anniversary-roborock-h60-cordless-stick-vacuum-cleaner-44112067952",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
@@ -1571,6 +1584,19 @@
       "source_kind": "products_json"
     },
     {
+      "id": "roborock-roborock-f25-bx-wet-and-dry-vacuum-cleaner-43473938153590",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Roborock F25 BX Wet and Dry Vacuum Cleaner - Default Title",
+      "url": "https://us.roborock.com/products/roborock-f25-bx-wet-and-dry-vacuum-cleaner",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/1_61a350e0-af71-469a-852f-c47678f33b1b.jpg?v=1780555165",
+      "price": 399.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "roborock-roborock-rotating-mop-cloths-for-saros-20-qrevo-edge-24-pack-4338216897",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
@@ -1584,13 +1610,13 @@
       "source_kind": "products_json"
     },
     {
-      "id": "roborock-roborock-qrevo-edge-2-robot-vacuum-43252620296310",
+      "id": "roborock-roborock-qrevo-s-pro-robot-vacuum-43252617969782",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
-      "title": "Roborock Qrevo Edge 2 - 25,000 Pa HyperForce™  Suction & Dual Anti-Tangle System - Default Title",
-      "url": "https://us.roborock.com/products/roborock-qrevo-edge-2-robot-vacuum",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Roborock_Qrevo_Edge_2.jpg?v=1776826094",
-      "price": 1299.99,
+      "title": "Roborock Qrevo S Pro Robot Vacuum and Mop - 18,500 Pa Suction & Multifunctional Dock - Black",
+      "url": "https://us.roborock.com/products/roborock-qrevo-s-pro-robot-vacuum",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Roborock_Qrevo_Edge_2_Robot_Vacuum.jpg?v=1776825130",
+      "price": 699.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://us.roborock.com/products.json?limit=250",
@@ -1610,38 +1636,12 @@
       "source_kind": "products_json"
     },
     {
-      "id": "roborock-roborock-3-packs-disposable-dust-bags-for-h60-hub-ultra-and-h60-hub-pro",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock 12 Packs Disposable Dust Bags for H60 Hub Ultra and H60 Hub Pro Cordless Vacuum Cleaner - Default Title",
-      "url": "https://us.roborock.com/products/roborock-3-packs-disposable-dust-bags-for-h60-hub-ultra-and-h60-hub-pro-cordless-vacuum-cleaner-copy",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/61Rjvr4FSVL._AC_SL1500.jpg?v=1776235910",
-      "price": 49.99,
-      "currency": "USD",
-      "availability": "OutOfStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "roborock-roborock-rechargeable-battery-pack-for-h60-hub-pro-and-h60-pro-cordless",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock Rechargeable Battery Pack for H60 Hub Pro and H60 Pro Cordless Vacuum Cleaner - Default Title",
-      "url": "https://us.roborock.com/products/roborock-rechargeable-battery-pack-for-h60-hub-pro-and-h60-pro-cordless-vacuum-cleaner-stick-vacuum-cleaner-for-home-and-pet-hair-anti-tangle-brush-led-dust-detection",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/511NiK-HGhL._AC_SL1500.jpg?v=1776236734",
-      "price": 129.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
       "id": "xtool-consumables-kit-for-xtool-selected-air-compressor-air-dryer-51237082431727",
       "brand_slug": "xtool",
       "brand_name": "xTool",
       "title": "Consumables Kit for xTool Selected Air Compressor & Air Dryer - Air Compressor Consumables Kit",
       "url": "https://www.xtool.com/products/consumables-kit-for-xtool-selected-air-compressor-air-dryer",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-baidituyingyong_au_pc_airdryerconsumableskit_9141-16651_09d51414-2e2a-473d-af4f-8995fd3a1799.webp?v=1792719290",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-baidituyingyong_au_pc_aircompressorconsumableskit_9141-16664_53e97c4d-7eba-4e6b-88ab-04d5760b71af.webp?v=1792719320",
       "price": 69.0,
       "currency": "USD",
       "availability": "InStock",
