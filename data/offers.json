@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T05:05:40Z",
+  "generated_at": "2026-10-27T12:12:06Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -190,6 +190,21 @@
     }
   ],
   "deals": [
+    {
+      "id": "xtool-test-machine-test-noindex-45985405534447",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "[Test Product] - machine - 10W / 10W test1-售价，原价，预估到手价（金额折扣）",
+      "url": "https://www.xtool.com/products/test-machine-test-noindex",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/20230629-001559_b7004359-67a9-4a6f-bdab-b8916b263e1a.jpg?v=1715752185",
+      "price": 499.0,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 4249.0,
+      "discount_pct": 88
+    },
     {
       "id": "roborock-roborock-dyad-air-wet-and-dry-vacuum-cleaner-40252369207414",
       "brand_slug": "roborock",
@@ -746,21 +761,6 @@
       "discount_pct": 15
     },
     {
-      "id": "xtool-material-xtool-selected-uv-ink-for-o1-omni-printer-50163216810223",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "UV Ink for O1 Omni Printer - UV Ink Essential Set",
-      "url": "https://www.xtool.com/products/material-xtool-selected-uv-ink-for-o1-omni-printer",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/P0104001450UV_7022ff46-48cc-4be6-af87-028131fb0ebe.png?v=1784775397",
-      "price": 102.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 120.99,
-      "discount_pct": 15
-    },
-    {
       "id": "cozyla-open-box-cozyla-calendar-46945654604025",
       "brand_slug": "cozyla",
       "brand_name": "Cozyla",
@@ -777,6 +777,32 @@
     }
   ],
   "products": [
+    {
+      "id": "momcozy-fb095-airmesh-48450364178630",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "FB095 Airmesh - S",
+      "url": "https://momcozy.com/products/fb095-airmesh",
+      "image": null,
+      "price": 59.99,
+      "currency": "USD",
+      "availability": "OutOfStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "momcozy-5-inch-dual-mode-smart-baby-monitor-with-2-camera-bm04-breezyclear-2-in",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Smart Care Bundle: BM04 Baby Monitor (2-Cam) + BreezyClear™ Nasal Aspirator - Default Title",
+      "url": "https://momcozy.com/products/5-inch-dual-mode-smart-baby-monitor-with-2-camera-bm04-breezyclear™-2-in-1-spray-suction-electric-nasal-aspirator-bundle",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/Frame2147240669.png?v=1777000095",
+      "price": 309.98,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
     {
       "id": "momcozy-wellness-1-warm-massage-breast-pump-replacement-storagebag-4827543578234",
       "brand_slug": "momcozy",
@@ -902,32 +928,6 @@
       "url": "https://momcozy.com/products/momcozy-milk-formula-dispenser",
       "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/FD03_1.png?v=1779354153",
       "price": 49.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "momcozy-day-night-wireless-full-coverage-everyday-bra-43736796201158",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Day&Night - Wireless Full-Coverage Everyday Bra - Oyster Pink / S",
-      "url": "https://momcozy.com/products/day-night-wireless-full-coverage-everyday-bra",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/EB007.jpg?v=1716970571",
-      "price": 39.99,
-      "currency": "USD",
-      "availability": "OutOfStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "momcozy-bamboo-pregnancy-postpartum-panties-underwear-44507511161030",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Bamboo Pregnancy Postpartum Panties Underwear - 2 pack / S",
-      "url": "https://momcozy.com/products/bamboo-pregnancy-postpartum-panties-underwear",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/IMG_202503178395_1200x1498_0a248efb-d11f-4a32-aa4f-d4ef0a565445.jpg?v=1779351940",
-      "price": 19.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
@@ -1306,7 +1306,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0504/7094/4954/products/T2907031.jpg?v=1611313380",
       "price": 13.99,
       "currency": "USD",
-      "availability": "https://schema.org/SoldOut",
+      "availability": "https://schema.org/InStock",
       "source_url": "https://www.eufy.com/products/t2907031",
       "source_kind": "sitemap_products"
     },
