@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T22:35:49Z",
+  "generated_at": "2026-10-29T05:48:56Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -1636,6 +1636,19 @@
       "source_kind": "products_json"
     },
     {
+      "id": "xtool-final-payment-xtool-x1-test-noindex-51152427090159",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "[Final Payment] xTool X1 Next-Gen All-in-One Laser Cutter & Engraver - Single CO2 / Other laser sources not supported / Standalone",
+      "url": "https://www.xtool.com/products/final-payment-xtool-x1-test-noindex",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-x1_us_pc_danji-skubaiditu_9823-30284_f118b144-d62b-4286-b4a4-583511378a7f.webp?v=1793011233",
+      "price": 3299.0,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "xtool-consumables-kit-for-xtool-selected-air-compressor-air-dryer-51237082431727",
       "brand_slug": "xtool",
       "brand_name": "xTool",
@@ -1773,19 +1786,6 @@
       "url": "https://www.xtool.com/products/red-ink-tank-assembly",
       "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/image_1_fefeb8fd-0b66-4dd9-a5a2-bd6eba94a8c0.png?v=1792378409",
       "price": 16.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "xtool-silicone-hose-51149811024111",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Silicone Hose 4 * 2_M - Default Title",
-      "url": "https://www.xtool.com/products/silicone-hose",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/02__4x2_1_af7e3b4c-f1e3-4b9b-b02e-d90ee59bbd73.jpg?v=1792374998",
-      "price": 2.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
