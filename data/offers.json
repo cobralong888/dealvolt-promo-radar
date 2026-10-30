@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T22:45:45Z",
+  "generated_at": "2026-10-30T05:49:55Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -843,19 +843,6 @@
       "source_kind": "products_json"
     },
     {
-      "id": "momcozy-wellness-1-warm-massage-breast-pump-replacement-storagebag-4827543578234",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Momcozy Wellness 1 Breast Pump Storage Bag - Default Title",
-      "url": "https://momcozy.com/products/wellness-1-warm-massage-breast-pump-replacement-storagebag",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/Detail_01_3x_38798a97-7932-453e-99c2-ad560ec4a359.webp?v=1791791656",
-      "price": 49.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
       "id": "momcozy-momcozy-wide-calf-compression-socks-20-30mmhg-for-sports-2-pairs-b-48402",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -928,6 +915,19 @@
       "url": "https://momcozy.com/products/v3-double-electric-breast-pump-replacement-parts",
       "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/V_--DTC_-1.jpg?v=1779354056",
       "price": 15.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "momcozy-baby-sleep-bundle-baby-sleep-sack-baby-monitor-bm04-48091224342726",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Baby-Sleep Bundle: Baby Sleep Sack & Baby Monitor BM04 - Green / Small(0-6 Months/6.6-19.8 lbs)",
+      "url": "https://momcozy.com/products/baby-sleep-bundle-baby-sleep-sack-baby-monitor-bm04",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/bd04243680971b5d9eb2953a7c0898d6.png?v=1791960227",
+      "price": 229.98,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
@@ -2029,7 +2029,7 @@
       "id": "cozyla-pro-wifi-digital-picture-frame-hd-touchscreen-digital-photo-frame-4385056",
       "brand_slug": "cozyla",
       "brand_name": "Cozyla",
-      "title": "Cozyla Frame 17 - Black With White Mat / 4:3",
+      "title": "Cozyla Frame 17 - 17\" / Black With White Mat / 4:3",
       "url": "https://www.cozyla.com/products/pro-wifi-digital-picture-frame-hd-touchscreen-digital-photo-frame",
       "image": "https://cdn.shopify.com/s/files/1/0657/4958/2073/files/cozyladigitalpictureframewifidigitalphotoframeimage_1.jpg?v=1713160168",
       "price": 269.99,
