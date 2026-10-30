@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T05:49:55Z",
+  "generated_at": "2026-10-30T12:56:19Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -491,6 +491,21 @@
       "discount_pct": 40
     },
     {
+      "id": "momcozy-momcozy-shapewear-bodysuit-postpartum-daily-dress-44781901381830",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Momcozy Shapewear Bodysuit - Postpartum & Daily Dress - Black - no nursing clips / M",
+      "url": "https://momcozy.com/products/momcozy-shapewear-bodysuit-postpartum-daily-dress",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/b58ce7b99582c961375527c3c6b27ebb_d316db94-b460-44e0-a059-6e0cefbbe400.png?v=1779351712",
+      "price": 35.99,
+      "currency": "USD",
+      "availability": "OutOfStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 59.99,
+      "discount_pct": 40
+    },
+    {
       "id": "momcozy-momcozy-6-in-1-fast-baby-bottle-warmer-43177428779206",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -519,6 +534,21 @@
       "source_kind": "products_json",
       "compare_at": 79.98,
       "discount_pct": 32
+    },
+    {
+      "id": "momcozy-momcozy-coolfit-nursing-bra-ultra-stretch-45575769915590",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Momcozy CoolFit Nursing Bra - Ultra Stretch - Black / S",
+      "url": "https://momcozy.com/products/momcozy-coolfit-nursing-bra-ultra-stretch",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/8ee163965c752b4df31d594396825cee.png?v=1772251903",
+      "price": 34.99,
+      "currency": "USD",
+      "availability": "OutOfStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 49.99,
+      "discount_pct": 30
     },
     {
       "id": "xtool-free-gift-bundle-3-15-chamfered-rectangular-k9-crystal-with-free-crystal-b",
@@ -581,36 +611,6 @@
       "discount_pct": 27
     },
     {
-      "id": "momcozy-slim-smart-bundle-air-1-m9-breast-pump-45719369482438",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Slim & Smart Bundle: Air 1 Ultra-slim Breast Pump and M9 Mobile Flow™ Breast Pump - Default Title",
-      "url": "https://momcozy.com/products/slim-smart-bundle-air-1-m9-breast-pump",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/Air1_M9_964c4ec7-6619-44ef-ade5-da39b1d2aad8.webp?v=1779351253",
-      "price": 479.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 639.98,
-      "discount_pct": 25
-    },
-    {
-      "id": "momcozy-workday-flow-bundle-m6-m9-breast-pump-45719369253062",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Workday Flow Bundle: M6 Mobile Style™ Breast Pump and M9 Mobile Flow™ Breast Pump - Default Title",
-      "url": "https://momcozy.com/products/workday-flow-bundle-m6-m9-breast-pump",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/M6_M9.webp?v=1779351254",
-      "price": 374.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 499.98,
-      "discount_pct": 25
-    },
-    {
       "id": "momcozy-power-portability-bundle-m6-v1-pro-breast-pump-45719368597702",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -671,18 +671,18 @@
       "discount_pct": 25
     },
     {
-      "id": "momcozy-momcozy-nightpro-baby-bottle-warmer-night-feeding-45954466840774",
+      "id": "momcozy-function-u-liquid-spandex-printed-nursing-bra-43232995573958",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
-      "title": "Momcozy Night Pro Baby Bottle Warmer - Night Feeding - Warmer",
-      "url": "https://momcozy.com/products/momcozy-nightpro-baby-bottle-warmer-night-feeding",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/2_logo.jpg?v=1783590625",
-      "price": 59.99,
+      "title": "Function - U Liquid Spandex Printed Nursing Bra with Performax™ Technology - Oyster Pink / M",
+      "url": "https://momcozy.com/products/function-u-liquid-spandex-printed-nursing-bra",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/9_96077aff-d4cf-4644-9dae-5c2e1a0dd681.jpg?v=1779352320",
+      "price": 29.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
       "source_kind": "products_json",
-      "compare_at": 79.99,
+      "compare_at": 39.99,
       "discount_pct": 25
     },
     {
@@ -778,6 +778,71 @@
   ],
   "products": [
     {
+      "id": "momcozy-maternity-move-set-birthing-ball-belly-support-panties-48576122585286",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Maternity Move Set: Birthing Ball & Belly Support Panties - M",
+      "url": "https://momcozy.com/products/maternity-move-set-birthing-ball-belly-support-panties",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/PU003_YG010.png?v=1793357884",
+      "price": 89.98,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "momcozy-complete-pregnancy-to-nursing-set-maternity-belly-band-birthing-ball-sea",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Complete Pregnancy-to-Nursing Set: Maternity Belly Band & Birthing Ball & Seamless Nursing Bra & Belly Support Panties - M",
+      "url": "https://momcozy.com/products/complete-pregnancy-to-nursing-set-maternity-belly-band-birthing-ball-seamless-nursing-bra-belly-support-panties",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/YN21_YB001_PU003_818fadb6-b38f-4658-a139-989ccc6b9a7a.png?v=1793356584",
+      "price": 179.96,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "momcozy-maternity-to-nursing-essentials-maternity-belly-band-seamless-nursing-br",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Maternity-to-Nursing Essentials: Maternity Belly Band & Seamless Nursing Bra & Belly Support Panties - M",
+      "url": "https://momcozy.com/products/maternity-to-nursing-essentials-maternity-belly-band-seamless-nursing-bra-belly-support-panties",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/YN21_YB001_PU003.png?v=1793354121",
+      "price": 119.97,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "momcozy-nursing-pumping-set-seamless-nursing-bras-pumping-bra-48571991326918",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Nursing & Pumping Set: Seamless Nursing Bras & Pumping Bra - S",
+      "url": "https://momcozy.com/products/nursing-pumping-set-seamless-nursing-bras-pumping-bra",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/YN21_YN46_YN08.png?v=1793352517",
+      "price": 89.97,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "momcozy-nursing-essentials-duo-ultra-soft-seamless-nursing-bra-jelly-strip-seaml",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Nursing Essentials Duo: Ultra Soft Seamless Nursing Bra & Jelly Strip Seamless Nursing Bra - S",
+      "url": "https://momcozy.com/products/nursing-essentials-duo-ultra-soft-seamless-nursing-bra-jelly-strip-seamless-nursing-bra",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/YN21_YN46.png?v=1793345651",
+      "price": 69.98,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "momcozy-all-in-1-elite-baby-kit-and-portable-sound-machine-bundle-48560239509702",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -843,19 +908,6 @@
       "source_kind": "products_json"
     },
     {
-      "id": "momcozy-momcozy-wide-calf-compression-socks-20-30mmhg-for-sports-2-pairs-b-48402",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Momcozy Wide Calf Compression Socks 20-30mmHg for Sports 2 Pairs - Purple and white / S",
-      "url": "https://momcozy.com/products/momcozy-wide-calf-compression-socks-20-30mmhg-for-sports-2-pairs-b",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/product_1_1_3x_456141d6-1324-478d-8be4-c9d096b9f31d.webp?v=1792740531",
-      "price": 29.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
       "id": "momcozy-bath-bombs-gift-set-with-7-cute-animal-shapes-44296389591238",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -878,58 +930,6 @@
       "price": 299.99,
       "currency": "USD",
       "availability": "OutOfStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "momcozy-changego-stroller-winter-travel-bundles-48375003349190",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "ChangeGo Stroller Winter Travel Bundles - ChangeGo Stroller+Hand Muff+Footmuff",
-      "url": "https://momcozy.com/products/changego-stroller-winter-travel-bundles",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/Bundle_4d510ea5-0fc5-4777-9225-161d1e2b4f27.png?v=1792495869",
-      "price": 909.97,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "momcozy-airmesh-busty-nursing-bra-48367065530566",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Momcozy AirMesh Busty Nursing Bra - Champagne Nude / S",
-      "url": "https://momcozy.com/products/airmesh-busty-nursing-bra",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/Product_02_1024_2560_2x_91acecbf-796d-4ba3-8e7a-7692964a25a1.webp?v=1792392048",
-      "price": 59.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "momcozy-v3-double-electric-breast-pump-replacement-parts-48325964005574",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "V3 Double Electric Breast Pump Replacement Parts - Milk Collector*1",
-      "url": "https://momcozy.com/products/v3-double-electric-breast-pump-replacement-parts",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/V_--DTC_-1.jpg?v=1779354056",
-      "price": 15.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "momcozy-baby-sleep-bundle-baby-sleep-sack-baby-monitor-bm04-48091224342726",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Baby-Sleep Bundle: Baby Sleep Sack & Baby Monitor BM04 - Green / Small(0-6 Months/6.6-19.8 lbs)",
-      "url": "https://momcozy.com/products/baby-sleep-bundle-baby-sleep-sack-baby-monitor-bm04",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/bd04243680971b5d9eb2953a7c0898d6.png?v=1791960227",
-      "price": 229.98,
-      "currency": "USD",
-      "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
       "source_kind": "products_json"
     },
@@ -1636,6 +1636,19 @@
       "source_kind": "products_json"
     },
     {
+      "id": "xtool-3mm-yellow-acrylic-sheet-opaque-glossy-42188004884719",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "1/8\" Yellow Opaque Glossy Acrylic Sheet (2pcs) - Default Title",
+      "url": "https://www.xtool.com/products/3mm-yellow-acrylic-sheet-opaque-glossy",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/products/KA020137000.jpg?v=1668581501",
+      "price": 0.0,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "xtool-final-payment-xtool-x1-test-noindex-51152427090159",
       "brand_slug": "xtool",
       "brand_name": "xTool",
@@ -1772,19 +1785,6 @@
       "title": "Black Ink Tank Assembly - Default Title",
       "url": "https://www.xtool.com/products/black-ink-tank-assembly",
       "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/image_3bb83ea5-e2e1-492f-962b-6f6ae00635e1.png?v=1792378066",
-      "price": 16.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "xtool-red-ink-tank-assembly-51150509670639",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Red Ink Tank Assembly - Default Title",
-      "url": "https://www.xtool.com/products/red-ink-tank-assembly",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/image_1_fefeb8fd-0b66-4dd9-a5a2-bd6eba94a8c0.png?v=1792378409",
       "price": 16.99,
       "currency": "USD",
       "availability": "InStock",
