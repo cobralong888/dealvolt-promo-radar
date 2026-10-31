@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T22:20:37Z",
+  "generated_at": "2026-10-31T05:41:18Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -190,21 +190,6 @@
     }
   ],
   "deals": [
-    {
-      "id": "xtool-test-machine-test-noindex-45985405534447",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "[Test Product] - machine - 10W / 10W test1-售价，原价，预估到手价（金额折扣）",
-      "url": "https://www.xtool.com/products/test-machine-test-noindex",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/20230629-001559_b7004359-67a9-4a6f-bdab-b8916b263e1a.jpg?v=1715752185",
-      "price": 499.0,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 4249.0,
-      "discount_pct": 88
-    },
     {
       "id": "roborock-roborock-dyad-air-wet-and-dry-vacuum-cleaner-40252369207414",
       "brand_slug": "roborock",
@@ -729,6 +714,21 @@
       "source_kind": "products_json",
       "compare_at": 82.99,
       "discount_pct": 22
+    },
+    {
+      "id": "xtool-xtoolcare-for-xtool-x1-51152422895855",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "xToolCare for X1 - Single CO2 / 1-Year Plan",
+      "url": "https://www.xtool.com/products/xtoolcare-for-xtool-x1",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-x1_us_pc_m1ultracare_8546-13119.webp?v=1792492588",
+      "price": 295.0,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 369.0,
+      "discount_pct": 20
     },
     {
       "id": "cozyla-calendar-max-go-47407910387961",
