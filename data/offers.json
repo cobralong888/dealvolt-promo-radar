@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T12:29:51Z",
+  "generated_at": "2026-10-31T21:34:53Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -1722,7 +1722,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/products/KA020137000.jpg?v=1668581501",
       "price": 0.0,
       "currency": "USD",
-      "availability": "InStock",
+      "availability": "OutOfStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
       "source_kind": "products_json"
     },
