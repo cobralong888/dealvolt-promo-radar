@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T06:02:51Z",
+  "generated_at": "2026-11-02T15:53:02Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -778,6 +778,32 @@
   ],
   "products": [
     {
+      "id": "momcozy-ergonomic-cozy-and-lightweight-baby-carrier-43060852195526",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "PureHug Ergonomic Baby Carrier - Cotton / Black",
+      "url": "https://momcozy.com/products/ergonomic-cozy-and-lightweight-baby-carrier",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/black-01_112d6a25-d6a5-4916-bd80-84726eddb759.jpg?v=1774497253",
+      "price": 59.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "momcozy-pregnancy-comfort-bundle-stretch-mark-cream-maternity-belly-band-4859393",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Pregnancy Comfort Bundle:  Stretch Mark Cream & Maternity Belly Band - S / 5.29 oz",
+      "url": "https://momcozy.com/products/pregnancy-comfort-bundle-stretch-mark-cream-maternity-belly-band",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/bell_cream_11.jpg?v=1793602434",
+      "price": 119.98,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "momcozy-maternity-move-set-birthing-ball-belly-support-panties-48576122585286",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -904,32 +930,6 @@
       "price": 309.98,
       "currency": "USD",
       "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "momcozy-bath-bombs-gift-set-with-7-cute-animal-shapes-44296389591238",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Momcozy Natural Essential Oil Bath Bombs with 7 Cute Animal Shapes(14 Pcs) - Default Title",
-      "url": "https://momcozy.com/products/bath-bombs-gift-set-with-7-cute-animal-shapes",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/DTC-bombs-3.jpg?v=1779352056",
-      "price": 29.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "momcozy-momcozy-deepclean-lite-baby-bottle-washer-and-sterilizer-48074921935046",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Momcozy DeepClean Lite Baby Bottle Washer and Sterilizer - Default Title",
-      "url": "https://momcozy.com/products/momcozy-deepclean-lite-baby-bottle-washer-and-sterilizer",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/d4-1.jpg?v=1792403693",
-      "price": 299.99,
-      "currency": "USD",
-      "availability": "OutOfStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
       "source_kind": "products_json"
     },
@@ -1493,6 +1493,32 @@
       "source_kind": "products_json"
     },
     {
+      "id": "roborock-roborock-qrevo-2-pro-set-robot-vacuum-48979528122486",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Roborock Qrevo 2 Pro Set Robot Vacuum with Auto Mop Removal - White",
+      "url": "https://us.roborock.com/products/roborock-qrevo-2-pro-set-robot-vacuum",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/3-_set_37acf750-a2d3-44d2-9fb5-79f6ec8e4d5f.jpg?v=1792043134",
+      "price": 899.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "roborock-roborock-f25-ultra-steam-gen-2-48953785483382",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Roborock F25 Ultra Steam Gen 2 – Steam Wet-Dry Vacuum with Turbo Steam & Robotic Arm - Default Title",
+      "url": "https://us.roborock.com/products/roborock-f25-ultra-steam-gen-2",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/01_46be15e3-36bf-4062-8716-445637e7cacb.jpg?v=1791443701",
+      "price": 799.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "roborock-roborock-accessories-pack-for-saros-10-42226657362038",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
@@ -1502,6 +1528,19 @@
       "price": 99.0,
       "currency": "USD",
       "availability": "OutOfStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "roborock-roborock-f25-pro-turbo-44152807325814",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Roborock F25 Pro Turbo Wet Dry Vacuum with HyperScrub One-Tap Deep Cleaning - Default Title",
+      "url": "https://us.roborock.com/products/roborock-f25-pro-turbo",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/2_06eb12a0-4340-4aba-8202-d003cb51cc05.png?v=1788941901",
+      "price": 549.99,
+      "currency": "USD",
+      "availability": "InStock",
       "source_url": "https://us.roborock.com/products.json?limit=250",
       "source_kind": "products_json"
     },
@@ -1558,6 +1597,19 @@
       "source_kind": "products_json"
     },
     {
+      "id": "roborock-roborock-f25-gt-gen-2-43918233632886",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Rockrobo F25 GT Gen 2 Smart Wet & Dry Vacuum with Zero-Tangle Cleaning - Default Title",
+      "url": "https://us.roborock.com/products/roborock-f25-gt-gen-2",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/4-1_c42e76c2-feda-48c5-81b9-7ba84cec81c7.jpg?v=1785232412",
+      "price": 299.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "roborock-roborock-qrevo-2-pro-1-43890947326070",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
@@ -1571,67 +1623,15 @@
       "source_kind": "products_json"
     },
     {
-      "id": "roborock-side-brush-2pcs-for-all-roborock-cleaners-42340186161270",
+      "id": "roborock-roborock-qrevo-2-pro-43866730791030",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
-      "title": "Roborock Black Side Brushes Replacement (2 Pieces)-Point Program - Default Title",
-      "url": "https://us.roborock.com/products/side-brush-2pcs-for-all-roborock-cleaners",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/2_0007c17d-95fd-45e4-9e88-8fbcd8d6d836.jpg?v=1757937367",
-      "price": 15.99,
-      "currency": "USD",
-      "availability": "OutOfStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "roborock-roborock-f25-bx-wet-and-dry-vacuum-cleaner-43473938153590",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock F25 BX Wet and Dry Vacuum Cleaner - Default Title",
-      "url": "https://us.roborock.com/products/roborock-f25-bx-wet-and-dry-vacuum-cleaner",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/1_61a350e0-af71-469a-852f-c47678f33b1b.jpg?v=1780555165",
-      "price": 399.99,
+      "title": "Roborock Qrevo 2 Pro Robot Vacuum with Auto Mop Removal - White",
+      "url": "https://us.roborock.com/products/roborock-qrevo-2-pro",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/1_0c4f03e7-1afb-4503-9a4f-a0c9c64aad83.png?v=1784537625",
+      "price": 799.99,
       "currency": "USD",
       "availability": "InStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "roborock-roborock-rotating-mop-cloths-for-saros-20-qrevo-edge-24-pack-4338216897",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock Rotating Mop Cloths for Saros 20, Qrevo Edge 2(4-Pack) - Default Title",
-      "url": "https://us.roborock.com/products/roborock-rotating-mop-cloths-for-saros-20-qrevo-edge-24-pack",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/2_Saros-10R-1.jpg?v=1757937015",
-      "price": 39.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "roborock-roborock-3-packs-disposable-dust-bags-for-h60-hub-ultra-and-h60-hub-pro",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock 3 Packs Disposable Dust Bags for H60 Hub Ultra and H60 Hub Pro Cordless Vacuum Cleaner - Default Title",
-      "url": "https://us.roborock.com/products/roborock-3-packs-disposable-dust-bags-for-h60-hub-ultra-and-h60-hub-pro-cordless-vacuum-cleaner-with-auto-empty-dock-stick-vacuum-cleaner-for-home-and-pet-hair-anti-tangle-brush-led-dust-detection",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/3L.jpg?v=1776327958",
-      "price": 12.99,
-      "currency": "USD",
-      "availability": "OutOfStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "roborock-roborock-3-packs-disposable-dust-bags-for-h60-hub-ultra-and-h60-hub-pro",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock 12 Packs Disposable Dust Bags for H60 Hub Ultra and H60 Hub Pro Cordless Vacuum Cleaner - Default Title",
-      "url": "https://us.roborock.com/products/roborock-3-packs-disposable-dust-bags-for-h60-hub-ultra-and-h60-hub-pro-cordless-vacuum-cleaner-copy",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/61Rjvr4FSVL._AC_SL1500.jpg?v=1776235910",
-      "price": 49.99,
-      "currency": "USD",
-      "availability": "OutOfStock",
       "source_url": "https://us.roborock.com/products.json?limit=250",
       "source_kind": "products_json"
     },
@@ -1938,7 +1938,7 @@
       "id": "cozyla-calendar-plus-3-48629494186233",
       "brand_slug": "cozyla",
       "brand_name": "Cozyla",
-      "title": "Calendar Plus 3 - 24\" QHD / Save $30 with Membership",
+      "title": "Calendar Plus 3 - 24\" QHD / Save $30 with 30-Day Free Trial Membership",
       "url": "https://www.cozyla.com/products/calendar-plus-3",
       "image": "https://cdn.shopify.com/s/files/1/0657/4958/2073/files/32_cal_plus_3_main1_mb_new.webp?v=1786431108",
       "price": 799.99,
