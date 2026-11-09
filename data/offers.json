@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T06:28:41Z",
+  "generated_at": "2026-11-09T22:22:01Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -281,21 +281,6 @@
       "discount_pct": 66
     },
     {
-      "id": "roborock-roborock-s8-max-ultra-with-refill-drainage-system-40697726828662",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock S8 Max Ultra with Refill & Drainage System - Default Title",
-      "url": "https://us.roborock.com/products/roborock-s8-max-ultra-with-refill-drainage-system",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/S8_Max_Ultra_W.jpg?v=1757915452",
-      "price": 599.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 1699.99,
-      "discount_pct": 65
-    },
-    {
       "id": "roborock-certified-refurbished-90-new-roborock-qrevo-edge-robot-vacuum-with-mult",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
@@ -341,21 +326,6 @@
       "discount_pct": 63
     },
     {
-      "id": "roborock-roborock-saros-z70-42153743188086",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock Saros Z70 Robot Vacuum with OmniGrip™ Mechanical Arm - Black",
-      "url": "https://us.roborock.com/products/roborock-saros-z70",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Z70_B_Set_ffd70f58-2474-48d6-bc96-642049b0ba2a.jpg?v=1757914634",
-      "price": 999.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 2599.99,
-      "discount_pct": 62
-    },
-    {
       "id": "roborock-roborock-q7-max-plus-39673154142326",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
@@ -384,6 +354,36 @@
       "source_kind": "products_json",
       "compare_at": 659.99,
       "discount_pct": 62
+    },
+    {
+      "id": "roborock-certified-refurbished-90-new-roborock-qrevo-slim-robot-vacuum-with-mult",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "【Certified Refurbished 90% New】Roborock Qrevo Slim Robot Vacuum with Multifunctional Self-Cleaning Dock 3.0 (Upgraded from Qrevo Master) - Default Title",
+      "url": "https://us.roborock.com/products/certified-refurbished-90-new-roborock-qrevo-slim-robot-vacuum-with-multifunctional-self-cleaning-dock-3-0-upgraded-from-qrevo-master",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Qrevo_Slim-1.png?v=1789886889",
+      "price": 549.99,
+      "currency": "USD",
+      "availability": "OutOfStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 1399.99,
+      "discount_pct": 61
+    },
+    {
+      "id": "roborock-certified-refurbished-90-new-roborock-qrevo-pro-robot-vacuum-with-multi",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "【Certified Refurbished 90% New】Roborock Qrevo Pro Robot Vacuum with Multifunctional Dock 2.0 - White",
+      "url": "https://us.roborock.com/products/certified-refurbished-90-new-roborock-qrevo-pro-robot-vacuum-with-multifunctional-dock-2-0",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Qrevo_Pro_W.png?v=1789886884",
+      "price": 399.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 999.99,
+      "discount_pct": 60
     },
     {
       "id": "momcozy-momcozy-seamless-tummy-shapewear-panties-postpartum-daily-dress-44782073",
@@ -491,66 +491,6 @@
       "discount_pct": 40
     },
     {
-      "id": "xtool-material-decorative-edge-oval-k9-crystal-trophy-50477559349487",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Decorative-Edge Oval K9 Crystal Trophy - Default Title",
-      "url": "https://www.xtool.com/products/material-decorative-edge-oval-k9-crystal-trophy",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/decorative-edge-oval-k9-crystal-trophy-01.webp?v=1786637504",
-      "price": 23.39,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 38.99,
-      "discount_pct": 40
-    },
-    {
-      "id": "xtool-material-sunset-k9-crystal-50676631142639",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Sunset K9 Crystal - Default Title",
-      "url": "https://www.xtool.com/products/material-sunset-k9-crystal",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/sunset-k9-crystal-01.webp?v=1789126162",
-      "price": 13.79,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 22.99,
-      "discount_pct": 40
-    },
-    {
-      "id": "xtool-material-3-94-x-3-94-x-0-98in-ice-edge-heart-shaped-love-k9-crystal-504777",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Ice Edge Heart-Shaped LOVE K9 Crystal - Default Title",
-      "url": "https://www.xtool.com/products/material-3-94-x-3-94-x-0-98in-ice-edge-heart-shaped-love-k9-crystal",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/ice-edge-heart-shaped-love-k9-crystal-01.webp?v=1786723557",
-      "price": 11.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 19.99,
-      "discount_pct": 40
-    },
-    {
-      "id": "xtool-material-thin-rounded-rectangular-k9-crystal-50292194771183",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Thin Rounded Rectangular K9 Crystal - Default Title",
-      "url": "https://www.xtool.com/products/material-thin-rounded-rectangular-k9-crystal",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/thin-rounded-rectangular-k9-crystal-02.png?v=1786010392",
-      "price": 11.39,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 18.99,
-      "discount_pct": 40
-    },
-    {
       "id": "momcozy-momcozy-6-in-1-fast-baby-bottle-warmer-43177428779206",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -581,19 +521,34 @@
       "discount_pct": 32
     },
     {
-      "id": "xtool-material-curved-aluminum-alloy-and-crystal-trophy-50705240424687",
+      "id": "xtool-free-gift-bundle-3-15-chamfered-rectangular-k9-crystal-with-free-crystal-b",
       "brand_slug": "xtool",
       "brand_name": "xTool",
-      "title": "Curved Aluminum Alloy and Crystal Trophy - Default Title",
-      "url": "https://www.xtool.com/products/material-curved-aluminum-alloy-and-crystal-trophy",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu__qitaleichanpin_us_pc_curved-aluminum-alloy-and-crystal-trophy-01_5767-1533.webp?v=1792154134",
-      "price": 36.39,
+      "title": "[Free Gift Bundle] 3.15\" Chamfered Rectangular K9 Crystal with Free Crystal Balls - 10 Blocks and 5 Free Balls",
+      "url": "https://www.xtool.com/products/free-gift-bundle-3-15-chamfered-rectangular-k9-crystal-with-free-crystal-balls",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu_fuzhuxinghaocai_biaojipenwu_nairejiaodai_mulayoudeng__us_pc_shoutu_4721-7141.webp?v=1792058051",
+      "price": 268.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
       "source_kind": "products_json",
-      "compare_at": 51.99,
-      "discount_pct": 30
+      "compare_at": 378.99,
+      "discount_pct": 29
+    },
+    {
+      "id": "xtool-k9-crystal-ball-engraving-studio-supply-kit-50873343705327",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "K9 Crystal Ball Engraving Studio Supply Kit - Default Title",
+      "url": "https://www.xtool.com/products/k9-crystal-ball-engraving-studio-supply-kit",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu__qitaleichanpin_us_pc_shoutu_5284-1296.webp?v=1790129884",
+      "price": 967.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 1347.99,
+      "discount_pct": 28
     },
     {
       "id": "momcozy-slim-smart-bundle-air-1-m9-breast-pump-45719369482438",
@@ -686,6 +641,21 @@
       "discount_pct": 25
     },
     {
+      "id": "xtool-free-gift-bundle-3-1-k9-crystal-ball-with-free-led-stands-and-engraving-oi",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "[Free Gift Bundle] 3.1\" K9 Crystal Ball with Free LED Stands and Engraving Oil - 6 Balls and 2 Free Stands & 2 Free Oils",
+      "url": "https://www.xtool.com/products/free-gift-bundle-3-1-k9-crystal-ball-with-free-led-stands-and-engraving-oil",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu_fuzhuxinghaocai_biaojipenwu_nairejiaodai_mulayoudeng__us_pc_shoutu_4721-7572.webp?v=1792055231",
+      "price": 130.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 172.99,
+      "discount_pct": 24
+    },
+    {
       "id": "momcozy-momcozy-automeal-baby-food-maker-43930445742278",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -714,6 +684,36 @@
       "source_kind": "products_json",
       "compare_at": 64.99,
       "discount_pct": 23
+    },
+    {
+      "id": "xtool-free-gift-bundle-3-1-k9-crystal-ball-with-free-led-display-stands-51057385",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "[Free Gift Bundle] 3.1\" K9 Crystal Ball with Free LED Display Stands - 3 Balls and 2 Free Stands",
+      "url": "https://www.xtool.com/products/free-gift-bundle-3-1-k9-crystal-ball-with-free-led-display-stands",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-shangjiatu_fuzhuxinghaocai_biaojipenwu_nairejiaodai_mulayoudeng__us_pc_shoutu_4721-7262.webp?v=1792047916",
+      "price": 64.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 82.99,
+      "discount_pct": 22
+    },
+    {
+      "id": "xtool-xtoolcare-for-xtool-x1-51152422895855",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "xToolCare for X1 - Single CO2 / 1-Year Plan",
+      "url": "https://www.xtool.com/products/xtoolcare-for-xtool-x1",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-x1_us_pc_m1ultracare_8546-13119.webp?v=1792492588",
+      "price": 295.0,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 369.0,
+      "discount_pct": 20
     },
     {
       "id": "momcozy-m5-massager-bundle-double-m5-wearable-breast-pump-and-double-breast-mass",
@@ -777,6 +777,19 @@
     }
   ],
   "products": [
+    {
+      "id": "momcozy-momcozy-breastfeeding-essentials-newmom-caregiftset-48264642691270",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Momcozy FOR MAMA New Mom Care Gift Set - Default Title",
+      "url": "https://momcozy.com/products/momcozy-breastfeeding-essentials-newmom-caregiftset",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/2_3x_f5c6a20d-f49a-47ed-a470-e142310d8f93.webp?v=1793781021",
+      "price": 89.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
     {
       "id": "momcozy-busty-cotton-nursing-bras-us-45715532579014",
       "brand_slug": "momcozy",
@@ -915,19 +928,6 @@
       "url": "https://momcozy.com/products/baby-nasal-aspirator-bn07-and-wipe-warmer-ww01-bundle",
       "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/6-BN07.png?v=1793786614",
       "price": 89.98,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "momcozy-baby-nasal-aspirator-bn07-and-nail-file-bundle-48611062612166",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Baby Nasal Aspirator BN07 and Nail File Bundle - Default Title",
-      "url": "https://momcozy.com/products/baby-nasal-aspirator-bn07-and-nail-file-bundle",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/4-BN07_NC02.png?v=1793786355",
-      "price": 74.98,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
@@ -1519,19 +1519,6 @@
       "source_kind": "products_json"
     },
     {
-      "id": "roborock-roborock-f25-pro-turbo-44152807325814",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock F25 Pro Turbo Wet Dry Vacuum with HyperScrub One-Tap Deep Cleaning - Default Title",
-      "url": "https://us.roborock.com/products/roborock-f25-pro-turbo",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/2_06eb12a0-4340-4aba-8202-d003cb51cc05.png?v=1788941901",
-      "price": 549.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
       "id": "roborock-roborock-saros-20-flow-44181001338998",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
@@ -1584,19 +1571,6 @@
       "source_kind": "products_json"
     },
     {
-      "id": "roborock-roborock-f25-gt-gen-2-43918233632886",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Rockrobo F25 GT Gen 2 Smart Wet & Dry Vacuum with Zero-Tangle Cleaning - Default Title",
-      "url": "https://us.roborock.com/products/roborock-f25-gt-gen-2",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/4-1_c42e76c2-feda-48c5-81b9-7ba84cec81c7.jpg?v=1785232412",
-      "price": 299.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
       "id": "roborock-roborock-qrevo-2-pro-1-43890947326070",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
@@ -1632,6 +1606,32 @@
       "price": 39.99,
       "currency": "USD",
       "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "roborock-roborock-3-packs-disposable-dust-bags-for-h60-hub-ultra-and-h60-hub-pro",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Roborock 3 Packs Disposable Dust Bags for H60 Hub Ultra and H60 Hub Pro Cordless Vacuum Cleaner - Default Title",
+      "url": "https://us.roborock.com/products/roborock-3-packs-disposable-dust-bags-for-h60-hub-ultra-and-h60-hub-pro-cordless-vacuum-cleaner-with-auto-empty-dock-stick-vacuum-cleaner-for-home-and-pet-hair-anti-tangle-brush-led-dust-detection",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/3L.jpg?v=1776327958",
+      "price": 12.99,
+      "currency": "USD",
+      "availability": "OutOfStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "roborock-roborock-3-packs-disposable-dust-bags-for-h60-hub-ultra-and-h60-hub-pro",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Roborock 12 Packs Disposable Dust Bags for H60 Hub Ultra and H60 Hub Pro Cordless Vacuum Cleaner - Default Title",
+      "url": "https://us.roborock.com/products/roborock-3-packs-disposable-dust-bags-for-h60-hub-ultra-and-h60-hub-pro-cordless-vacuum-cleaner-copy",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/61Rjvr4FSVL._AC_SL1500.jpg?v=1776235910",
+      "price": 49.99,
+      "currency": "USD",
+      "availability": "OutOfStock",
       "source_url": "https://us.roborock.com/products.json?limit=250",
       "source_kind": "products_json"
     },
