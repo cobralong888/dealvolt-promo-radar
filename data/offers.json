@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T22:22:01Z",
+  "generated_at": "2026-11-10T07:18:22Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -778,6 +778,19 @@
   ],
   "products": [
     {
+      "id": "momcozy-momcozy-breastfeeding-essentialskit-30pcs-48666747797702",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Momcozy Breastfeeding & Postpartum Relief Kit (30 Pieces) - Default Title",
+      "url": "https://momcozy.com/products/momcozy-breastfeeding-essentialskit-30pcs",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/1_9669a8c2-0163-405f-b197-616301767573.webp?v=1794225588",
+      "price": 34.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "momcozy-momcozy-breastfeeding-essentials-newmom-caregiftset-48264642691270",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -915,19 +928,6 @@
       "url": "https://momcozy.com/products/momcozy-breezyclear™-2-in-1-spray-suction-electric-nasal-aspirator-and-replacement-heads",
       "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/17-bn07.png?v=1793786768",
       "price": 59.98,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "momcozy-baby-nasal-aspirator-bn07-and-wipe-warmer-ww01-bundle-48611084828870",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Baby Nasal Aspirator BN07 and Wipe Warmer WW01 Bundle - Default Title",
-      "url": "https://momcozy.com/products/baby-nasal-aspirator-bn07-and-wipe-warmer-ww01-bundle",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/6-BN07.png?v=1793786614",
-      "price": 89.98,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
