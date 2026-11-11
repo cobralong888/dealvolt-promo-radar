@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T19:44:27Z",
+  "generated_at": "2026-11-11T06:20:56Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -551,21 +551,6 @@
       "discount_pct": 28
     },
     {
-      "id": "momcozy-workday-flow-bundle-m6-m9-breast-pump-45719369253062",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Workday Flow Bundle: M6 Mobile Style™ Breast Pump and M9 Mobile Flow™ Breast Pump - Default Title",
-      "url": "https://momcozy.com/products/workday-flow-bundle-m6-m9-breast-pump",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/M6_M9.webp?v=1779351254",
-      "price": 374.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 499.98,
-      "discount_pct": 25
-    },
-    {
       "id": "momcozy-power-portability-bundle-m6-v1-pro-breast-pump-45719368597702",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -623,6 +608,21 @@
       "source_url": "https://momcozy.com/products.json?limit=250",
       "source_kind": "products_json",
       "compare_at": 299.98,
+      "discount_pct": 25
+    },
+    {
+      "id": "xtool-material-xtool-selected-dura-cmyk-ink-cartridge-for-xtool-c1-5141635219479",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "DURA CMYK Ink Cartridge for xTool C1 - Default Title",
+      "url": "https://www.xtool.com/products/material-xtool-selected-dura-cmyk-ink-cartridge-for-xtool-c1",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/m2-multi-material-starter-kit-02_ae204a76-3371-4c9d-a12b-860c2644c1c3.png?v=1793957691",
+      "price": 59.0,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 79.0,
       "discount_pct": 25
     },
     {
@@ -686,21 +686,6 @@
       "discount_pct": 22
     },
     {
-      "id": "xtool-xtoolcare-for-xtool-x1-51152422895855",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "xToolCare for X1 - Single CO2 / 1-Year Plan",
-      "url": "https://www.xtool.com/products/xtoolcare-for-xtool-x1",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-x1_us_pc_m1ultracare_8546-13119.webp?v=1792492588",
-      "price": 295.0,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 369.0,
-      "discount_pct": 20
-    },
-    {
       "id": "momcozy-m5-massager-bundle-double-m5-wearable-breast-pump-and-double-breast-mass",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -746,6 +731,21 @@
       "discount_pct": 17
     },
     {
+      "id": "momcozy-momcozy-fast-bottle-sterilizer-and-dryer-42954644357318",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Momcozy 3 Layers Fast Bottle Sterilizer and Dryer - Default Title",
+      "url": "https://momcozy.com/products/momcozy-fast-bottle-sterilizer-and-dryer",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/1.1_deaebac7-b2f0-4209-b7e8-5e761a9bf1c2.jpg?v=1718259650",
+      "price": 99.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 119.99,
+      "discount_pct": 17
+    },
+    {
       "id": "ringconn-ringconn-gen-2-rose-gold-48458050273588",
       "brand_slug": "ringconn",
       "brand_name": "RingConn",
@@ -777,6 +777,19 @@
     }
   ],
   "products": [
+    {
+      "id": "momcozy-momcozy-supportive-nursing-bras-built-for-busty-moms-e-g-cups-4869762072",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Momcozy Supportive Nursing Bras — Built for Busty Moms, E–G Cups - Chestnut White / S",
+      "url": "https://momcozy.com/products/momcozy-supportive-nursing-bras-built-for-busty-moms-e-g-cups",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/Frame66.jpg?v=1794364585",
+      "price": 59.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
     {
       "id": "momcozy-momcozy-breastfeeding-essentialskit-30pcs-48666747797702",
       "brand_slug": "momcozy",
@@ -921,32 +934,6 @@
       "source_kind": "products_json"
     },
     {
-      "id": "momcozy-momcozy-breezyclear-2-in-1-spray-suction-electric-nasal-aspirator-and-re",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Momcozy BreezyClear™ 2-in-1 Spray & Suction Electric Nasal Aspirator and Replacement Heads - Default Title",
-      "url": "https://momcozy.com/products/momcozy-breezyclear™-2-in-1-spray-suction-electric-nasal-aspirator-and-replacement-heads",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/17-bn07.png?v=1793786768",
-      "price": 59.98,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "anker-anker-lt-b-gt-321-lt-b-gt-usb-c-to-lightning-cable-3-ft-6-ft-10-ft",
-      "brand_slug": "anker",
-      "brand_name": "Anker",
-      "title": "Anker &lt;b&gt;321&lt;/b&gt; USB-C to Lightning Cable (3 ft / 6 ft / 10 ft)",
-      "url": "https://www.anker.com/products/a8633",
-      "image": "https://cdn.shopify.com/s/files/1/0493/9834/9974/files/A8632022_TD01_V1_9948cabb-aac9-4d31-a420-a839b3eebc2c.png?v=1730775221",
-      "price": 9999999.99,
-      "currency": "USD",
-      "availability": "https://schema.org/SoldOut",
-      "source_url": "https://www.anker.com/products/a8633",
-      "source_kind": "sitemap_products"
-    },
-    {
       "id": "anker-anker-lt-b-gt-331-lt-b-gt-usb-c-to-lightning-cable",
       "brand_slug": "anker",
       "brand_name": "Anker",
@@ -1061,6 +1048,19 @@
       "currency": "USD",
       "availability": "https://schema.org/InStock",
       "source_url": "https://www.anker.com/products/a1229",
+      "source_kind": "sitemap_products"
+    },
+    {
+      "id": "anker-anker-lt-b-gt-310-lt-b-gt-usb-c-adapter-4k-hdmi",
+      "brand_slug": "anker",
+      "brand_name": "Anker",
+      "title": "Anker &lt;b&gt;310&lt;/b&gt; USB-C Adapter (4K HDMI)",
+      "url": "https://www.anker.com/products/a8312",
+      "image": "https://cdn.shopify.com/s/files/1/0493/9834/9974/products/A83120A1-Anker_310_USB-C_Adapter_4K_HDMI.png?v=1672495014",
+      "price": 16.99,
+      "currency": "USD",
+      "availability": "https://schema.org/InStock",
+      "source_url": "https://www.anker.com/products/a8312",
       "source_kind": "sitemap_products"
     },
     {
@@ -1649,19 +1649,6 @@
       "source_kind": "products_json"
     },
     {
-      "id": "xtool-material-xtool-selected-dura-cmyk-ink-cartridge-for-xtool-c1-5141635219479",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "DURA CMYK Ink Cartridge for xTool C1 - Default Title",
-      "url": "https://www.xtool.com/products/material-xtool-selected-dura-cmyk-ink-cartridge-for-xtool-c1",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/m2-multi-material-starter-kit-02_ae204a76-3371-4c9d-a12b-860c2644c1c3.png?v=1793957691",
-      "price": 79.0,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
       "id": "xtool-material-dura-printable-glossy-sticker-paper-20pcs-51348913979631",
       "brand_slug": "xtool",
       "brand_name": "xTool",
@@ -1786,6 +1773,19 @@
       "url": "https://www.xtool.com/products/material-christmas-capsule-machine-pack-with-free-design-file",
       "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/Christmas_Capsule_Machine_Pack-1.png?v=1793960386",
       "price": 5.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "xtool-m-aterial-christmas-interlocking-ornament-starter-pack-with-free-design-fi",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "‌Christmas Countdown Decoration Pack with Free Design File - Round 3-Color LED Light Base",
+      "url": "https://www.xtool.com/products/m‌aterial-christmas-interlocking-ornament-starter-pack-with-free-design-file",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/ChristmasCountdownDecorationPack.png?v=1793960153",
+      "price": 9.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
