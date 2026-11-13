@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T19:54:42Z",
+  "generated_at": "2026-11-13T06:46:01Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -551,21 +551,6 @@
       "discount_pct": 25
     },
     {
-      "id": "momcozy-control-power-bundle-m5-smart-v1-pro-breast-pump-45719368892614",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Control & Power Bundle: M5 Smart Wearable Breast Pump & V1 Pro V1 Pro Hospital-Grade Breast Pump - Default Title",
-      "url": "https://momcozy.com/products/control-power-bundle-m5-smart-v1-pro-breast-pump",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/v1pro_m5smart.webp?v=1779351256",
-      "price": 299.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 399.98,
-      "discount_pct": 25
-    },
-    {
       "id": "momcozy-everyday-ease-bundle-s12-pro-quick-m5-smart-breast-pump-45719368138950",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -761,6 +746,21 @@
       "discount_pct": 15
     },
     {
+      "id": "momcozy-playard-diaper-pail-bundle-47266286829766",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Momcozy One-Click Foldable Playard & Triple-Seal Diaper Pail Bundle - Default Title",
+      "url": "https://momcozy.com/products/playard-diaper-pail-bundle",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/Playard_Diaper_Pail.webp?v=1793861617",
+      "price": 331.48,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 389.98,
+      "discount_pct": 15
+    },
+    {
       "id": "cozyla-open-box-cozyla-calendar-67613351837945",
       "brand_slug": "cozyla",
       "brand_name": "Cozyla",
@@ -777,6 +777,19 @@
     }
   ],
   "products": [
+    {
+      "id": "momcozy-momcozy-birthease-maternity-exercise-ball-glacier-blue-45928101806278",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Momcozy BirthEase Maternity Exercise Ball-Glacier Blue - Glacier Blue",
+      "url": "https://momcozy.com/products/momcozy-birthease-maternity-exercise-ball-glacier-blue",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/6391ace427ade714b70fb966024ae804_8a897a74-5217-4d0f-8711-a41deb2a67ae.jpg?v=1779351487",
+      "price": 59.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
     {
       "id": "momcozy-momcozy-birthease-maternity-exercise-ball-petal-sky-45928102985926",
       "brand_slug": "momcozy",
@@ -856,6 +869,19 @@
       "source_kind": "products_json"
     },
     {
+      "id": "momcozy-everyday-baby-cleanup-bundle-bottle-washer-and-diaper-pail-and-washing-b",
+      "brand_slug": "momcozy",
+      "brand_name": "Momcozy",
+      "title": "Everyday Baby Cleanup Bundle: Bottle Washer and Diaper Pail and Washing Block - Default Title",
+      "url": "https://momcozy.com/products/everyday-baby-cleanup-bundle-bottle-washer-and-diaper-pail-and-washing-block",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/bs03_733da5ec-01bd-4f48-8d42-45012daac01f.png?v=1793949048",
+      "price": 409.97,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://momcozy.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "momcozy-momcozy-breastfeeding-essentialskit-30pcs-48666747797702",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
@@ -908,32 +934,6 @@
       "source_kind": "products_json"
     },
     {
-      "id": "momcozy-momcozy-gift-bag-48618158194886",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Momcozy Gift Bag - Default Title",
-      "url": "https://momcozy.com/products/momcozy-gift-bag",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/20261105-153709.jpg?v=1793864298",
-      "price": 9.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "momcozy-momcozy-breast-pump-wellness-1-breastpump-bundle-storage-bag-48616903016",
-      "brand_slug": "momcozy",
-      "brand_name": "Momcozy",
-      "title": "Momcozy  Wellness 1 +Breast Pump Storage Bag - Default Title",
-      "url": "https://momcozy.com/products/momcozy-breast-pump-wellness-1-breastpump-bundle-storage-bag",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/Wellness1_StorageBag.png?v=1793862968",
-      "price": 379.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://momcozy.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
       "id": "anker-anker-lt-b-gt-331-lt-b-gt-usb-c-to-lightning-cable",
       "brand_slug": "anker",
       "brand_name": "Anker",
@@ -970,19 +970,6 @@
       "currency": "USD",
       "availability": "https://schema.org/InStock",
       "source_url": "https://www.anker.com/products/a7516",
-      "source_kind": "sitemap_products"
-    },
-    {
-      "id": "anker-anker-lt-b-gt-321-lt-b-gt-usb-a-to-lightning-cable-10-ft",
-      "brand_slug": "anker",
-      "brand_name": "Anker",
-      "title": "Anker &lt;b&gt;321&lt;/b&gt; USB-A to Lightning Cable (10 ft)",
-      "url": "https://www.anker.com/products/a8434",
-      "image": "https://cdn.shopify.com/s/files/1/0493/9834/9974/products/Black-01_c649b7e3-3ee4-447f-afa9-02d6f5202dca.jpg?v=1626082889",
-      "price": 15.99,
-      "currency": "USD",
-      "availability": "https://schema.org/InStock",
-      "source_url": "https://www.anker.com/products/a8434",
       "source_kind": "sitemap_products"
     },
     {
@@ -1061,6 +1048,19 @@
       "currency": "USD",
       "availability": "https://schema.org/InStock",
       "source_url": "https://www.anker.com/products/a1229",
+      "source_kind": "sitemap_products"
+    },
+    {
+      "id": "anker-anker-lt-b-gt-310-lt-b-gt-usb-c-adapter-4k-hdmi",
+      "brand_slug": "anker",
+      "brand_name": "Anker",
+      "title": "Anker &lt;b&gt;310&lt;/b&gt; USB-C Adapter (4K HDMI)",
+      "url": "https://www.anker.com/products/a8312",
+      "image": "https://cdn.shopify.com/s/files/1/0493/9834/9974/products/A83120A1-Anker_310_USB-C_Adapter_4K_HDMI.png?v=1672495014",
+      "price": 16.99,
+      "currency": "USD",
+      "availability": "https://schema.org/InStock",
+      "source_url": "https://www.anker.com/products/a8312",
       "source_kind": "sitemap_products"
     },
     {
@@ -1636,6 +1636,19 @@
       "source_kind": "products_json"
     },
     {
+      "id": "xtool-glowing-christmas-tree-pack-51513051676911",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "Glowing Christmas Tree Pack - Metal Adjustable Table Lamp Base",
+      "url": "https://www.xtool.com/products/glowing-christmas-tree-pack",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/ChristmasCapsuleMachinePack-1.png?v=1794539803",
+      "price": 10.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "xtool-material-printable-transparent-sticker-paper-51509094711535",
       "brand_slug": "xtool",
       "brand_name": "xTool",
@@ -1773,19 +1786,6 @@
       "url": "https://www.xtool.com/products/xtool-c1-deep-point-replacement-blades",
       "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/6b4c0fa8-d89b-41ef-ae6c-dfdca5c73626.webp?v=1794294379",
       "price": 39.0,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "xtool-xtool-c1-fine-point-replacement-blades-51482248773871",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "xTool C1 Fine-Point Replacement Blades - Default Title",
-      "url": "https://www.xtool.com/products/xtool-c1-fine-point-replacement-blades",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/1e400544-b4bf-4f07-a35d-331e76ee3682.webp?v=1794294318",
-      "price": 29.0,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
