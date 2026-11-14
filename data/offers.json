@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T19:42:10Z",
+  "generated_at": "2026-11-14T06:23:34Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -391,7 +391,7 @@
       "brand_name": "xTool",
       "title": "xTool Apparel Printer/Plus CMYK 4-Color Ink Set - Default Title",
       "url": "https://www.xtool.com/products/xtool-apparel-printer-plus-cmyk-4-color-ink-set",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/AP.jpg?v=1794580179",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/AP_dc2e71d7-1d99-4b88-9da7-fd7fd647ae92.jpg?v=1794628008",
       "price": 138.0,
       "currency": "USD",
       "availability": "InStock",
@@ -1636,6 +1636,32 @@
       "source_kind": "products_json"
     },
     {
+      "id": "xtool-material-black-foldable-reusable-grocery-tote-bag5pcs-51518774411503",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "Foldable Reusable Grocery Tote Bag (5pcs) - Black",
+      "url": "https://www.xtool.com/products/material-black-foldable-reusable-grocery-tote-bag5pcs",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/black-foldable-reusable-grocery-tote-bag-01.png?v=1794625290",
+      "price": 9.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "xtool-material-magnetic-black-phone-case-with-uv-printable-interchangeable-back",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "Magnetic Black Phone Case with UV Printable Interchangeable Back - 16 Pro",
+      "url": "https://www.xtool.com/products/material-magnetic-black-phone-case-with-uv-printable-interchangeable-back",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/magnetic-black-phone-case-with-uv-printable-interchangeable-01_97922742-0619-44ac-aebd-05514a09e47d.png?v=1794624961",
+      "price": 14.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "xtool-material-black-canvas-tote-bag-with-an-external-pocket-1pcs-51518581670127",
       "brand_slug": "xtool",
       "brand_name": "xTool",
@@ -1760,32 +1786,6 @@
       "url": "https://www.xtool.com/products/material-8-3-11-7-glossy-printable-magnet-sheets-8pcs",
       "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/01-1.png?v=1794472158",
       "price": 14.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "xtool-xtool-c1-color-cutter-51412836450543",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "xTool C1 Color Cutter - C1 Color Cutter Basic + Atomm Membership",
-      "url": "https://www.xtool.com/products/xtool-c1-color-cutter",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-c1_us_pc_c1_3849-1673_ab88c554-8ac7-445e-a703-2f6bcd542ec3.webp?v=1794284263",
-      "price": 399.0,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "xtool-final-payment-xtool-c1-color-cutter-test-51211756503279",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "[Final Payment] xTool C1 Color Cutter - C1 Color Cutter Basic + Atomm Membership",
-      "url": "https://www.xtool.com/products/final-payment-xtool-c1-color-cutter-test",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-c1_us_pc_c1_3849-1673_ab88c554-8ac7-445e-a703-2f6bcd542ec3.webp?v=1794284263",
-      "price": 389.0,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
