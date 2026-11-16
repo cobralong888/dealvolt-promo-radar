@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T18:51:29Z",
+  "generated_at": "2026-11-16T06:29:48Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -1636,6 +1636,19 @@
       "source_kind": "products_json"
     },
     {
+      "id": "xtool-xtool-x1-calibration-sheet-51544881004783",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "xTool X1 Calibration sheet - Default Title",
+      "url": "https://www.xtool.com/products/xtool-x1-calibration-sheet",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/16cfeea3-f853-4b98-a763-3957e0fb3ac1.webp?v=1794794340",
+      "price": 19.0,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "xtool-material-black-foldable-reusable-grocery-tote-bag5pcs-51518774411503",
       "brand_slug": "xtool",
       "brand_name": "xTool",
@@ -1773,19 +1786,6 @@
       "url": "https://www.xtool.com/products/material-holographic-printable-magnet-sheets-8pcs",
       "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/92.png?v=1794475568",
       "price": 16.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "xtool-material-8-3-11-7-glossy-printable-magnet-sheets-8pcs-51352090575087",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "Printable Magnet Sheets with C1 Auto Setting (8pcs) - Matte",
-      "url": "https://www.xtool.com/products/material-8-3-11-7-glossy-printable-magnet-sheets-8pcs",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/01-1.png?v=1794472158",
-      "price": 14.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
