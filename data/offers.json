@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T19:16:16Z",
+  "generated_at": "2026-11-22T06:47:57Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -877,7 +877,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/20261105-153709.jpg?v=1793864298",
       "price": 9.99,
       "currency": "USD",
-      "availability": "InStock",
+      "availability": "OutOfStock",
       "source_url": "https://momcozy.com/products.json?limit=250",
       "source_kind": "products_json"
     },
