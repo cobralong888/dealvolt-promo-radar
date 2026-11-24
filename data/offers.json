@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T23:54:12Z",
+  "generated_at": "2026-11-24T09:55:03Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -60,7 +60,7 @@
       "source_status": "ok",
       "promo": [],
       "deal_count": 0,
-      "product_count": 2
+      "product_count": 10
     },
     {
       "slug": "eufy",
@@ -1090,6 +1090,110 @@
       "source_kind": "sitemap_products"
     },
     {
+      "id": "ninja-filter-kit",
+      "brand_slug": "ninja",
+      "brand_name": "Ninja",
+      "title": "Filter Kit",
+      "url": "https://www.sharkninja.com/filter-kit/XF22.html",
+      "image": "https://assets.sharkninja.com/image/upload/f_auto/q_auto/SharkNinja-NA/XF22_01.jpg",
+      "price": 28.99,
+      "currency": "USD",
+      "availability": "http://schema.org/InStock",
+      "source_url": "https://www.sharkninja.com/filter-kit/XF22.html",
+      "source_kind": "sitemap_products"
+    },
+    {
+      "id": "ninja-ninja-6-5-qt-air-fryer-pro-in-stone-gold",
+      "brand_slug": "ninja",
+      "brand_name": "Ninja",
+      "title": "Ninja 6.5-QT Air Fryer Pro in Stone Gold",
+      "url": "https://www.sharkninja.com/ninja-air-fryer-pro-xl-6-in-1-stone-gold/AF181SD.html",
+      "image": "https://assets.sharkninja.com/image/upload/f_auto/q_auto/SharkNinja-NA/AF181SD_01.jpg",
+      "price": 179.99,
+      "currency": "USD",
+      "availability": "https://schema.org/InStock",
+      "source_url": "https://www.sharkninja.com/ninja-air-fryer-pro-xl-6-in-1/AF181.html",
+      "source_kind": "sitemap_products"
+    },
+    {
+      "id": "ninja-multi-purpose-pan-for-ninja-cooking-system",
+      "brand_slug": "ninja",
+      "brand_name": "Ninja",
+      "title": "Multi Purpose Pan for Ninja Cooking System",
+      "url": "https://www.sharkninja.com/multi-purpose-pan-for-ninja-cooking-system/AMC01.html",
+      "image": "https://assets.sharkninja.com/image/upload/f_auto/q_auto/SharkNinja-NA/AMC01_01.jpg",
+      "price": 23.99,
+      "currency": "USD",
+      "availability": "http://schema.org/OutOfStock",
+      "source_url": "https://www.sharkninja.com/multi-purpose-pan-for-ninja-cooking-system/AMC01.html",
+      "source_kind": "sitemap_products"
+    },
+    {
+      "id": "ninja-roasting-lifters",
+      "brand_slug": "ninja",
+      "brand_name": "Ninja",
+      "title": "Roasting Lifters",
+      "url": "https://www.sharkninja.com/roasting-lifters/AMC06.html",
+      "image": "https://assets.sharkninja.com/image/upload/f_auto/q_auto/SharkNinja-NA/AMC06_01.jpg",
+      "price": 16.99,
+      "currency": "USD",
+      "availability": "http://schema.org/InStock",
+      "source_url": "https://www.sharkninja.com/roasting-lifters/AMC06.html",
+      "source_kind": "sitemap_products"
+    },
+    {
+      "id": "ninja-ninja-spatula",
+      "brand_slug": "ninja",
+      "brand_name": "Ninja",
+      "title": "Ninja Spatula",
+      "url": "https://www.sharkninja.com/ninja-spatula/AMC14.html",
+      "image": "https://assets.sharkninja.com/image/upload/f_auto/q_auto/SharkNinja-NA/AMC14_01.jpg",
+      "price": 8.99,
+      "currency": "USD",
+      "availability": "http://schema.org/OutOfStock",
+      "source_url": "https://www.sharkninja.com/ninja-spatula/AMC14.html",
+      "source_kind": "sitemap_products"
+    },
+    {
+      "id": "ninja-ninja-spoon",
+      "brand_slug": "ninja",
+      "brand_name": "Ninja",
+      "title": "Ninja Spoon",
+      "url": "https://www.sharkninja.com/ninja-spoon/AMC15.html",
+      "image": "https://assets.sharkninja.com/image/upload/f_auto/q_auto/SharkNinja-NA/AMC15_01.jpg",
+      "price": 8.99,
+      "currency": "USD",
+      "availability": "http://schema.org/OutOfStock",
+      "source_url": "https://www.sharkninja.com/ninja-spoon/AMC15.html",
+      "source_kind": "sitemap_products"
+    },
+    {
+      "id": "ninja-ninja-mini-warmer-cooking-system",
+      "brand_slug": "ninja",
+      "brand_name": "Ninja",
+      "title": "Ninja Mini Warmer - Cooking System",
+      "url": "https://www.sharkninja.com/ninja-mini-warmer---cooking-system/AMC17.html",
+      "image": "https://assets.sharkninja.com/image/upload/f_auto/q_auto/SharkNinja-NA/AMC17_01.jpg",
+      "price": 39.99,
+      "currency": "USD",
+      "availability": "http://schema.org/OutOfStock",
+      "source_url": "https://www.sharkninja.com/ninja-mini-warmer---cooking-system/AMC17.html",
+      "source_kind": "sitemap_products"
+    },
+    {
+      "id": "ninja-roasting-rack-for-your-cooking-system",
+      "brand_slug": "ninja",
+      "brand_name": "Ninja",
+      "title": "Roasting Rack for your Cooking System",
+      "url": "https://www.sharkninja.com/roasting-rack-for-your-cooking-system/AMC20.html",
+      "image": "https://assets.sharkninja.com/image/upload/f_auto/q_auto/SharkNinja-NA/AMC20_01.jpg",
+      "price": 13.99,
+      "currency": "USD",
+      "availability": "http://schema.org/InStock",
+      "source_url": "https://www.sharkninja.com/roasting-rack-for-your-cooking-system/AMC20.html",
+      "source_kind": "sitemap_products"
+    },
+    {
       "id": "eufy-entry-sensor",
       "brand_slug": "eufy",
       "brand_name": "eufy",
@@ -1397,7 +1501,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/QrevoSProbundle.png?v=1793870693",
       "price": 476.98,
       "currency": "USD",
-      "availability": "OutOfStock",
+      "availability": "InStock",
       "source_url": "https://us.roborock.com/products.json?limit=250",
       "source_kind": "products_json"
     },
@@ -1423,7 +1527,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Q10S5_bundle_575c097f-b2a3-416d-848a-341613d8c1ec.png?v=1793877117",
       "price": 341.98,
       "currency": "USD",
-      "availability": "OutOfStock",
+      "availability": "InStock",
       "source_url": "https://us.roborock.com/products.json?limit=250",
       "source_kind": "products_json"
     },
@@ -1529,6 +1633,19 @@
       "currency": "USD",
       "availability": "OutOfStock",
       "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
+      "id": "xtool-xtool-ra3-ra3-lite-intelligent-rotary-engraving-for-rings-tumblers-ornamen",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "【Refurbished】xTool RA3 & RA3 Lite: Intelligent Rotary Engraving for Rings, Tumblers & Ornaments - RA3 for X1/P3/F Series",
+      "url": "https://www.xtool.com/products/xtool-ra3-ra3-lite-intelligent-rotary-engraving-for-rings-tumblers-ornaments",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/mk-ra3_us_pc_01_676-132.webp?v=1757410621",
+      "price": 279.0,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
       "source_kind": "products_json"
     },
     {
@@ -1669,19 +1786,6 @@
       "url": "https://www.xtool.com/products/material-assorted-colors-3d-thick-heat-transfer-vinyl-10pcs",
       "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/12x12-assorted-colors-3d-thick-heat-transfer-vinyl-10pcs-01.png?v=1795091466",
       "price": 18.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "xtool-material-dura-printable-matte-sticker-paper-with-c1-auto-setting-515847628",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "DURA Printable Matte Sticker Paper with C1 Auto Setting - 10pcs",
-      "url": "https://www.xtool.com/products/material-dura-printable-matte-sticker-paper-with-c1-auto-setting",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/12x12-dura-printable-matte-sticker-paper-10pcs-01.png?v=1795090655",
-      "price": 6.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
