@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T21:42:10Z",
+  "generated_at": "2026-11-26T08:18:08Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -206,21 +206,6 @@
       "discount_pct": 77
     },
     {
-      "id": "roborock-roborock-q7-max-39673150636150",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock Q7 Max Robot Vacuum and Mop with 4200 Pa Power Suction - Black",
-      "url": "https://us.roborock.com/products/roborock-q7-max",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/11_3-tuya_f56a675b-8adb-46b6-8d50-937e06858fc9.jpg?v=1725036459",
-      "price": 159.99,
-      "currency": "USD",
-      "availability": "OutOfStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 599.99,
-      "discount_pct": 73
-    },
-    {
       "id": "roborock-certified-refurbished-90-new-roborock-s7-max-ultra-robot-vacuum-with-ro",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
@@ -326,21 +311,6 @@
       "discount_pct": 63
     },
     {
-      "id": "roborock-roborock-q7-max-plus-39673154142326",
-      "brand_slug": "roborock",
-      "brand_name": "Roborock",
-      "title": "Roborock Q7 Max+ Robot Vacuum with Auto-Empty Dock Pure - White",
-      "url": "https://us.roborock.com/products/roborock-q7-max-plus",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/1-tuya_bb8d6235-b4e9-4ade-b115-6ee05acf0d17.jpg?v=1725036417",
-      "price": 329.99,
-      "currency": "USD",
-      "availability": "OutOfStock",
-      "source_url": "https://us.roborock.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 869.99,
-      "discount_pct": 62
-    },
-    {
       "id": "roborock-roborock-dyad-pro-combo-5-in-1-vacuum-cleaner-40137606332534",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
@@ -369,6 +339,36 @@
       "source_kind": "products_json",
       "compare_at": 1399.99,
       "discount_pct": 61
+    },
+    {
+      "id": "roborock-certified-refurbished-90-new-roborock-qrevo-pro-robot-vacuum-with-multi",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "【Certified Refurbished 90% New】Roborock Qrevo Pro Robot Vacuum with Multifunctional Dock 2.0 - White",
+      "url": "https://us.roborock.com/products/certified-refurbished-90-new-roborock-qrevo-pro-robot-vacuum-with-multifunctional-dock-2-0",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Qrevo_Pro_W.png?v=1789886884",
+      "price": 399.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 999.99,
+      "discount_pct": 60
+    },
+    {
+      "id": "roborock-roborock-q10-s5-plus-42224142909558",
+      "brand_slug": "roborock",
+      "brand_name": "Roborock",
+      "title": "Roborock Q10 S5+ Robot Vacuum and Mop with Auto-Empty Dock - Black",
+      "url": "https://us.roborock.com/products/roborock-q10-s5-plus",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Q10S55_53160a9d-02e0-49ad-9329-bf8b8940fbd6.jpg?v=1793430574",
+      "price": 229.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://us.roborock.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 549.99,
+      "discount_pct": 58
     },
     {
       "id": "momcozy-momcozy-seamless-tummy-shapewear-panties-postpartum-daily-dress-44782073",
@@ -783,7 +783,7 @@
       "brand_name": "Momcozy",
       "title": "Momcozy AirMesh Chic Nursing Bra - Hazy Pink / S",
       "url": "https://momcozy.com/products/fb096",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/20261125-184706.webp?v=1795603696",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/1200-1498_e4df4563-5237-40dd-958c-fc91f6528184.jpg?v=1795675911",
       "price": 59.99,
       "currency": "USD",
       "availability": "OutOfStock",
@@ -835,7 +835,7 @@
       "brand_name": "Momcozy",
       "title": "Momcozy Lactation Cookies - 10pcs",
       "url": "https://momcozy.com/products/momcozy-lactation-cookies",
-      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/01-10LactationCookies.webp?v=1794985280",
+      "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/02-20pcsLactationCookies_f3044613-8e6c-4a77-8627-24cba5cfe8eb.webp?v=1795680289",
       "price": 16.99,
       "currency": "USD",
       "availability": "InStock",
@@ -1636,6 +1636,19 @@
       "source_kind": "products_json"
     },
     {
+      "id": "xtool-m2-adapter-kit-for-ra3-50228942733551",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "M2 Adapter Kit for RA3 - Default Title",
+      "url": "https://www.xtool.com/products/m2-adapter-kit-for-ra3",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/adbd64503fcd5abaff264259d2f44cad_fb2b901e-e89a-4fad-9357-63126a3cf632.png?v=1784874420",
+      "price": 19.9,
+      "currency": "USD",
+      "availability": "OutOfStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "xtool-material-lightgrip-cutting-mat-for-c1-3pcs-51632411836655",
       "brand_slug": "xtool",
       "brand_name": "xTool",
@@ -1779,19 +1792,6 @@
       "source_kind": "products_json"
     },
     {
-      "id": "xtool-material-m4-8-and-m4-10-chicago-screws-kit-40-sets-51580535963887",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "M4×8 and M4×10 Chicago Screws Kit (40 Sets) - Default Title",
-      "url": "https://www.xtool.com/products/material-m4-8-and-m4-10-chicago-screws-kit-40-sets",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/m4x8-and-m4x10-chicago-screws-kit-40sets-01.png?v=1795169116",
-      "price": 6.99,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
       "id": "ringconn-the-one-ring-49358754251060",
       "brand_slug": "ringconn",
       "brand_name": "RingConn",
@@ -1823,7 +1823,7 @@
       "brand_name": "RingConn",
       "title": "RingConn Gen 3 Gift Card - Default Title",
       "url": "https://ringconn.com/products/ringconn-gen-3-gift-card",
-      "image": "https://cdn.shopify.com/s/files/1/0850/1769/0420/files/RingConn_Gen_3_Gift_Card_264a5623-9b78-4805-b5ed-3dd6fbb11fa6.webp?v=1793762130",
+      "image": "https://cdn.shopify.com/s/files/1/0850/1769/0420/files/RingConn_Gen_3_Gift_Card_264a5623-9b78-4805-b5ed-3dd6fbb11fa6.webp?v=1795663592",
       "price": 369.0,
       "currency": "USD",
       "availability": "InStock",
