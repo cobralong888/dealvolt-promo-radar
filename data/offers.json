@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T08:33:49Z",
+  "generated_at": "2026-11-27T21:17:51Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -356,19 +356,19 @@
       "discount_pct": 60
     },
     {
-      "id": "roborock-roborock-q10-s5-plus-42224142909558",
+      "id": "roborock-roborock-f25-alt-wet-and-dry-vacuum-cleaner-42612213612662",
       "brand_slug": "roborock",
       "brand_name": "Roborock",
-      "title": "Roborock Q10 S5+ Robot Vacuum and Mop with Auto-Empty Dock - Black",
-      "url": "https://us.roborock.com/products/roborock-q10-s5-plus",
-      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Q10S55_53160a9d-02e0-49ad-9329-bf8b8940fbd6.jpg?v=1793430574",
-      "price": 229.99,
+      "title": "Roborock F25 ALT Wet and Dry Vacuum Cleaner - F25 ALT",
+      "url": "https://us.roborock.com/products/roborock-f25-alt-wet-and-dry-vacuum-cleaner",
+      "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/F25_ALT_Set_dc9fa177-0725-4745-9763-4a3ca327f35d.jpg?v=1761122877",
+      "price": 199.99,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://us.roborock.com/products.json?limit=250",
       "source_kind": "products_json",
-      "compare_at": 549.99,
-      "discount_pct": 58
+      "compare_at": 499.99,
+      "discount_pct": 60
     },
     {
       "id": "momcozy-momcozy-seamless-tummy-shapewear-panties-postpartum-daily-dress-44782073",
@@ -399,6 +399,21 @@
       "source_kind": "products_json",
       "compare_at": 312.0,
       "discount_pct": 56
+    },
+    {
+      "id": "ringconn-ringconn-gen-2-rose-gold-48458050273588",
+      "brand_slug": "ringconn",
+      "brand_name": "RingConn",
+      "title": "RingConn Gen 2 – Rose Gold Edition - Rose Gold / 6",
+      "url": "https://ringconn.com/products/ringconn-gen-2-rose-gold",
+      "image": "https://cdn.shopify.com/s/files/1/0850/1769/0420/files/03_8157da8a-60a9-4d8e-8ee4-ce1b10b67b13.png?v=1780302350",
+      "price": 199.5,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://ringconn.com/products.json?limit=250",
+      "source_kind": "products_json",
+      "compare_at": 399.0,
+      "discount_pct": 50
     },
     {
       "id": "momcozy-wellness-1-warm-massage-breast-pump-replacement-storagebag-4827543578234",
@@ -671,12 +686,12 @@
       "discount_pct": 30
     },
     {
-      "id": "xtool-material-black-walnut-award-plaque-with-emblem-50660416815343",
+      "id": "xtool-material-2lb-candle-making-kit-with-wax-melter-50798630240495",
       "brand_slug": "xtool",
       "brand_name": "xTool",
-      "title": "Black Walnut Award Plaque with Emblem - Default Title",
-      "url": "https://www.xtool.com/products/material-black-walnut-award-plaque-with-emblem",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/black-walnut-award-plaque-with-emblem-04.webp?v=1788517313",
+      "title": "2lb Candle Making Kit with Wax Melter - 10lb Soy Candle Wax",
+      "url": "https://www.xtool.com/products/material-2lb-candle-making-kit-with-wax-melter",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/01_533ad297-3a32-4590-b1bb-31491b4d496a.png?v=1790215350",
       "price": 37.09,
       "currency": "USD",
       "availability": "InStock",
@@ -744,21 +759,6 @@
       "source_kind": "products_json",
       "compare_at": 59.99,
       "discount_pct": 29
-    },
-    {
-      "id": "ringconn-ringconn-gen-2-rose-gold-48458050273588",
-      "brand_slug": "ringconn",
-      "brand_name": "RingConn",
-      "title": "RingConn Gen 2 – Rose Gold Edition - Rose Gold / 6",
-      "url": "https://ringconn.com/products/ringconn-gen-2-rose-gold",
-      "image": "https://cdn.shopify.com/s/files/1/0850/1769/0420/files/03_8157da8a-60a9-4d8e-8ee4-ce1b10b67b13.png?v=1780302350",
-      "price": 399.0,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://ringconn.com/products.json?limit=250",
-      "source_kind": "products_json",
-      "compare_at": 469.0,
-      "discount_pct": 15
     },
     {
       "id": "ringconn-ringconn-gen-3-gift-card-49025780515124",
@@ -941,7 +941,7 @@
       "id": "momcozy-momcozy-breastfeeding-essentials-newmom-caregiftset-48264642691270",
       "brand_slug": "momcozy",
       "brand_name": "Momcozy",
-      "title": "Momcozy FOR MAMA New Mom Care Gift Set - Default Title",
+      "title": "Momcozy Baby Registry Gift Box for New Moms (15-Piece) | Self-Care & Lactation Relief - Default Title",
       "url": "https://momcozy.com/products/momcozy-breastfeeding-essentials-newmom-caregiftset",
       "image": "https://cdn.shopify.com/s/files/1/0559/2321/2486/files/1_3888fd11-cbbb-440e-afa4-389596f8abd7.webp?v=1795244986",
       "price": 89.99,
@@ -1666,6 +1666,19 @@
       "source_kind": "products_json"
     },
     {
+      "id": "xtool-material-uv-printable-interchangeable-back-clear-phone-case-with-metal-rin",
+      "brand_slug": "xtool",
+      "brand_name": "xTool",
+      "title": "UV Printable Interchangeable Back Clear Phone Case with Metal Ring - 16",
+      "url": "https://www.xtool.com/products/material-uv-printable-interchangeable-back-clear-phone-case-with-metal-ring",
+      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/uv-printable-interchangeable-back-clear-phone-case-with-01.png?v=1795687761",
+      "price": 9.99,
+      "currency": "USD",
+      "availability": "InStock",
+      "source_url": "https://www.xtool.com/products.json?limit=250",
+      "source_kind": "products_json"
+    },
+    {
       "id": "xtool-material-assorted-colors-thick-glitter-permanent-vinyl-8pcs-51635864207599",
       "brand_slug": "xtool",
       "brand_name": "xTool",
@@ -1803,19 +1816,6 @@
       "url": "https://www.xtool.com/products/cutting-module",
       "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/img_v3_0217i_3a2788b0-403a-4b4b-bf0d-55df08fe951g.png?v=1795403182",
       "price": 33.16,
-      "currency": "USD",
-      "availability": "InStock",
-      "source_url": "https://www.xtool.com/products.json?limit=250",
-      "source_kind": "products_json"
-    },
-    {
-      "id": "xtool-carriage-controller-board-51621363974383",
-      "brand_slug": "xtool",
-      "brand_name": "xTool",
-      "title": "carriage controller board - Default Title",
-      "url": "https://www.xtool.com/products/carriage-controller-board",
-      "image": "https://cdn.shopify.com/s/files/1/0467/7985/9095/files/img_v3_0217i_1c09a042-3be2-4c1f-bf2c-1cd9381cdabg.png?v=1795403016",
-      "price": 256.06,
       "currency": "USD",
       "availability": "InStock",
       "source_url": "https://www.xtool.com/products.json?limit=250",
