@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T21:17:51Z",
+  "generated_at": "2026-11-28T07:49:14Z",
   "meta": {
     "brand": "DealVolt",
     "tagline": "Real prices and real promo entries for home appliance and consumer electronics brands",
@@ -274,7 +274,7 @@
       "image": "https://cdn.shopify.com/s/files/1/0082/3666/2902/files/Vivian_M_Set_189b08cc-1e62-49a5-85ce-bd989fd1cd2a.jpg?v=1757903453",
       "price": 599.99,
       "currency": "USD",
-      "availability": "InStock",
+      "availability": "OutOfStock",
       "source_url": "https://us.roborock.com/products.json?limit=250",
       "source_kind": "products_json",
       "compare_at": 1599.99,
